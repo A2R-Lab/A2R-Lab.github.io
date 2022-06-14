@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A²R Lab</title>
+    <link>https://a2r-lab.github.io/authors/levgrossman/</link>
+    <description>Recent content on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/levgrossman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reinforcement Learning to Enable Robust Robotic Model Predictive Control</title>
+      <link>https://a2r-lab.github.io/publication/levthesis/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/levthesis/</guid>
+      <description>This thesis proposes a novel algorithm, “Reference-Guided, Value-Based MPC,” which combines model predictive control (MPC) and reinforcement learning (RL) to compute feasible trajectories for a robotic arm. The algorithm does this while 1) achieving an almost 50% higher planning success rate than standard MPC, 2) solving in sparse environments considered unsolvable by current state of the art algorithms, and 3) generalizing its solutions to different environment initializations.</description>
+    </item>
+    
+  </channel>
+</rss>

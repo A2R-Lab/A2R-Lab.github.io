@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware Acceleration on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
+    <description>Recent content in Hardware Acceleration on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/hardware-acceleration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RobotCore: An Open Architecture for Hardware Acceleration in ROS 2</title>
+      <link>https://a2r-lab.github.io/publication/robotcore/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/robotcore/</guid>
+      <description>We introduce RobotCore, an architecture to integrate hardware acceleration in the widely-used ROS 2 robotics software framework. This architecture is target-agnostic (supports edge, workstation, data center, or cloud targets) and accelerator-agnostic (supports both FPGAs and GPUs). It builds on top of the common ROS 2 build system and tools and is easily portable across different research and commercial solutions through a new firmware layer. We also leverage the Linux Tracing Toolkit next generation (LTTng) for low-overhead real-time tracing and benchmarking. To demonstrate the acceleration enabled by this architecture, we design an intra-FPGA ROS 2 node communication queue to enable faster data flows, and use it in conjunction with FPGA-accelerated nodes to achieve a 24.42% speedup over a CPU.</description>
+    </item>
+    
+    <item>
+      <title>GRiD: GPU-Accelerated Rigid Body Dynamics with Analytical Gradients</title>
+      <link>https://a2r-lab.github.io/publication/grid/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/grid/</guid>
+      <description>We introduce and release GRiD, an open-source, GPU-accelerated library for computing rigid body dynamics with analytical gradients. GRiD was designed to accelerate nonlinear trajectory optimization through optimized code generation, GRiD provides as much as a 7.2x speedup over a state-of-the-art, multi-threaded CPU implementation and maintains as much as a 2.5x speedup when accounting for I/O overhead.</description>
+    </item>
+    
+    <item>
+      <title>Robomorphic Computing: A Design Methodology for Domain-Specific Accelerators Parameterized by Robot Morphology</title>
+      <link>https://a2r-lab.github.io/publication/robomorphic/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/robomorphic/</guid>
+      <description>We introduce robomorphic computing; a methodology to transform robot morphology into a customized hardware accelerator morphology. In this work, we (i) present this design methodology; (ii) use the methodology to generate a parameterized accelerator design for the gradient of rigid body dynamics; (iii) evaluate FPGA and synthesized ASIC implementations; and (iv) describe how the design can be automatically customized for other robot models. Our FPGA accelerator achieves speedups of 8x and 86x over CPU and GPU latency, and maintains an overall speedup of 1.9x to 2.9x deployed in an end-to-end coprocessor system. ASIC synthesis indicates an additional factor of 7.2x.</description>
+    </item>
+    
+    <item>
+      <title>Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA</title>
+      <link>https://a2r-lab.github.io/publication/accellrbdgrad/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/accellrbdgrad/</guid>
+      <description>In this paper, we detail the designs of three faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. Our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over our optimized CPU implementation by refactoring the algorithm to exploit its computational features, e.g., parallelism at different granularities.</description>
+    </item>
+    
+  </channel>
+</rss>

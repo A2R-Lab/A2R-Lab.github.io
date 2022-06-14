@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Control on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/control/</link>
+    <description>Recent content in Control on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/control/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COMS-3997-F22: Introduction to Robotics Engineering from Bits to Electrons</title>
+      <link>https://a2r-lab.github.io/courses/coms-3997-f22/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/coms-3997-f22/</guid>
+      <description>Robots are cyber-physical systems – leveraging computational intelligence to sense and interact with the real world. As such, robotics is a very diverse, cross-disciplinary field. This introductory course exposes learners to the vast opportunities and challenges posed by the interdisciplinary nature of robotics. While grounded and focused in computation this course also explores hands-on electromechanical and ethical topics that are an integral part of a real-world robotic system. Topics will include: a survey of the algorithmic robotics pipeline (perception, mapping, localization, planning, control, and learning), an introduction to cyber-physical system design, and responsible AI. The course will culminate in a team-based final project.</description>
+    </item>
+    
+    <item>
+      <title>Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry</title>
+      <link>https://a2r-lab.github.io/courses/mtgrss22/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/mtgrss22/</guid>
+      <description>Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry is aimed at bridging the gap between academia and industry. For researchers, this workshop will help lift the curtain on the realities of academic to industry tech transfer. For industry experts, this workshop provides an opportunity to influence the direction of academic research. For both, we hope to provide an venue for integrated dialogue and identification of new potential collaborations.</description>
+    </item>
+    
+    <item>
+      <title>Harvard CS249r: Special Topics in Edge Computing - Autonomous Machines</title>
+      <link>https://a2r-lab.github.io/courses/cs249r_autonomous/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/cs249r_autonomous/</guid>
+      <description>Modern embedded systems are intelligent devices that involve complex hardware and software to perform a multitude of cognitive functions collaboratively. Designing such systems requires us to have deep understanding of the target application domains, as well as an appreciation for the coupling between the hardware and the software subsystems.This course is structured around building “systems” for Autonomous Machines (cars, drones, ground robots, manipulators, etc.). For example, we will discuss what are all the hardware and software components that are involved in developing the intelligence required for an autonomous car?</description>
+    </item>
+    
+  </channel>
+</rss>

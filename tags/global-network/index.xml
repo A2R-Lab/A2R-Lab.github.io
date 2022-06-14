@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Global Network on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/global-network/</link>
+    <description>Recent content in Global Network on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/global-network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TinyMLedu: The Tiny Machine Learning Open Education Initiative</title>
+      <link>https://a2r-lab.github.io/publication/tinymledu/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/tinymledu/</guid>
+      <description>&lt;a href=&#34;https://tinymledu.org&#34;&gt;TinyMLedu&lt;/a&gt; is working to build an international coalition of researchers and practitioners advancing TinyML in the developing world, and to develop and share high-quality, open-access educational materials globally.</description>
+    </item>
+    
+  </channel>
+</rss>

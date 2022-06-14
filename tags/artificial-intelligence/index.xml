@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/artificial-intelligence/</link>
+    <description>Recent content in Artificial Intelligence on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EASI-22: Edge AI Summer Institute</title>
+      <link>https://a2r-lab.github.io/courses/easi-22/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/easi-22/</guid>
+      <description>EASI-22 was a 3-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence at the edge through hands-on examples of Tiny Machine Learning (TinyML). This program was a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, and Barnard College, Columbia University.</description>
+    </item>
+    
+    <item>
+      <title>SciTinyML-22: Scientific Use of Machine Learning on Low-Power Devices</title>
+      <link>https://a2r-lab.github.io/courses/scitinyml-22/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/scitinyml-22/</guid>
+      <description>SciTinyML-22 was a, five day, hands-on, virtual workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using embedded hardware devices. SciTinyML-22 was run regionally with seperate workshops for Africa (187 participants from 29 countries), Asia, and Latin America. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, and TinyMLedu.</description>
+    </item>
+    
+    <item>
+      <title>SciTinyML-21: Scientific Use of Machine Learning on Low-Power Devices</title>
+      <link>https://a2r-lab.github.io/courses/scitinyml-21/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/scitinyml-21/</guid>
+      <description>SciTinyML-21 was a, five day, hands-on, virtual, global (216 participants from 48 countries) workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using the Edge Impulse cloud platform and a smartphone. This program was a collaboration between the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, and TinyML4D.</description>
+    </item>
+    
+    <item>
+      <title>CRESTLEX 3.0 - CReating Effective STem Learning EXperiences</title>
+      <link>https://a2r-lab.github.io/courses/crestlex/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/crestlex/</guid>
+      <description>CRESTLEX 3.0 was a first-of-its-kind, 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of Tiny Machine Learning (TinyML). This program was a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, Google, and Edge Impulse.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A²R Lab</title>
+    <link>https://a2r-lab.github.io/authors/arielanders/</link>
+    <description>Recent content on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/arielanders/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project-based, collaborative, algorithmic robotics for high school students: Programming self-driving race cars at MIT</title>
+      <link>https://a2r-lab.github.io/publication/racecarteaching/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/racecarteaching/</guid>
+      <description>We describe the pedagogy behind the MIT Beaver Works Summer Institute Robotics Program, a new high-school STEM program in robotics. The program utilizes state-of-the-art sensors and embedded computers for mobile robotics. The program was offered as a four-week residential program at MIT in the summer of 2016.</description>
+    </item>
+    
+  </channel>
+</rss>

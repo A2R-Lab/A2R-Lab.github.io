@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A²R Lab</title>
+    <link>https://a2r-lab.github.io/authors/bardienusduisterhof/</link>
+    <description>Recent content on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/bardienusduisterhof/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots</title>
+      <link>https://a2r-lab.github.io/publication/tinyrobotlearning/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/tinyrobotlearning/</guid>
+      <description>Tiny robot learning lies at the intersection of embedded systems, robotics, and ML, compounding the challenges of these domains. This paper gives a brief survey of the tiny robot learning space, elaborates on key challenges, and proposes promising opportunities for future work in ML system design.</description>
+    </item>
+    
+  </channel>
+</rss>

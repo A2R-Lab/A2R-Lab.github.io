@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on A²R Lab</title>
+    <link>https://a2r-lab.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Widening Access to Applied Machine Learning with TinyML</title>
+      <link>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</guid>
+      <description>In this paper, we describe our pedagogical approach to increasing access to applied ML through a four part massive open online course (MOOC) on Tiny Machine Learning (TinyML) produced in collaboration between academia (Harvard University) and industry (Google). We suggest that TinyML, ML on resource-constrained embedded devices, is an attractive means to widen access because TinyML both leverages low-cost and globally accessible hardware, and encourages the development of complete, self-contained applications, from data collection to deployment. We also released the course materials publicly, hoping they will inspire the next generation of ML practitioners and educators and further broaden access to cutting-edge ML technologies.</description>
+    </item>
+    
+    <item>
+      <title>Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA</title>
+      <link>https://a2r-lab.github.io/publication/accellrbdgrad/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/accellrbdgrad/</guid>
+      <description>In this paper, we detail the designs of three faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. Our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over our optimized CPU implementation by refactoring the algorithm to exploit its computational features, e.g., parallelism at different granularities.</description>
+    </item>
+    
+  </channel>
+</rss>

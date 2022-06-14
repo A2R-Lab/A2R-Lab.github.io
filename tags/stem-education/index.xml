@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STEM Education on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/stem-education/</link>
+    <description>Recent content in STEM Education on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/stem-education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EASI-22: Edge AI Summer Institute</title>
+      <link>https://a2r-lab.github.io/courses/easi-22/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/easi-22/</guid>
+      <description>EASI-22 was a 3-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence at the edge through hands-on examples of Tiny Machine Learning (TinyML). This program was a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, and Barnard College, Columbia University.</description>
+    </item>
+    
+    <item>
+      <title>SciTinyML-22: Scientific Use of Machine Learning on Low-Power Devices</title>
+      <link>https://a2r-lab.github.io/courses/scitinyml-22/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/scitinyml-22/</guid>
+      <description>SciTinyML-22 was a, five day, hands-on, virtual workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using embedded hardware devices. SciTinyML-22 was run regionally with seperate workshops for Africa (187 participants from 29 countries), Asia, and Latin America. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, and TinyMLedu.</description>
+    </item>
+    
+    <item>
+      <title>TinyMLedu: The Tiny Machine Learning Open Education Initiative</title>
+      <link>https://a2r-lab.github.io/publication/tinymledu/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/tinymledu/</guid>
+      <description>&lt;a href=&#34;https://tinymledu.org&#34;&gt;TinyMLedu&lt;/a&gt; is working to build an international coalition of researchers and practitioners advancing TinyML in the developing world, and to develop and share high-quality, open-access educational materials globally.</description>
+    </item>
+    
+    <item>
+      <title>Widening Access to Applied Machine Learning with TinyML</title>
+      <link>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</guid>
+      <description>In this paper, we describe our pedagogical approach to increasing access to applied ML through a four part massive open online course (MOOC) on Tiny Machine Learning (TinyML) produced in collaboration between academia (Harvard University) and industry (Google). We suggest that TinyML, ML on resource-constrained embedded devices, is an attractive means to widen access because TinyML both leverages low-cost and globally accessible hardware, and encourages the development of complete, self-contained applications, from data collection to deployment. We also released the course materials publicly, hoping they will inspire the next generation of ML practitioners and educators and further broaden access to cutting-edge ML technologies.</description>
+    </item>
+    
+    <item>
+      <title>SciTinyML-21: Scientific Use of Machine Learning on Low-Power Devices</title>
+      <link>https://a2r-lab.github.io/courses/scitinyml-21/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/scitinyml-21/</guid>
+      <description>SciTinyML-21 was a, five day, hands-on, virtual, global (216 participants from 48 countries) workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using the Edge Impulse cloud platform and a smartphone. This program was a collaboration between the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, and TinyML4D.</description>
+    </item>
+    
+    <item>
+      <title>CRESTLEX 3.0 - CReating Effective STem Learning EXperiences</title>
+      <link>https://a2r-lab.github.io/courses/crestlex/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/crestlex/</guid>
+      <description>CRESTLEX 3.0 was a first-of-its-kind, 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of Tiny Machine Learning (TinyML). This program was a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, Google, and Edge Impulse.</description>
+    </item>
+    
+    <item>
+      <title>HarvardX: Tiny Machine Learning MOOC</title>
+      <link>https://a2r-lab.github.io/courses/tinymledx/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/tinymledx/</guid>
+      <description>In this exciting Professional Certificate program offered by Harvard University and Google TensorFlow, you will learn about the emerging field of Tiny Machine Learning (TinyML), its real-world applications, and the future possibilities of this transformative technology. TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance-constrained and power-constrained domain of embedded systems. The program will emphasize hands-on experience and is a collaboration between expert faculty at Harvard’s John A. Paulson School of Engineering and Applied Sciences (SEAS) and innovative members of Google’s TensorFlow team.</description>
+    </item>
+    
+    <item>
+      <title>Project-based, collaborative, algorithmic robotics for high school students: Programming self-driving race cars at MIT</title>
+      <link>https://a2r-lab.github.io/publication/racecarteaching/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/racecarteaching/</guid>
+      <description>We describe the pedagogy behind the MIT Beaver Works Summer Institute Robotics Program, a new high-school STEM program in robotics. The program utilizes state-of-the-art sensors and embedded computers for mobile robotics. The program was offered as a four-week residential program at MIT in the summer of 2016.</description>
+    </item>
+    
+  </channel>
+</rss>
