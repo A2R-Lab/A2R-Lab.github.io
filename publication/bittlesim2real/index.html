@@ -31,10 +31,10 @@
   
     
   
-  <meta name="description" content="Many emerging robotics use cases will require small, cheap robots that use embedded devices for computation. When compressing robotics algorithms to fit on these resource constrained computational devices, new challenges and opportunities emerge. We are working to unlock the full potential of these tiny robots by leverging insights from both computer architecture / embedded systems and robotics to custom tailor algorithmic solutions through hardware-software co-design.">
+  <meta name="description" content="As a step toward robust learning pipelines for these constrained robot platforms, we demonstrate how existing state-of-the-art imitation learning pipelines can be modified and augmented to support low-cost, limited hardware. By reducing our model’s observational space, leveraging TinyML to quantize our model, and adjusting the model outputs through post-processing, we are able to learn and deploy successful walking gaits on an 8-DoF, $299 (USD) toy quadruped robot that has reduced actuation and sensor feedback, as well as limited computing resources.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/projects/tinyrobots/">
+  <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/publication/bittlesim2real/">
 
   
 
@@ -101,7 +101,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://a2r-lab.github.io/projects/tinyrobots/">
+  <link rel="canonical" href="https://a2r-lab.github.io/publication/bittlesim2real/">
 
   
   
@@ -112,13 +112,14 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="A²R Lab">
-  <meta property="og:url" content="https://a2r-lab.github.io/projects/tinyrobots/">
-  <meta property="og:title" content="Tiny Robots | A²R Lab">
-  <meta property="og:description" content="Many emerging robotics use cases will require small, cheap robots that use embedded devices for computation. When compressing robotics algorithms to fit on these resource constrained computational devices, new challenges and opportunities emerge. We are working to unlock the full potential of these tiny robots by leverging insights from both computer architecture / embedded systems and robotics to custom tailor algorithmic solutions through hardware-software co-design."><meta property="og:image" content="https://a2r-lab.github.io/projects/tinyrobots/featured.jpeg">
+  <meta property="og:url" content="https://a2r-lab.github.io/publication/bittlesim2real/">
+  <meta property="og:title" content="Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms | A²R Lab">
+  <meta property="og:description" content="As a step toward robust learning pipelines for these constrained robot platforms, we demonstrate how existing state-of-the-art imitation learning pipelines can be modified and augmented to support low-cost, limited hardware. By reducing our model’s observational space, leveraging TinyML to quantize our model, and adjusting the model outputs through post-processing, we are able to learn and deploy successful walking gaits on an 8-DoF, $299 (USD) toy quadruped robot that has reduced actuation and sensor feedback, as well as limited computing resources."><meta property="og:image" content="https://a2r-lab.github.io/publication/bittlesim2real/featured.png">
   <meta property="og:locale" content="en-us">
   
+  <meta property="article:published_time" content="2022-06-27T00:00:00&#43;00:00">
   
-  
+  <meta property="article:modified_time" content="2022-06-27T00:00:00&#43;00:00">
   
 
   
@@ -133,7 +134,7 @@
   gtag('config', 'G-BWMRJXPX7Z');
 </script>
 
-  <title>Tiny Robots | A²R Lab</title>
+  <title>Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms | A²R Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -239,7 +240,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="/projects">
+          <a class="nav-link " href="/projects">
             
             <span>Research Projects</span>
             
@@ -291,7 +292,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication">
+          <a class="nav-link  active" href="/publication">
             
             <span>Publications</span>
             
@@ -415,8 +416,11 @@
 
 
 
+
+
+
 <div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/projects/tinyrobots/featured_hu7a80f17358fbdc688f39190fce925a95_59546_800x0_resize_q90_lanczos.jpeg');"></div>
+  <div class="featured-image" style="background-image: url('/publication/bittlesim2real/featured_hu59202dadd4c660e0e16780c41aeeb3eb_1032914_800x0_resize_lanczos_3.png');"></div>
   
 </div>
 
@@ -425,62 +429,28 @@
   <div class="row">
     <div class="col-6">
       <div class="split-header-content">
-        <h1 itemprop="name">Tiny Robots</h1>        
-        <p class="page-subtitle" style="color:#404040;"></p>
-        <meta content="" itemprop="dateModified">
-      </div>
-    </div>
-    <div class="col-6">
-      <div class="split-header-image">
-        <img src="/projects/tinyrobots/featured_hu7a80f17358fbdc688f39190fce925a95_59546_680x500_fit_q90_lanczos.jpeg" itemprop="image" alt="" style="padding-top: 20px;">
+        <h1 itemprop="name">Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms</h1>
+
         
-      </div>
-    </div>
-  </div>
-</div>
 
-<div class="article-container d-xl-none">
-  <h1 itemprop="name">Tiny Robots</h1>
-  <meta content="" itemprop="dateModified">
-</div>
+        <p class="page-subtitle">
+
+</p>
+
+        
 
 
 
-  <div class="article-container">
+<meta content="2022-06-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2022-06-27 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
-    
-      <h3>Project Overview</h3>
-      <p class="pub-abstract" itemprop="text">Many emerging robotics use cases will require small, cheap robots that use embedded devices for computation. When compressing robotics algorithms to fit on these resource constrained computational devices, new challenges and opportunities emerge. We are working to unlock the full potential of these tiny robots by leverging insights from both computer architecture / embedded systems and robotics to custom tailor algorithmic solutions through hardware-software co-design.</p>
-      
-      
-    
-
-    
-
-
-
-
-
-
-
-
-
-<h3>Publications</h3>
-
-<ul>
-
-  <li>
-    <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-
-
+<div class="article-metadata">
 
   
   
-
-  <span itemprop="author" class="article-metadata li-cite-author">
+  
+  
+  <div>
     
 
 
@@ -501,15 +471,54 @@
           <a href="https://scholar.harvard.edu/vijay-janapa-reddi/home" target="_blank">Vijay Janapa Reddi</a>
         </span>
 
-  </span>
-  (2022).
-  <a href="/publication/bittlesim2real/" itemprop="name">Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms</a>.
-  In <em>Workshop on Closing the Sim2Real Gap at RSS 2022</em>.
+  </div>
   
-  <br/><b><i>
+  
 
-</i></b>
-  <p>
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>June 2022</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
 
 
 
@@ -524,13 +533,13 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://sim2real.github.io/assets/papers/2022/jabbour.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://sim2real.github.io/assets/papers/2022/jabbour.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
         data-filename="/publication/bittlesim2real/cite.bib">
   Cite
 </button>
@@ -551,7 +560,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/Bittle_Sim2Real_RSS22.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/Bittle_Sim2Real_RSS22.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
@@ -571,67 +580,122 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/jloya0TOzWA" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/jloya0TOzWA" target="_blank" rel="noopener">
     
     Video
   </a>
 
-</p>
 
-  
-  
 </div>
 
-  </li>
-  <li>
-    <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+
+        
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/publication/bittlesim2real/featured_hu59202dadd4c660e0e16780c41aeeb3eb_1032914_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms</h1>
+
+  
 
   
 
 
 
   
-  
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+
+
+<meta content="2022-06-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2022-06-27 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
     
 
 
 
   <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/jasonjabbour2022/" target="_blank">Jason Jabbour</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://scholar.harvard.edu/sneuman" target="_blank">Sabrina M. Neuman</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://scholar.google.com/citations?user=LLsYMFYAAAAJ&amp;hl=en" target="_blank">Bardienus Duisterhof</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/srivatsan-krishnan-2a683849" target="_blank">Srivatsan Krishnan</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.colbybanbury.com/" target="_blank">Colby Banbury</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://markmaz.com/" target="_blank">Mark Mazumder</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.colbybanbury.com/" target="_blank">Colby Banbury</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://www.linkedin.com/in/shvetank-prakash" target="_blank">Shvetank Prakash</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/jasonjabbour2022/" target="_blank">Jason Jabbour</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.afaust.info/" target="_blank">Aleksandra Faust</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="http://www.bene-guido.eu/wordpress/" target="_blank">Guido C.H.E. de Croon</a>
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://scholar.harvard.edu/vijay-janapa-reddi/home" target="_blank">Vijay Janapa Reddi</a>
         </span>
 
-  </span>
-  (2022).
-  <a href="/publication/tinyrobotlearning/" itemprop="name">Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots</a>.
-  In <em>AICAS 2022</em>.
+  </div>
   
-  <br/><b><i>
+  
 
-</i></b>
-  <p>
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>June 2022</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
 
 
 
@@ -646,14 +710,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2205.05748.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://sim2real.github.io/assets/papers/2022/jabbour.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/tinyrobotlearning/cite.bib">
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/bittlesim2real/cite.bib">
   Cite
 </button>
 
@@ -669,83 +733,122 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/Bittle_Sim2Real_RSS22.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
 
 
 
 
 
-</p>
 
   
   
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/jloya0TOzWA" target="_blank" rel="noopener">
+    
+    Video
+  </a>
+
+
 </div>
 
-  </li></ul>
+
+</div>
 
 
 
-    
-
-
-
-
-
-
-
-
+  <div class="article-container">
 
     
-
-
-
-
-
-
-
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Automating robust walking gaits for legged robots has been a long-standing challenge. Previous work has achieved robust locomotion gaits on sophisticated quadruped hardware platforms through the use of reinforcement learning and imitation learning. However, these approaches do not consider the strict constraints of ultra-low-cost robot platforms with limited computing resources, few sensors, and restricted actuation. These constrained robot platforms require special attention to successfully transfer skills learned in simulation to reality. As a step toward robust learning pipelines for these constrained robot platforms, we demonstrate how existing state-of-the-art imitation learning pipelines can be modified and augmented to support low-cost, limited hardware. By reducing our model’s observational space, leveraging TinyML to quantize our model, and adjusting the model outputs through post-processing, we are able to learn and deploy successful walking gaits on an 8-DoF, $299 (USD) toy quadruped robot that has reduced actuation and sensor feedback, as well as limited computing resources. A video of our current results can be found at: <a href="https://youtu.be/jloya0TOzWA">https://youtu.be/jloya0TOzWA</a>.</p>
     
 
     
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#9">
+              Workshop Paper / Abstract / Poster
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
 
-
-
-
-
-
-
-<h3>Collaborators</h3>
-
-<ul>
-
-    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://www.afaust.info/" target="_blank">Aleksandra Faust</a></span></li>
-    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://scholar.google.com/citations?user=LLsYMFYAAAAJ&amp;hl=en" target="_blank">Bardienus Duisterhof</a></span></li>
-    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://brianplancher.com" target="_blank">Brian Plancher</a></span></li>
-    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://www.colbybanbury.com/" target="_blank">Colby Banbury</a></span></li>
-    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="http://www.bene-guido.eu/wordpress/" target="_blank">Guido C.H.E. de Croon</a></span></li>
-    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://www.linkedin.com/in/jasonjabbour2022/" target="_blank">Jason Jabbour</a></span></li>
-    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://markmaz.com/" target="_blank">Mark Mazumder</a></span></li>
-    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://scholar.harvard.edu/sneuman" target="_blank">Sabrina M. Neuman</a></span></li>
-    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://www.linkedin.com/in/shvetank-prakash" target="_blank">Shvetank Prakash</a></span></li>
-    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://www.linkedin.com/in/srivatsan-krishnan-2a683849" target="_blank">Srivatsan Krishnan</a></span></li>
-    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://scholar.harvard.edu/vijay-janapa-reddi/home" target="_blank">Vijay Janapa Reddi</a></span></li></ul>
-
-
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In the workshop <em><a href="https://sim2real.github.io/">Closing the Reality Gap in Sim2Real Transfer for Robotics</a></em> at <em><a href="https://roboticsconference.org/">Robotics Science and Systems (RSS) 2022</a></em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style"><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+</div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/sim-to-real/">Sim-to-Real</a>
+  
+  <a class="badge badge-light" href="/tags/tinyml/">TinyML</a>
+  
+  <a class="badge badge-light" href="/tags/machine-learning/">Machine Learning</a>
+  
+  <a class="badge badge-light" href="/tags/embedded-systems/">Embedded Systems</a>
+  
+  <a class="badge badge-light" href="/tags/robotics/">Robotics</a>
+  
+</div>
+
 
     
 
 
+
+
+
+
+
+
+  
+  
     
-
-
-
-
-
-
-
-
+  
   
 
 
@@ -755,64 +858,16 @@
   
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
-      
-      <img class="portrait mr-3" src="/authors/admin/avatar_hub3205ed3c893c1f053112545244d1e4e_146209_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
-    
 
     <div class="media-body">
       
       
-      <h5 class="card-title" itemprop="name"><a href="/authors/admin/"></a></h5>
+        
+      
+      <h5 class="card-title" itemprop="name"><a href="https://www.linkedin.com/in/jasonjabbour2022/">Jason Jabbour</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-          <li>
-            <a itemprop="sameAs" href="mailto:barnard.a2r.lab@gmail.com" >
-              <i class="fas fa-envelope"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://github.com/a2r-lab" target="_blank" rel="noopener">
-              <i class="fab fa-github"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=Hys8HdsAAAAJ" target="_blank" rel="noopener">
-              <i class="ai ai-google-scholar"></i>
-            </a>
-          </li>
         
       </ul>
     </div>
