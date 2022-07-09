@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A²R Lab</title>
+    <link>https://a2r-lab.github.io/authors/seanrussell/</link>
+    <description>Recent content on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Thu, 07 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/seanrussell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leveraging Community Software in CS Education to Avoid Reinventing the Wheel</title>
+      <link>https://a2r-lab.github.io/publication/csedreinventing/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/csedreinventing/</guid>
+      <description>Historically, computing instructors and researchers have developed a wide variety of tools to support teaching and educational research, including exam and code testing suites and data collection solutions. Many are then community or individually maintained. However, these tools often find limited adoption beyond their creators. As a result, it is common for many of the same functionalities to be re-implemented by different instructional groups within the CS Education community. We hypothesize that this is due in part to accessibility, discoverability, and adaptability challenges, among others. Further, instructors often face institutional barriers to deployment, which can include hesitance of institutions to utilize community developed solutions that often lack a centralized authority. This working group will explore what solutions are currently available, what instructors need, and reasons behind the above-mentioned phenomenon.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,8 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://a2r-lab.github.io/authors/bobedmison/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/authors/brianplancher/</loc>
-    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/jeremiahblanchard/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/johnrhott/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/oscarkarnalim/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/rebeccacarroll/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/richardglassey/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/seanrussell/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/vincentberry/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/9/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/cs-education/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/csedreinventing/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/open-source/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/stem-education/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/colbybanbury/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
@@ -23,15 +77,6 @@
     <loc>https://a2r-lab.github.io/authors/vijayjanapareddi/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/9/</loc>
-    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/</loc>
-    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/</loc>
-    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication/bittlesim2real/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,19 +86,10 @@
     <loc>https://a2r-lab.github.io/tags/machine-learning/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/</loc>
-    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication/</loc>
-    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/robotics/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/sim-to-real/</loc>
-    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/tinyml/</loc>
@@ -105,9 +141,6 @@
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/ros2/</loc>
-    <lastmod>2022-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/stem-education/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/marcozennaro/</loc>
