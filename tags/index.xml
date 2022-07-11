@@ -36,6 +36,51 @@
     </item>
     
     <item>
+      <title>FPGA</title>
+      <link>https://a2r-lab.github.io/tags/fpga/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Acceleration</title>
+      <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware-Software Co-Design</title>
+      <link>https://a2r-lab.github.io/tags/hardware-software-co-design/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/hardware-software-co-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://a2r-lab.github.io/tags/robotics/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROS2</title>
+      <link>https://a2r-lab.github.io/tags/ros2/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/ros2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Embedded Systems</title>
       <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
@@ -50,15 +95,6 @@
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://a2r-lab.github.io/tags/robotics/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
@@ -86,42 +122,6 @@
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FPGA</title>
-      <link>https://a2r-lab.github.io/tags/fpga/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/fpga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware Acceleration</title>
-      <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware-Software Co-Design</title>
-      <link>https://a2r-lab.github.io/tags/hardware-software-co-design/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/hardware-software-co-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ROS2</title>
-      <link>https://a2r-lab.github.io/tags/ros2/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/ros2/</guid>
       <description></description>
     </item>
     
