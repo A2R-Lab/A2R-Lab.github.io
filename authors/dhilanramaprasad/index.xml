@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A²R Lab</title>
+    <link>https://a2r-lab.github.io/authors/dhilanramaprasad/</link>
+    <description>Recent content on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/dhilanramaprasad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching Embedded Systems Programming</title>
+      <link>https://a2r-lab.github.io/publication/dhilanthesis/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/dhilanthesis/</guid>
+      <description>This work presents a model for a modular course, seated outside the traditional classroom, from which students and faculty can pick-and-choose the material that is relevant to their interests, doing so in a flexible way that is not obstructed by a list of prerequisite units. Guidance for maintaining accessibility, generality, and module independence accompanies a provided content map. This work culminates in a demonstration of a proof-of-concept aligned to the recommendations made along the way.</description>
+    </item>
+    
+  </channel>
+</rss>
