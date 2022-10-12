@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COMS-3159-SP23: Parallel Optimization for Robotics</title>
+      <link>https://a2r-lab.github.io/courses/coms-3159-sp23/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/coms-3159-sp23/</guid>
+      <description>Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on CPUs and GPUs as well as optimization algorithms for robotics applications. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project.</description>
+    </item>
+    
+    <item>
+      <title>COMS-3997-SP23: Projects in Computer Science</title>
+      <link>https://a2r-lab.github.io/courses/coms-3997-sp23/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/coms-3997-sp23/</guid>
+      <description>This course is designed as a companion to independent research and industry projects taken on by undergraduate students. The course staff is working to source a limited amount of projects, however, students are welcome and encouraged to bring a project to the course. Projects must be supervised by a  mentor who is committed to meeting with the student at least once a week to provide advice and guidance on the technical focus of the project. This course, and its weekly meetings, are designed to provide additional support and guidance on additional topics that will be crucial for students&#39; future careers in both academia and industry. Each week we will cover a high level topic through a mix of lecture and group work led by both the lead course instructor as well as guest instructors from industry and academia. Students will also be given opportunities to check in and seek help from the rest of the class on their individual projects. To document their projects and begin to build their personal portfolio, students will (learn how to and) develop a website, report, and presentation about both the final result of their project as well as the journey taken to get to their final result.</description>
+    </item>
+    
     <item>
       <title>EASI-22: Edge AI Summer Institute</title>
       <link>https://a2r-lab.github.io/courses/easi-22/</link>

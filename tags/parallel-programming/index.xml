@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computer Architecture on A²R Lab</title>
-    <link>https://a2r-lab.github.io/tags/computer-architecture/</link>
-    <description>Recent content in Computer Architecture on A²R Lab</description>
+    <title>Parallel Programming on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/parallel-programming/</link>
+    <description>Recent content in Parallel Programming on A²R Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/computer-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/parallel-programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COMS-3159-SP23: Parallel Optimization for Robotics</title>
       <link>https://a2r-lab.github.io/courses/coms-3159-sp23/</link>
@@ -15,15 +15,6 @@
       
       <guid>https://a2r-lab.github.io/courses/coms-3159-sp23/</guid>
       <description>Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on CPUs and GPUs as well as optimization algorithms for robotics applications. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project.</description>
-    </item>
-    
-    <item>
-      <title>Harvard CS249r: Special Topics in Edge Computing - Autonomous Machines</title>
-      <link>https://a2r-lab.github.io/courses/cs249r_autonomous/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/cs249r_autonomous/</guid>
-      <description>Modern embedded systems are intelligent devices that involve complex hardware and software to perform a multitude of cognitive functions collaboratively. Designing such systems requires us to have deep understanding of the target application domains, as well as an appreciation for the coupling between the hardware and the software subsystems.This course is structured around building “systems” for Autonomous Machines (cars, drones, ground robots, manipulators, etc.). For example, we will discuss what are all the hardware and software components that are involved in developing the intelligence required for an autonomous car?</description>
     </item>
     
   </channel>

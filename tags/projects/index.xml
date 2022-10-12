@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hands-on on A²R Lab</title>
-    <link>https://a2r-lab.github.io/tags/hands-on/</link>
-    <description>Recent content in Hands-on on A²R Lab</description>
+    <title>Projects on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/projects/</link>
+    <description>Recent content in Projects on A²R Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/hands-on/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COMS-3997-SP23: Projects in Computer Science</title>
       <link>https://a2r-lab.github.io/courses/coms-3997-sp23/</link>
@@ -15,15 +15,6 @@
       
       <guid>https://a2r-lab.github.io/courses/coms-3997-sp23/</guid>
       <description>This course is designed as a companion to independent research and industry projects taken on by undergraduate students. The course staff is working to source a limited amount of projects, however, students are welcome and encouraged to bring a project to the course. Projects must be supervised by a  mentor who is committed to meeting with the student at least once a week to provide advice and guidance on the technical focus of the project. This course, and its weekly meetings, are designed to provide additional support and guidance on additional topics that will be crucial for students&#39; future careers in both academia and industry. Each week we will cover a high level topic through a mix of lecture and group work led by both the lead course instructor as well as guest instructors from industry and academia. Students will also be given opportunities to check in and seek help from the rest of the class on their individual projects. To document their projects and begin to build their personal portfolio, students will (learn how to and) develop a website, report, and presentation about both the final result of their project as well as the journey taken to get to their final result.</description>
-    </item>
-    
-    <item>
-      <title>COMS-3997-F22: Introduction to Robotics Engineering from Bits to Electrons</title>
-      <link>https://a2r-lab.github.io/courses/coms-3997-f22/</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/coms-3997-f22/</guid>
-      <description>Robots are cyber-physical systems – leveraging computational intelligence to sense and interact with the real world. As such, robotics is a very diverse, cross-disciplinary field. This introductory course exposes learners to the vast opportunities and challenges posed by the interdisciplinary nature of robotics. While grounded and focused in computation this course also explores hands-on electromechanical and ethical topics that are an integral part of a real-world robotic system. Topics will include: a survey of the algorithmic robotics pipeline (perception, mapping, localization, planning, control, and learning), an introduction to cyber-physical system design, and responsible AI. The course will culminate in a team-based final project.</description>
     </item>
     
   </channel>
