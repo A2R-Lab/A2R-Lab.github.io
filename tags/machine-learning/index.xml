@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion</title>
+      <link>https://a2r-lab.github.io/publication/justround/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/justround/</guid>
+      <description>Deep reinforcement learning (DRL) is one of the most powerful tools for synthesizing complex robotic behaviors. But training DRL models is incredibly compute and memory intensive, requiring large training datasets and replay buffers to achieve performant results. This poses a challenge for the next generation of field robots that will need to learn on the edge to adapt to their environment. In this paper, we begin to address this issue through observation space quantization. We evaluate our approach using four simulated robot locomotion tasks and two state-of-the-art DRL algorithms, the on-policy Proximal Policy Optimization (PPO) and off-policy Soft Actor-Critic (SAC) and find that observation space quantization reduces overall memory costs by as much as 4.2x without impacting learning performance.</description>
+    </item>
+    
     <item>
       <title>Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms</title>
       <link>https://a2r-lab.github.io/publication/bittlesim2real/</link>

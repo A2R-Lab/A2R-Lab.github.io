@@ -7,22 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 07 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/brianplancher/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/authors/brianplancher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/levgrossman/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/authors/levgrossman/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://a2r-lab.github.io/authors/bobedmison/</link>
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/authors/bobedmison/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/brianplancher/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/authors/brianplancher/</guid>
       <description></description>
     </item>
     
@@ -410,15 +419,6 @@
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/authors/thomasbourgeat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/levgrossman/</link>
-      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/authors/levgrossman/</guid>
       <description></description>
     </item>
     

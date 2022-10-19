@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning</title>
+      <link>https://a2r-lab.github.io/tags/machine-learning/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://a2r-lab.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot Learning</title>
+      <link>https://a2r-lab.github.io/tags/robot-learning/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/robot-learning/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Computer Architecture</title>
       <link>https://a2r-lab.github.io/tags/computer-architecture/</link>
@@ -149,15 +176,6 @@
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://a2r-lab.github.io/tags/machine-learning/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -329,15 +347,6 @@
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/arduino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning</title>
-      <link>https://a2r-lab.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     

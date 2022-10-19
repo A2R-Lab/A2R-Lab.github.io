@@ -31,10 +31,10 @@
   
     
   
-  <meta name="description" content="The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. We also want to improve the accessibility of STEM education. We therefore undertake research to understand and improve diversity, equity, inclusion, and belonging in STEM education globally and explore ways to design new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning.">
+  <meta name="description" content="Deep reinforcement learning (DRL) is one of the most powerful tools for synthesizing complex robotic behaviors. But training DRL models is incredibly compute and memory intensive, requiring large training datasets and replay buffers to achieve performant results. This poses a challenge for the next generation of field robots that will need to learn on the edge to adapt to their environment. In this paper, we begin to address this issue through observation space quantization. We evaluate our approach using four simulated robot locomotion tasks and two state-of-the-art DRL algorithms, the on-policy Proximal Policy Optimization (PPO) and off-policy Soft Actor-Critic (SAC) and find that observation space quantization reduces overall memory costs by as much as 4.2x without impacting learning performance.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/publication_types/">
+  <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/publication/justround/">
 
   
 
@@ -96,32 +96,30 @@
   
 
   
-  <link rel="alternate" href="/publication_types/index.xml" type="application/rss+xml" title="A²R Lab">
-  <link rel="feed" href="/publication_types/index.xml" type="application/rss+xml" title="A²R Lab">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://a2r-lab.github.io/publication_types/">
+  <link rel="canonical" href="https://a2r-lab.github.io/publication/justround/">
 
   
   
   
   
     
-    
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="A²R Lab">
-  <meta property="og:url" content="https://a2r-lab.github.io/publication_types/">
-  <meta property="og:title" content="Publication_types | A²R Lab">
-  <meta property="og:description" content="The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. We also want to improve the accessibility of STEM education. We therefore undertake research to understand and improve diversity, equity, inclusion, and belonging in STEM education globally and explore ways to design new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning."><meta property="og:image" content="https://a2r-lab.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://a2r-lab.github.io/publication/justround/">
+  <meta property="og:title" content="Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion | A²R Lab">
+  <meta property="og:description" content="Deep reinforcement learning (DRL) is one of the most powerful tools for synthesizing complex robotic behaviors. But training DRL models is incredibly compute and memory intensive, requiring large training datasets and replay buffers to achieve performant results. This poses a challenge for the next generation of field robots that will need to learn on the edge to adapt to their environment. In this paper, we begin to address this issue through observation space quantization. We evaluate our approach using four simulated robot locomotion tasks and two state-of-the-art DRL algorithms, the on-policy Proximal Policy Optimization (PPO) and off-policy Soft Actor-Critic (SAC) and find that observation space quantization reduces overall memory costs by as much as 4.2x without impacting learning performance."><meta property="og:image" content="https://a2r-lab.github.io/publication/justround/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2022-10-18T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2022-10-18T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2022-10-18T00:00:00&#43;00:00">
   
 
   
@@ -136,7 +134,7 @@
   gtag('config', 'G-BWMRJXPX7Z');
 </script>
 
-  <title>Publication_types | A²R Lab</title>
+  <title>Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion | A²R Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -405,9 +403,97 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
 
 
 
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/publication/justround/featured_hucce9538ef409dc033501c0f028aa81e3_180537_800x0_resize_lanczos_3.png');"></div>
+  
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion</h1>
+
+        
+
+        <p class="page-subtitle">
+
+
+
+
+</p>
+
+        
+
+
+
+<meta content="2022-10-18 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2022-10-18 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/grossmanlev" target="_blank">Lev Grossman</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>October 2022</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+
+        
 
 
 
@@ -420,70 +506,338 @@
 
 
   
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2210.08065.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/justround/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
 
   
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Publication_types</h1>
-
   
-
   
-
-
-
   
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/A2R-Lab/Just-Round" target="_blank" rel="noopener">
+    
+    Code
+  </a>
+
+
 </div>
 
 
 
-<div class="universal-wrapper">
+        
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/publication/justround/featured_hucce9538ef409dc033501c0f028aa81e3_180537_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion</h1>
+
+  
+
+  
+
+
+
+
+
+
+  
+
+
+
+<meta content="2022-10-18 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2022-10-18 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/grossmanlev" target="_blank">Lev Grossman</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>October 2022</time>
+  </span>
+  
+
+  
+
   
 
   
   
-  <div>
-    <h2><a href="/publication_types/3/">3</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
+
   
-  <div>
-    <h2><a href="/publication_types/9/">9</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication_types/1/">1</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
+
   
-  <div>
-    <h2><a href="/publication_types/7/">7</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication_types/2/">2</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
+    
 
   
 
 </div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2210.08065.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/justround/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/A2R-Lab/Just-Round" target="_blank" rel="noopener">
+    
+    Code
+  </a>
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Deep reinforcement learning (DRL) is one of the most powerful tools for synthesizing complex robotic behaviors. But training DRL models is incredibly compute and memory intensive, requiring large training datasets and replay buffers to achieve performant results. This poses a challenge for the next generation of field robots that will need to learn on the edge to adapt to their environment. In this paper, we begin to address this issue through observation space quantization. We evaluate our approach using four simulated robot locomotion tasks and two state-of-the-art DRL algorithms, the on-policy Proximal Policy Optimization (PPO) and off-policy Soft Actor-Critic (SAC) and find that observation space quantization reduces overall memory costs by as much as 4.2x without impacting learning performance.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+</div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/robot-learning/">Robot Learning</a>
+  
+  <a class="badge badge-light" href="/tags/machine-learning/">Machine Learning</a>
+  
+  <a class="badge badge-light" href="/tags/reinforcement-learning/">Reinforcement Learning</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/levgrossman/avatar_hu32e867f561a6214e4116fae0af9d3fa1_12904_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      
+      
+        
+      
+      <h5 class="card-title" itemprop="name"><a href="https://www.linkedin.com/in/grossmanlev">Lev Grossman</a></h5>
+      <h6 class="card-subtitle">Robot Learning</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
 <div class="container">
   <footer class="site-footer">
   
