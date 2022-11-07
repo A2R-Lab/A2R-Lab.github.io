@@ -9,20 +9,20 @@
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
     <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/hands-on/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>COMS-3997-SP23: Projects in Computer Science</title>
-      <link>https://a2r-lab.github.io/courses/coms-3997-sp23/</link>
+      <title>COMS-BC3997-SP23: Projects in Computer Science</title>
+      <link>https://a2r-lab.github.io/courses/coms-bc3997-sp23/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://a2r-lab.github.io/courses/coms-3997-sp23/</guid>
+      <guid>https://a2r-lab.github.io/courses/coms-bc3997-sp23/</guid>
       <description>This course is designed to explore topics and skills needed for the successful completion of large computer science projects. This will be done through a mix of lecture and group work led by both the course instructor as well as guest instructors from both industry and academia. Students will exercise their development of these skills by applying them in the context of a project. &lt;strong&gt;For Spring 2023, students are expected to bring a project to the course.&lt;/strong&gt; The course staff will be able to provide general support for projects but may not have the technical expertise to support projects in depth. &lt;strong&gt;As such, these projects will ideally already have a (technical) mentor or client sponsor who can support the student.&lt;/strong&gt; To document their projects and begin to build their personal portfolio, students will (learn how to and) develop a website, report, and presentation about both the final result of their project as well as the journey taken.</description>
     </item>
     
     <item>
-      <title>COMS-3997-F22: Introduction to Robotics Engineering from Bits to Electrons</title>
-      <link>https://a2r-lab.github.io/courses/coms-3997-f22/</link>
+      <title>COMS-BC3997-F22: Introduction to Robotics Engineering from Bits to Electrons</title>
+      <link>https://a2r-lab.github.io/courses/coms-bc3997-f22/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://a2r-lab.github.io/courses/coms-3997-f22/</guid>
+      <guid>https://a2r-lab.github.io/courses/coms-bc3997-f22/</guid>
       <description>Robots are cyber-physical systems – leveraging computational intelligence to sense and interact with the real world. As such, robotics is a very diverse, cross-disciplinary field. This introductory course exposes learners to the vast opportunities and challenges posed by the interdisciplinary nature of robotics. While grounded and focused in computation this course also explores hands-on electromechanical and ethical topics that are an integral part of a real-world robotic system. Topics will include: a survey of the algorithmic robotics pipeline (perception, mapping, localization, planning, control, and learning), an introduction to cyber-physical system design, and responsible AI. The course will culminate in a team-based final project.</description>
     </item>
     
