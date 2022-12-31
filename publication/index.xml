@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stop Reinventing the Wheel! Promoting Community Software in Computing Education</title>
+      <link>https://a2r-lab.github.io/publication/csedreinventing_full/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/csedreinventing_full/</guid>
+      <description>Historically, computing instructors and researchers have developed a wide variety of tools to support teaching and educational research, including exam and code testing suites and data collection solutions. However, these tools often find limited adoption beyond their creators. As a result, it is common for many of the same functionalities to be re-implemented by different instructional groups within the Computing Education community. We hypothesise that this is due in part to discoverability, availability, and adaptability challenges. Further, instructors often face institutional barriers to deployment, which can include hesitance of institutions to rely on community developed solutions that often lack a centralised authority and may be community or individually maintained. To this end, our working group explored what solutions are currently available, what instructors needed, and the reasons behind the above-mentioned phenomenon. To do so, we reviewed existing literature and surveyed the community to identify the tools that have been developed by the community; the solutions that are currently available and in use by instructors; what features are needed moving forward for classroom and research use; what support for extensions is needed to support further Computing Education research; and what institutional challenges instructors and researchers are currently facing or have faced in using community software solutions. Finally, the working group identified factors that limited adoption of solutions. This work proposes ways to integrate and improve the availability, discoverability, and dissemination of existing community projects, as well as ways to manage and overcome institutional challenges.</description>
+    </item>
+    
     <item>
       <title>Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion</title>
       <link>https://a2r-lab.github.io/publication/justround/</link>

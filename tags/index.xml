@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS Education</title>
+      <link>https://a2r-lab.github.io/tags/cs-education/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/cs-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://a2r-lab.github.io/tags/open-source/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEM Education</title>
+      <link>https://a2r-lab.github.io/tags/stem-education/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/stem-education/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Machine Learning</title>
       <link>https://a2r-lab.github.io/tags/machine-learning/</link>
@@ -113,33 +140,6 @@
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CS Education</title>
-      <link>https://a2r-lab.github.io/tags/cs-education/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/cs-education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Source</title>
-      <link>https://a2r-lab.github.io/tags/open-source/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>STEM Education</title>
-      <link>https://a2r-lab.github.io/tags/stem-education/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/stem-education/</guid>
       <description></description>
     </item>
     

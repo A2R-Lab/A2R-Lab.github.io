@@ -2,19 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://a2r-lab.github.io/authors/bobedmison/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/authors/brianplancher/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/jeremiahblanchard/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/johnrhott/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/oscarkarnalim/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/rebeccacarroll/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/richardglassey/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/seanrussell/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/vincentberry/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/1/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/cs-education/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/open-source/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/stem-education/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/csedreinventing_full/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/levgrossman/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication_types/3/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/justround/</loc>
@@ -23,19 +71,10 @@
     <loc>https://a2r-lab.github.io/tags/machine-learning/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/robot-learning/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/computer-architecture/</loc>
@@ -74,43 +113,10 @@
     <loc>https://a2r-lab.github.io/tags/robotics/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/bobedmison/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/jeremiahblanchard/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/johnrhott/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/oscarkarnalim/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/rebeccacarroll/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/richardglassey/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/seanrussell/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/vincentberry/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication_types/9/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/tags/cs-education/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication/csedreinventing/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/open-source/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/stem-education/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/sabrinaneuman/</loc>
@@ -120,9 +126,6 @@
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/vijayjanapareddi/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/1/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/fpga/</loc>
