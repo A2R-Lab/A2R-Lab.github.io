@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion</title>
+      <link>https://a2r-lab.github.io/publication/justround/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/justround/</guid>
+      <description>Deep reinforcement learning (DRL) is one of the most powerful tools for synthesizing complex robotic behaviors. But training DRL models is incredibly compute and memory intensive, requiring large training datasets and replay buffers to achieve performant results. This poses a challenge for the next generation of field robots that will need to learn on the edge to adapt to their environment. In this paper, we begin to address this issue through observation space quantization. We evaluate our approach using four simulated robot locomotion tasks and two state-of-the-art DRL algorithms, the on-policy Proximal Policy Optimization (PPO) and off-policy Soft Actor-Critic (SAC) and find that observation space quantization reduces overall memory costs by as much as 4.2x without impacting learning performance.</description>
+    </item>
+    
+    <item>
+      <title>Is TinyML Sustainable? Assessing the Environmental Impacts of Machine Learning on Microcontrollers</title>
+      <link>https://a2r-lab.github.io/publication/sustainabletinyml/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/sustainabletinyml/</guid>
+      <description>The sustained growth of carbon emissions and global waste elicits significant sustainability concerns for our environment&amp;rsquo;s future. The growing Internet of Things (IoT) has the potential to exacerbate this issue. However, an emerging area known as Tiny Machine Learning (TinyML) has the opportunity to help address these environmental challenges through sustainable computing practices. TinyML, the deployment of machine learning (ML) algorithms onto low-cost, low-power microcontroller systems, enables on-device sensor analytics that unlocks numerous always-on ML applications. This article discusses the potential of these TinyML applications to address critical sustainability challenges. Moreover, the footprint of this emerging technology is assessed through a complete life cycle analysis of TinyML systems. From this analysis, TinyML presents opportunities to offset its carbon emissions by enabling applications that reduce the emissions of other sectors. Nevertheless, when globally scaled, the carbon footprint of TinyML systems is not negligible, necessitating that designers factor in environmental impact when formulating new devices. Finally, research directions for enabling further opportunities for TinyML to contribute to a sustainable future are outlined.</description>
+    </item>
+    
     <item>
       <title>Stop Reinventing the Wheel! Promoting Community Software in Computing Education</title>
       <link>https://a2r-lab.github.io/publication/csedreinventing_full/</link>
@@ -15,15 +33,6 @@
       
       <guid>https://a2r-lab.github.io/publication/csedreinventing_full/</guid>
       <description>Historically, computing instructors and researchers have developed a wide variety of tools to support teaching and educational research, including exam and code testing suites and data collection solutions. However, these tools often find limited adoption beyond their creators. As a result, it is common for many of the same functionalities to be re-implemented by different instructional groups within the Computing Education community. We hypothesise that this is due in part to discoverability, availability, and adaptability challenges. Further, instructors often face institutional barriers to deployment, which can include hesitance of institutions to rely on community developed solutions that often lack a centralised authority and may be community or individually maintained. To this end, our working group explored what solutions are currently available, what instructors needed, and the reasons behind the above-mentioned phenomenon. To do so, we reviewed existing literature and surveyed the community to identify the tools that have been developed by the community; the solutions that are currently available and in use by instructors; what features are needed moving forward for classroom and research use; what support for extensions is needed to support further Computing Education research; and what institutional challenges instructors and researchers are currently facing or have faced in using community software solutions. Finally, the working group identified factors that limited adoption of solutions. This work proposes ways to integrate and improve the availability, discoverability, and dissemination of existing community projects, as well as ways to manage and overcome institutional challenges.</description>
-    </item>
-    
-    <item>
-      <title>Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion</title>
-      <link>https://a2r-lab.github.io/publication/justround/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/publication/justround/</guid>
-      <description>Deep reinforcement learning (DRL) is one of the most powerful tools for synthesizing complex robotic behaviors. But training DRL models is incredibly compute and memory intensive, requiring large training datasets and replay buffers to achieve performant results. This poses a challenge for the next generation of field robots that will need to learn on the edge to adapt to their environment. In this paper, we begin to address this issue through observation space quantization. We evaluate our approach using four simulated robot locomotion tasks and two state-of-the-art DRL algorithms, the on-policy Proximal Policy Optimization (PPO) and off-policy Soft Actor-Critic (SAC) and find that observation space quantization reduces overall memory costs by as much as 4.2x without impacting learning performance.</description>
     </item>
     
     <item>

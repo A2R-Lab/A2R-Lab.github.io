@@ -7,7 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning</title>
+      <link>https://a2r-lab.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://a2r-lab.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot Learning</title>
+      <link>https://a2r-lab.github.io/tags/robot-learning/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/robot-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge ML</title>
+      <link>https://a2r-lab.github.io/tags/edge-ml/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/edge-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedded Systems</title>
+      <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>https://a2r-lab.github.io/tags/sustainability/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/sustainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TinyML</title>
+      <link>https://a2r-lab.github.io/tags/tinyml/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/tinyml/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CS Education</title>
       <link>https://a2r-lab.github.io/tags/cs-education/</link>
@@ -32,33 +95,6 @@
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/stem-education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://a2r-lab.github.io/tags/machine-learning/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning</title>
-      <link>https://a2r-lab.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robot Learning</title>
-      <link>https://a2r-lab.github.io/tags/robot-learning/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/robot-learning/</guid>
       <description></description>
     </item>
     
@@ -171,15 +207,6 @@
     </item>
     
     <item>
-      <title>Embedded Systems</title>
-      <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sim-to-Real</title>
       <link>https://a2r-lab.github.io/tags/sim-to-real/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
@@ -189,29 +216,11 @@
     </item>
     
     <item>
-      <title>TinyML</title>
-      <link>https://a2r-lab.github.io/tags/tinyml/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/tinyml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Artificial Intelligence</title>
       <link>https://a2r-lab.github.io/tags/artificial-intelligence/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sustainability</title>
-      <link>https://a2r-lab.github.io/tags/sustainability/</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/sustainability/</guid>
       <description></description>
     </item>
     
