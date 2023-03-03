@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/petewarden/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/petewarden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Sensors: A Design Paradigm for the Future of Intelligent Sensors</title>
+      <link>https://a2r-lab.github.io/publication/mlsensorscacm/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/mlsensorscacm/</guid>
+      <description>In this viewpoint we propose the ML sensor: a logical framework for developing ML-enabled embedded systems which empowers end users through its privacy-by-design approach. By limiting the data interface, the ML sensor paradigm helps ensure that no user information can be extracted beyond the scope of the sensor’s functionality. Our proposed definition is as follows: An ML sensor is a self-contained, embedded system that utilizes machine learning to process sensor data on-device – logically decoupling data computation from the main application processor and limiting the data access of the wider system to high-level ML model outputs.</description>
+    </item>
+    
     <item>
       <title>Is TinyML Sustainable? Assessing the Environmental Impacts of Machine Learning on Microcontrollers</title>
       <link>https://a2r-lab.github.io/publication/sustainabletinyml/</link>
