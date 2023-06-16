@@ -23,16 +23,28 @@
     <loc>https://a2r-lab.github.io/authors/petewarden/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://a2r-lab.github.io/authors/radhikaghosal/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/sabrinaneuman/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/authors/shawnhymel/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/shvetankprakash/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://a2r-lab.github.io/authors/thomasbourgeat/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/authors/vijayjanapareddi/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/yasmineomri/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/1/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication_types/3/</loc>
@@ -53,6 +65,15 @@
     <loc>https://a2r-lab.github.io/tags/embedded-systems/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://a2r-lab.github.io/tags/fpga/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/hardware-acceleration/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/hardware-software-co-design/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/tags/machine-learning/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -68,6 +89,12 @@
     <loc>https://a2r-lab.github.io/publication/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://a2r-lab.github.io/publication/roboshape/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/robotics/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/tags/sustainability/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -78,9 +105,6 @@
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/levgrossman/</loc>
-    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/1/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/justround/</loc>
@@ -164,9 +188,6 @@
     <loc>https://a2r-lab.github.io/tags/hands-on/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/tags/hardware-software-co-design/</loc>
-    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/optimization/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -179,25 +200,13 @@
     <loc>https://a2r-lab.github.io/tags/projects/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/tags/robotics/</loc>
-    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication_types/9/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/csedreinventing/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/sabrinaneuman/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/victormayoralvilches/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/fpga/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/hardware-acceleration/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/robotcore/</loc>
@@ -302,9 +311,6 @@
     <loc>https://a2r-lab.github.io/publication/tinymledu/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/radhikaghosal/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/scottkuindersma/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -381,9 +387,6 @@
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/thierrytambe/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/thomasbourgeat/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/robomorphic/</loc>

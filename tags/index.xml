@@ -27,6 +27,33 @@
     </item>
     
     <item>
+      <title>FPGA</title>
+      <link>https://a2r-lab.github.io/tags/fpga/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Acceleration</title>
+      <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware-Software Co-Design</title>
+      <link>https://a2r-lab.github.io/tags/hardware-software-co-design/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/hardware-software-co-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>https://a2r-lab.github.io/tags/machine-learning/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
@@ -50,6 +77,15 @@
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://a2r-lab.github.io/tags/robotics/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
@@ -144,15 +180,6 @@
     </item>
     
     <item>
-      <title>Hardware-Software Co-Design</title>
-      <link>https://a2r-lab.github.io/tags/hardware-software-co-design/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/hardware-software-co-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Optimization</title>
       <link>https://a2r-lab.github.io/tags/optimization/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
@@ -185,33 +212,6 @@
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://a2r-lab.github.io/tags/robotics/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FPGA</title>
-      <link>https://a2r-lab.github.io/tags/fpga/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/fpga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware Acceleration</title>
-      <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
       <description></description>
     </item>
     
