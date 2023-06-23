@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SciTinyML-23: Scientific Use of Machine Learning on Low-Power Devices</title>
+      <link>https://a2r-lab.github.io/courses/scitinyml-23/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/scitinyml-23/</guid>
+      <description>SciTinyML-23 was a, five day, hands-on, virtual workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using embedded hardware devices and exploration of advanced topics. SciTinyML-23 was attend by 418 participants from 76 countries. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, Barnard College of Columbia University, Universidade Federal de Itajubá (UNIFEI), and TinyMLedu.</description>
+    </item>
+    
     <item>
       <title>COMS-BC3159-SP23: Parallel Optimization for Robotics</title>
       <link>https://a2r-lab.github.io/courses/coms-bc3159-sp23/</link>
