@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>Bridging the Digital Divide: the Promising Impact of TinyML for Developing Countries</title>
+      <link>https://a2r-lab.github.io/publication/tinymlunsti23/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/tinymlunsti23/</guid>
+      <description>The rise of TinyML has opened up new opportunities for the development of smart, low-power devices in resource-constrained environments. A network of 40 universities has been established over the past two years with the goal of promoting the use of TinyML in developing regions. The members of this network have taught courses at their home institutions and have completed their first research projects covering topics ranging from the diagnosis of respiratory diseases in Rwanda to assistive technology development in Brazil, bee population monitoring in Kenya and estimating the lifespan of the date palm fruit in Saudi Arabia. We suggest three policy recommendations to increase the future impact: first, training and research activities in STI should focus on regional networks; second, the ethics of artificial intelligence must be covered in all activities; and third, we need to support local champions better.</description>
+    </item>
+    
+    <item>
       <title>Machine Learning Sensors: A Design Paradigm for the Future of Intelligent Sensors</title>
       <link>https://a2r-lab.github.io/publication/mlsensorscacm/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
