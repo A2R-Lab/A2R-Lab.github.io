@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/perception/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/perception/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RoboARCH: Workshop on Robotics Acceleration with Computing Hardware</title>
+      <link>https://a2r-lab.github.io/courses/roboarchmicro-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/roboarchmicro-23/</guid>
+      <description>Robotics is pushing the limits of conventional computing. This is a call to action for researchers across academia and industry: we must leverage nontraditional computing hardware (e.g., custom accelerator ASICs, FPGAs, and GPUs) and navigate enormous design spaces spanning across algorithms, hardware, and physical robot parameters in order to design new high performance systems enabling critical tasks in robotics. This workshop aims to gather pioneers and innovators working at the intersection of robotics and computer architecture, and to provide an introduction to this exciting emerging field to the computer architecture community.</description>
+    </item>
+    
+    <item>
+      <title>RoboARCH: Workshop on Robotics Acceleration with Computing Hardware</title>
+      <link>https://a2r-lab.github.io/courses/roboarchmicro-22/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/roboarchmicro-22/</guid>
+      <description>Robotics is pushing the limits of conventional computing. This is a call to action for researchers across academia and industry: we must leverage nontraditional computing hardware (e.g., custom accelerator ASICs, FPGAs, and GPUs) and navigate enormous design spaces spanning across algorithms, hardware, and physical robot parameters in order to design new high performance systems enabling critical tasks in robotics. This workshop aims to gather pioneers and innovators working at the intersection of robotics and computer architecture, and to provide an introduction to this exciting emerging field to the computer architecture community.</description>
+    </item>
+    
     <item>
       <title>COMS-BC3997-F22: Introduction to Robotics Engineering from Bits to Electrons</title>
       <link>https://a2r-lab.github.io/courses/coms-bc3997-f22/</link>

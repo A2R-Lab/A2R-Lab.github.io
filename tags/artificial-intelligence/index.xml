@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EdgeMLUP-23: Building Sustainable Edge Machine Learning University Programs</title>
+      <link>https://a2r-lab.github.io/courses/edgemlup-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/edgemlup-23/</guid>
+      <description>EdgeMLUP-23 was an ICTP In-Person Meeting which brought together educators and researchers from around the globe (47 participants from 28 countries) to develop a roadmap for sustainable university programs in embedded machine learning including the development of a common modular curriculum. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, Barnard College of Columbia University, Universidade Federal de Itajubá (UNIFEI), and TinyMLedu with support from Edge Impulse, Arduino, Seeed Studio, Arm, and the TinyML Foundation.</description>
+    </item>
+    
     <item>
       <title>SciTinyML-23: Scientific Use of Machine Learning on Low-Power Devices</title>
       <link>https://a2r-lab.github.io/courses/scitinyml-23/</link>

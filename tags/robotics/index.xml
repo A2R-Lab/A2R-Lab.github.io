@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tiny Robot Learning: Expanding Access to Edge ML as a Step Toward Accessible Robotics</title>
+      <link>https://a2r-lab.github.io/publication/tinyrobotlearningrssaccessibility/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/tinyrobotlearningrssaccessibility/</guid>
+      <description>The high barriers to entry associated with robotics, in particular its high cost, has rendered it inaccessibility for many. In this poster we present our early efforts to begin to address these challenges through edge machine learning (ML). We show how ultra-low-cost robot and computational hardware paired with open-source software and courseware can be leveraged for hands-on education globally and the beginnings of a globally diverse research community.</description>
+    </item>
+    
+    <item>
+      <title>RoboARCH: Workshop on Robotics Acceleration with Computing Hardware</title>
+      <link>https://a2r-lab.github.io/courses/roboarchmicro-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/roboarchmicro-23/</guid>
+      <description>Robotics is pushing the limits of conventional computing. This is a call to action for researchers across academia and industry: we must leverage nontraditional computing hardware (e.g., custom accelerator ASICs, FPGAs, and GPUs) and navigate enormous design spaces spanning across algorithms, hardware, and physical robot parameters in order to design new high performance systems enabling critical tasks in robotics. This workshop aims to gather pioneers and innovators working at the intersection of robotics and computer architecture, and to provide an introduction to this exciting emerging field to the computer architecture community.</description>
+    </item>
+    
     <item>
       <title>RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots</title>
       <link>https://a2r-lab.github.io/publication/roboshape/</link>
@@ -24,6 +42,24 @@
       
       <guid>https://a2r-lab.github.io/courses/coms-bc3159-sp23/</guid>
       <description>Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on CPUs and GPUs as well as optimization algorithms for robotics applications. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project.</description>
+    </item>
+    
+    <item>
+      <title>RoboARCH: Workshop on Robotics Acceleration with Computing Hardware</title>
+      <link>https://a2r-lab.github.io/courses/roboarchmicro-22/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/roboarchmicro-22/</guid>
+      <description>Robotics is pushing the limits of conventional computing. This is a call to action for researchers across academia and industry: we must leverage nontraditional computing hardware (e.g., custom accelerator ASICs, FPGAs, and GPUs) and navigate enormous design spaces spanning across algorithms, hardware, and physical robot parameters in order to design new high performance systems enabling critical tasks in robotics. This workshop aims to gather pioneers and innovators working at the intersection of robotics and computer architecture, and to provide an introduction to this exciting emerging field to the computer architecture community.</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Leveraging Models for Contact-Rich Manipulation</title>
+      <link>https://a2r-lab.github.io/courses/modelcontactiros23/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/modelcontactiros23/</guid>
+      <description>The objective of this workshop is to bring together researchers in the model-based manipulation community to present their work and review state-of-the art methods in the field. In conjunction, the workshop aims to facilitate discussions on the future of the field and ask several important questions: how can we synthesize model-based approaches and recent learning approaches into a coherent whole? Do we believe that there is structure we can leverage from the models that we use to better inform planning and control algorithms?</description>
     </item>
     
     <item>

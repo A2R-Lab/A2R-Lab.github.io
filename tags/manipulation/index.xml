@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manipulation on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/manipulation/</link>
+    <description>Recent content in Manipulation on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/manipulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop on Leveraging Models for Contact-Rich Manipulation</title>
+      <link>https://a2r-lab.github.io/courses/modelcontactiros23/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/courses/modelcontactiros23/</guid>
+      <description>The objective of this workshop is to bring together researchers in the model-based manipulation community to present their work and review state-of-the art methods in the field. In conjunction, the workshop aims to facilitate discussions on the future of the field and ask several important questions: how can we synthesize model-based approaches and recent learning approaches into a coherent whole? Do we believe that there is structure we can leverage from the models that we use to better inform planning and control algorithms?</description>
+    </item>
+    
+  </channel>
+</rss>
