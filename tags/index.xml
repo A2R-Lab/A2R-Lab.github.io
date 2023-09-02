@@ -7,22 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Embedded Systems</title>
-      <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <title>FIRST Robotics</title>
+      <link>https://a2r-lab.github.io/tags/first-robotics/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
+      <guid>https://a2r-lab.github.io/tags/first-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Language Models</title>
+      <link>https://a2r-lab.github.io/tags/large-language-models/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/large-language-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
       <link>https://a2r-lab.github.io/tags/machine-learning/</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://a2r-lab.github.io/tags/robotics/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedded Systems</title>
+      <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
       <description></description>
     </item>
     
@@ -41,15 +68,6 @@
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/robot-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://a2r-lab.github.io/tags/robotics/</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
