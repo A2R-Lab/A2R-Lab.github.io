@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://a2r-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Publications</title>
       <link>https://a2r-lab.github.io/publication/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/publication/</guid>
       <description>&lt;p&gt;This includes select publications from the PI&amp;rsquo;s time at the Harvard &lt;a href=&#34;https://agile.seas.harvard.edu/&#34;&gt;Agile Robotics&lt;/a&gt; and &lt;a href=&#34;https://edge.seas.harvard.edu/&#34;&gt;Edge Computing&lt;/a&gt; Labs.&lt;/p&gt;
