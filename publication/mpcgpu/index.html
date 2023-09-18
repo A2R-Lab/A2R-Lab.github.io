@@ -31,10 +31,10 @@
   
     
   
-  <meta name="description" content="The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. We also want to improve the accessibility of STEM education. We therefore undertake research to understand and improve diversity, equity, inclusion, and belonging in STEM education globally and explore ways to design new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning.">
+  <meta name="description" content="We introduce MPCGPU, a GPU-accelerated, real-time NMPC solver that leverages an accelerated preconditioned conjugate gradient (PCG) linear system solver at its core. We show that MPCGPU increases the scalability and real-time performance of NMPC, solving larger problems, at faster rates. In particular, for tracking tasks using the Kuka IIWA manipulator, MPCGPU is able to scale to kilohertz control rates with trajectories as long as 512 knot points. This is driven by a custom PCG solver which outperforms state-of-the-art, CPU-based, linear system solvers by at least 10x for a majority of solves and 3.6x on average.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/404.html">
+  <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/publication/mpcgpu/">
 
   
 
@@ -101,24 +101,25 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://a2r-lab.github.io/404.html">
+  <link rel="canonical" href="https://a2r-lab.github.io/publication/mpcgpu/">
 
   
   
   
   
     
-    
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="A²R Lab">
-  <meta property="og:url" content="https://a2r-lab.github.io/404.html">
-  <meta property="og:title" content="404 Page not found | A²R Lab">
-  <meta property="og:description" content="The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. We also want to improve the accessibility of STEM education. We therefore undertake research to understand and improve diversity, equity, inclusion, and belonging in STEM education globally and explore ways to design new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning."><meta property="og:image" content="https://a2r-lab.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://a2r-lab.github.io/publication/mpcgpu/">
+  <meta property="og:title" content="MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU | A²R Lab">
+  <meta property="og:description" content="We introduce MPCGPU, a GPU-accelerated, real-time NMPC solver that leverages an accelerated preconditioned conjugate gradient (PCG) linear system solver at its core. We show that MPCGPU increases the scalability and real-time performance of NMPC, solving larger problems, at faster rates. In particular, for tracking tasks using the Kuka IIWA manipulator, MPCGPU is able to scale to kilohertz control rates with trajectories as long as 512 knot points. This is driven by a custom PCG solver which outperforms state-of-the-art, CPU-based, linear system solvers by at least 10x for a majority of solves and 3.6x on average."><meta property="og:image" content="https://a2r-lab.github.io/publication/mpcgpu/featured.png">
   <meta property="og:locale" content="en-us">
   
+  <meta property="article:published_time" content="2023-09-15T00:00:00&#43;00:00">
   
+  <meta property="article:modified_time" content="2023-09-15T00:00:00&#43;00:00">
   
 
   
@@ -133,7 +134,7 @@
   gtag('config', 'G-BWMRJXPX7Z');
 </script>
 
-  <title>404 Page not found | A²R Lab</title>
+  <title>MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU | A²R Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -291,7 +292,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication">
+          <a class="nav-link  active" href="/publication">
             
             <span>Publications</span>
             
@@ -402,51 +403,431 @@
   </div>
 </nav>
 
-<div class="universal-wrapper pt-3">
-
-  <h1>Page not found</h1>
-
-  
-  
-  <form class="d-flex align-items-center mb-3">
-    <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..." autocomplete="off">
-  </form>
-  
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
-  <p>Perhaps you were looking for one of these?</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/publication/mpcgpu/featured_huccbe3f058d1304be0752d77ba129b8af_206704_800x0_resize_lanczos_3.png');"></div>
+  
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</h1>
+
+        
+
+        <p class="page-subtitle">
+
+
+
+
+</p>
+
+        
+
+
+
+<meta content="2023-09-15 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2023-09-15 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
 
   
   
   
-  <h2>Latest</h2>
-  <ul>
+  
+  <div>
     
-      <li><a href="/publication/mpcgpu/">MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</a></li>
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/emre-adabag-223277174/" target="_blank">Emre Adabag</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/miloniatal/" target="_blank">Miloni Dipak Atal</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/wgerard/" target="_blank">William Gerard</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
     
-      <li><a href="/publication/symstair/">Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization</a></li>
     
-      <li><a href="/publication/llmfrccodegen/">Can Large Language Models Reduce the Barriers to Entry for High School Robotics?</a></li>
+      
     
-      <li><a href="/publication/tinyrobotlearningrssaccessibility/">Tiny Robot Learning: Expanding Access to Edge ML as a Step Toward Accessible Robotics</a></li>
-    
-      <li><a href="/courses/edgemlup-23/">EdgeMLUP-23: Building Sustainable Edge Machine Learning University Programs</a></li>
-    
-      <li><a href="/courses/roboarchmicro-23/">RoboARCH: Workshop on Robotics Acceleration with Computing Hardware</a></li>
-    
-      <li><a href="/publication/mlsensorsdatasheet/">Datasheets for Machine Learning Sensors</a></li>
-    
-      <li><a href="/publication/roboshape/">RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots</a></li>
-    
-      <li><a href="/publication/justround/">Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion</a></li>
-    
-      <li><a href="/publication/tinymlunsti23/">Bridging the Digital Divide: the Promising Impact of TinyML for Developing Countries</a></li>
-    
-  </ul>
+    <time>September 2023</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
   
 
 </div>
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2309.08079" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/mpcgpu/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/a2r-lab/MPCGPU" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+        
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/publication/mpcgpu/featured_huccbe3f058d1304be0752d77ba129b8af_206704_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</h1>
+
+  
+
+  
+
+
+
+
+
+
+  
+
+
+
+<meta content="2023-09-15 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2023-09-15 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/emre-adabag-223277174/" target="_blank">Emre Adabag</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/miloniatal/" target="_blank">Miloni Dipak Atal</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/wgerard/" target="_blank">William Gerard</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>September 2023</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2309.08079" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/mpcgpu/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/a2r-lab/MPCGPU" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Nonlinear Model Predictive Control (NMPC) is a state-of-the-art approach for locomotion and manipulation which leverages trajectory optimization at each control step. While the performance of this approach is computationally bounded, implementations of direct trajectory optimization that use iterative methods to solve the underlying moderately-large and sparse linear systems, are a natural fit for parallel hardware acceleration. In this work, we introduce MPCGPU, a GPU-accelerated, real-time NMPC solver that leverages an accelerated preconditioned conjugate gradient (PCG) linear system solver at its core. We show that MPCGPU increases the scalability and real-time performance of NMPC, solving larger problems, at faster rates. In particular, for tracking tasks using the Kuka IIWA manipulator, MPCGPU is able to scale to kilohertz control rates with trajectories as long as 512 knot points. This is driven by a custom PCG solver which outperforms state-of-the-art, CPU-based, linear system solvers by at least 10x for a majority of solves and 3.6x on average.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+</div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/model-predictive-control/">Model Predictive Control</a>
+  
+  <a class="badge badge-light" href="/tags/parallel-computing/">Parallel Computing</a>
+  
+  <a class="badge badge-light" href="/tags/gpu/">GPU</a>
+  
+  <a class="badge badge-light" href="/tags/linear-systems/">Linear Systems</a>
+  
+  <a class="badge badge-light" href="/tags/iterative-methods/">Iterative Methods</a>
+  
+  <a class="badge badge-light" href="/tags/trajectory-optimization/">Trajectory Optimization</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/emreadabag/avatar_hu235da3fa0f02e961de331653adb5f757_42848_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      
+      
+        
+      
+      <h5 class="card-title" itemprop="name"><a href="https://www.linkedin.com/in/emre-adabag-223277174/">Emre Adabag</a></h5>
+      <h6 class="card-subtitle">Accelerated Numerical Optimization</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
 <div class="container">
   <footer class="site-footer">
   

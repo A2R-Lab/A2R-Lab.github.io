@@ -7,11 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPU</title>
+      <link>https://a2r-lab.github.io/tags/gpu/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Iterative Methods</title>
       <link>https://a2r-lab.github.io/tags/iterative-methods/</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/iterative-methods/</guid>
       <description></description>
@@ -20,9 +29,36 @@
     <item>
       <title>Linear Systems</title>
       <link>https://a2r-lab.github.io/tags/linear-systems/</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/linear-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Predictive Control</title>
+      <link>https://a2r-lab.github.io/tags/model-predictive-control/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/model-predictive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing</title>
+      <link>https://a2r-lab.github.io/tags/parallel-computing/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory Optimization</title>
+      <link>https://a2r-lab.github.io/tags/trajectory-optimization/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/trajectory-optimization/</guid>
       <description></description>
     </item>
     
@@ -32,15 +68,6 @@
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/preconditioning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trajectory Optimization</title>
-      <link>https://a2r-lab.github.io/tags/trajectory-optimization/</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/trajectory-optimization/</guid>
       <description></description>
     </item>
     
@@ -383,33 +410,6 @@
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/differential-dynamic-programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPU</title>
-      <link>https://a2r-lab.github.io/tags/gpu/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/gpu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model Predictive Control</title>
-      <link>https://a2r-lab.github.io/tags/model-predictive-control/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/model-predictive-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel Computing</title>
-      <link>https://a2r-lab.github.io/tags/parallel-computing/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/parallel-computing/</guid>
       <description></description>
     </item>
     
