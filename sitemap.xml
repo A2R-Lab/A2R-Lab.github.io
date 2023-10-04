@@ -2,10 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://a2r-lab.github.io/authors/alejandrafarina/</loc>
-    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/brianplancher/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/levgrossman/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/3/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/compressed-learning/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/diffcompressdrl/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/machine-learning/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/robot-learning/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/alejandrafarina/</loc>
     <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/gauravvikhe/</loc>
@@ -62,15 +98,6 @@
     <loc>https://a2r-lab.github.io/authors/zishenwan/</loc>
     <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/3/</loc>
-    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/</loc>
-    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/</loc>
-    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/benchmarking/</loc>
     <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -86,12 +113,6 @@
     <loc>https://a2r-lab.github.io/tags/hardware-software-co-design/</loc>
     <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/</loc>
-    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication/</loc>
-    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/robotics/</loc>
     <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -99,9 +120,6 @@
     <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/ros2/</loc>
-    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/</loc>
     <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/emreadabag/</loc>
@@ -155,16 +173,10 @@
     <loc>https://a2r-lab.github.io/tags/large-language-models/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/tags/machine-learning/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/embedded-systems/</loc>
     <lastmod>2023-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/open-education/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/robot-learning/</loc>
     <lastmod>2023-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/tinyrobotlearningrssaccessibility/</loc>
@@ -257,13 +269,7 @@
     <loc>https://a2r-lab.github.io/tags/sustainability/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/levgrossman/</loc>
-    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication/justround/</loc>
-    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/marcozennaro/</loc>

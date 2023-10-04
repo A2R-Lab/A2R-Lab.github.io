@@ -31,10 +31,10 @@
   
     
   
-  <meta name="description" content="The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. We also want to improve the accessibility of STEM education. We therefore undertake research to understand and improve diversity, equity, inclusion, and belonging in STEM education globally and explore ways to design new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning.">
+  <meta name="description" content="Perceptive deep reinforcement learning (DRL) has lead to many recent breakthroughs for complex AI systems leveraging image-based input data. However, training these perceptive DRL-enabled systems remains incredibly memory intensive. In this paper, we begin to address this issue through differentially encoded observation spaces. By reinterpreting stored image-based observations as a video, we leverage lossless differential video encoding schemes to compress the replay buffer without impacting training performance. We evaluate our approach with three state-of-the-art DRL algorithms and find that differential image encoding reduces the memory footprint by as much as 14.2x and 16.7x across tasks from the Atari 2600 benchmark and the DeepMind Control Suite (DMC) respectively. These savings also enable large-scale perceptive DRL that previously required paging between flash and RAM to be run entirely in RAM, improving the latency of DMC tasks by as much as 32%..">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/tags/">
+  <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/publication/diffcompressdrl/">
 
   
 
@@ -96,32 +96,30 @@
   
 
   
-  <link rel="alternate" href="/tags/index.xml" type="application/rss+xml" title="A²R Lab">
-  <link rel="feed" href="/tags/index.xml" type="application/rss+xml" title="A²R Lab">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://a2r-lab.github.io/tags/">
+  <link rel="canonical" href="https://a2r-lab.github.io/publication/diffcompressdrl/">
 
   
   
   
   
     
-    
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="A²R Lab">
-  <meta property="og:url" content="https://a2r-lab.github.io/tags/">
-  <meta property="og:title" content="Tags | A²R Lab">
-  <meta property="og:description" content="The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. We also want to improve the accessibility of STEM education. We therefore undertake research to understand and improve diversity, equity, inclusion, and belonging in STEM education globally and explore ways to design new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning."><meta property="og:image" content="https://a2r-lab.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://a2r-lab.github.io/publication/diffcompressdrl/">
+  <meta property="og:title" content="Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning | A²R Lab">
+  <meta property="og:description" content="Perceptive deep reinforcement learning (DRL) has lead to many recent breakthroughs for complex AI systems leveraging image-based input data. However, training these perceptive DRL-enabled systems remains incredibly memory intensive. In this paper, we begin to address this issue through differentially encoded observation spaces. By reinterpreting stored image-based observations as a video, we leverage lossless differential video encoding schemes to compress the replay buffer without impacting training performance. We evaluate our approach with three state-of-the-art DRL algorithms and find that differential image encoding reduces the memory footprint by as much as 14.2x and 16.7x across tasks from the Atari 2600 benchmark and the DeepMind Control Suite (DMC) respectively. These savings also enable large-scale perceptive DRL that previously required paging between flash and RAM to be run entirely in RAM, improving the latency of DMC tasks by as much as 32%.."><meta property="og:image" content="https://a2r-lab.github.io/publication/diffcompressdrl/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2023-10-03T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2023-10-03T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2023-10-03T00:00:00&#43;00:00">
   
 
   
@@ -136,7 +134,7 @@
   gtag('config', 'G-BWMRJXPX7Z');
 </script>
 
-  <title>Tags | A²R Lab</title>
+  <title>Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning | A²R Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -294,7 +292,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication">
+          <a class="nav-link  active" href="/publication">
             
             <span>Publications</span>
             
@@ -405,201 +403,435 @@
   </div>
 </nav>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Tags</h1>
-
-  
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
 
 
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/publication/diffcompressdrl/featured_hucd990dccddf3ffa38e5b3270a4c76b7b_37838_800x0_resize_lanczos_3.png');"></div>
   
 </div>
 
 
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning</h1>
 
-<div class="universal-wrapper">
-  
+        
+
+        <p class="page-subtitle">
+
+
+
+
+</p>
+
+        
+
+
+
+<meta content="2023-10-03 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2023-10-03 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
 
   
   
-  <div>
-    <h2><a href="/tags/open-education/">Open Education</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
+  
   
   <div>
-    <h2><a href="/tags/tinyml/">TinyML</a></h2>
-    <div class="article-style">
-      
-    </div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/grossmanlev" target="_blank">Lev Grossman</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>
+
   </div>
   
-  <div>
-    <h2><a href="/tags/artificial-intelligence/">Artificial Intelligence</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/computer-architecture/">Computer Architecture</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/control/">Control</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/hadware-acceleration/">Hadware Acceleration</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/mapping-localization/">Mapping &amp; Localization</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/perception/">Perception</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/planning/">Planning</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/stem-education/">STEM Education</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/edge-ml/">Edge ML</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/ml-sensors/">ML Sensors</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/privacy/">Privacy</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/sustainability/">Sustainability</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/sustainable-development/">Sustainable Development</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/un-sdgs/">UN SDGs</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/cs-education/">CS Education</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/open-source/">Open Source</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/hands-on/">Hands-on</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/optimization/">Optimization</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/tags/">&laquo;</a></li>
+  <span class="article-date">
     
     
-    <li class="page-item"><a class="page-link" href="/tags/page/3/">&raquo;</a></li>
+      
     
-  </ul>
-</nav>
+    <time>October 2023</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2310.01767" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/diffcompressdrl/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/A2R-Lab/DiffCompressDRL" target="_blank" rel="noopener">
+    
+    Code
+  </a>
 
 
 </div>
+
+
+
+        
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/publication/diffcompressdrl/featured_hucd990dccddf3ffa38e5b3270a4c76b7b_37838_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning</h1>
+
+  
+
+  
+
+
+
+
+
+
+  
+
+
+
+<meta content="2023-10-03 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2023-10-03 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/grossmanlev" target="_blank">Lev Grossman</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>October 2023</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2310.01767" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/diffcompressdrl/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/A2R-Lab/DiffCompressDRL" target="_blank" rel="noopener">
+    
+    Code
+  </a>
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Perceptive deep reinforcement learning (DRL) has lead to many recent breakthroughs for complex AI systems leveraging image-based input data. Applications of these results range from super-human level video game agents to dexterous, physically intelligent robots. However, training these perceptive DRL-enabled systems remains incredibly compute and memory intensive, often requiring huge training datasets and large experience replay buffers. This poses a challenge for the next generation of field robots that will need to be able to learn on the edge in order to adapt to their environments. In this paper, we begin to address this issue through differentially encoded observation spaces. By reinterpreting stored image-based observations as a video, we leverage lossless differential video encoding schemes to compress the replay buffer without impacting training performance. We evaluate our approach with three state-of-the-art DRL algorithms and find that differential image encoding reduces the memory footprint by as much as 14.2x and 16.7x across tasks from the Atari 2600 benchmark and the DeepMind Control Suite (DMC) respectively. These savings also enable large-scale perceptive DRL that previously required paging between flash and RAM to be run entirely in RAM, improving the latency of DMC tasks by as much as 32%.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+</div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/robot-learning/">Robot Learning</a>
+  
+  <a class="badge badge-light" href="/tags/machine-learning/">Machine Learning</a>
+  
+  <a class="badge badge-light" href="/tags/reinforcement-learning/">Reinforcement Learning</a>
+  
+  <a class="badge badge-light" href="/tags/compressed-learning/">Compressed Learning</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/levgrossman/avatar_hu32e867f561a6214e4116fae0af9d3fa1_12904_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      
+      
+        
+      
+      <h5 class="card-title" itemprop="name"><a href="https://www.linkedin.com/in/grossmanlev">Lev Grossman</a></h5>
+      <h6 class="card-subtitle">Robot Learning</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
 <div class="container">
   <footer class="site-footer">
   

@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/levgrossman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/levgrossman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning</title>
+      <link>https://a2r-lab.github.io/publication/diffcompressdrl/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/diffcompressdrl/</guid>
+      <description>Perceptive deep reinforcement learning (DRL) has lead to many recent breakthroughs for complex AI systems leveraging image-based input data. However, training these perceptive DRL-enabled systems remains incredibly memory intensive. In this paper, we begin to address this issue through differentially encoded observation spaces. By reinterpreting stored image-based observations as a video, we leverage lossless differential video encoding schemes to compress the replay buffer without impacting training performance. We evaluate our approach with three state-of-the-art DRL algorithms and find that differential image encoding reduces the memory footprint by as much as 14.2x and 16.7x across tasks from the Atari 2600 benchmark and the DeepMind Control Suite (DMC) respectively. These savings also enable large-scale perceptive DRL that previously required paging between flash and RAM to be run entirely in RAM, improving the latency of DMC tasks by as much as 32%..</description>
+    </item>
+    
     <item>
       <title>Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion</title>
       <link>https://a2r-lab.github.io/publication/justround/</link>
