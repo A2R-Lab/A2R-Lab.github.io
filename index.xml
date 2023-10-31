@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://a2r-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Publications</title>
       <link>https://a2r-lab.github.io/publication/</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/publication/</guid>
       <description>&lt;p&gt;This includes select publications from the PI&amp;rsquo;s time at the Harvard &lt;a href=&#34;https://agile.seas.harvard.edu/&#34;&gt;Agile Robotics&lt;/a&gt; and &lt;a href=&#34;https://edge.seas.harvard.edu/&#34;&gt;Edge Computing&lt;/a&gt; Labs.&lt;/p&gt;
@@ -38,7 +38,7 @@
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/projects/</guid>
-      <description>&lt;p&gt;Our lab is currently focused on four main projects: Hardware Acceleration for Robotics, Tiny Robots, Accessible STEM Education, and Robust Nonlinear Trajectory Optimization.&lt;/p&gt;
+      <description>&lt;p&gt;Our lab&amp;rsquo;s work is usually focused on the design of robotic algorithms and implementations at the intersection of computer systems / architecture and numerical optimization (with a little ML thrown in there as well). Historically we’ve done a lot of work on GPU acceleration of numerical optimal control algorithms in the pursuit of whole body nonlinear model predictive control for locomotion. Over the next few years we will likely be continuing with that line of work as well as exploring smaller scale solvers on microcontrollers for tiny robots. At the same time we care deeply about expanding access to robotics and STEM education more broadly. As such, our work is currently focused on four main projects: Hardware Acceleration for Robotics, Tiny Robots, Accessible STEM Education, and Robust Nonlinear Trajectory Optimization.&lt;/p&gt;
 </description>
     </item>
     
@@ -58,7 +58,13 @@
       
       <guid>https://a2r-lab.github.io/join/</guid>
       <description>&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Unfortunately, we are not accepting new lab members for the Fall 2023 Semester. However, we will definitely be looking for more lab members in future semesters and summers and are aiming to be actively recruiting both post-baccalaureate and PhD researchers for Fall 2024 starts. You can apply through the Columbia CS website for the &lt;a href=&#34;https://www.gradengineering.columbia.edu/graduate-admissions/apply&#34;&gt;PhD program&lt;/a&gt; and on the bridge to PhD program website for the &lt;a href=&#34;https://bridgetophd.facultydiversity.columbia.edu/content/apply-bridge-program&#34;&gt;post-baccalaureate roles&lt;/a&gt;. Do note that applications are due in the late fall / early winter of 2023 for Fall 2024 starts and make sure to note that you&amp;rsquo;d like to work in our lab in your personal statement! If you have any questions, comments, or concerns, please reach out to us at: &lt;a href=&#34;mailto:barnard.a2r.lab@gmail.com&#34;&gt;barnard.a2r.lab@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For Spring, Summer, and Fall 2024:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We will have select openings for undergraduate researchers during both terms and the summer. For CU and BC undergraduates considering taking &lt;strong&gt;&lt;a href=&#34;https://a2r-lab.org/courses/coms-bc3159-sp24/&#34;&gt;COMS BC 3159: Parallel Optimization for Robotics&lt;/a&gt;&lt;/strong&gt; in the Spring 2024 semester. It will be a great primer for lab research and includes a large project component that would be a perfect way to get started on a research project.&lt;/li&gt;
+&lt;li&gt;For CU masters students and PhD researchers who want to join active projects or launch collaborative projects, check out our &lt;a href=&#34;https://a2r-lab.github.io/projects&#34;&gt;projects&lt;/a&gt; page to see what kinds of work we are currently doing to understand if there are possible overlaps in research interests and experience.&lt;/li&gt;
+&lt;li&gt;We are also aiming to be actively recruiting both post-baccalaureate and PhD researchers for Fall 2024 starts. You can apply through the Columbia CS website for the &lt;a href=&#34;https://www.gradengineering.columbia.edu/graduate-admissions/apply&#34;&gt;PhD program&lt;/a&gt; and on the bridge to PhD program website for the &lt;a href=&#34;https://bridgetophd.facultydiversity.columbia.edu/content/apply-bridge-program&#34;&gt;post-baccalaureate roles&lt;/a&gt;. Do note that applications are due in the late fall / early winter of 2023 for Fall 2024 starts and make sure to note that you&amp;rsquo;d like to work in our lab in your personal statement!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have any questions, comments, or concerns, please reach out to us at: &lt;strong&gt;&lt;a href=&#34;mailto:barnard.a2r.lab@gmail.com&#34;&gt;barnard.a2r.lab@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;We are always looking to grow our team! We are looking for students across all levels of experience: from undergraduates, to Masters students, to PhD candidates. No background in robotics, parallel programming, or machine learning is required. That said, we are generally conducting research that requires coding and so we will expect some CS background. We also particularly encourage students from any of the underrepresented groups in CS and Engineering to reach out about potential projects.&lt;/p&gt;
 &lt;p&gt;In general, we are looking for students who demonstrate commitment, creativity, communication skills, and courage to learn something new.&lt;/p&gt;

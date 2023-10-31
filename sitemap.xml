@@ -2,19 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://a2r-lab.github.io/authors/brianplancher/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+    <loc>https://a2r-lab.github.io/authors/anoushkaalavilli/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/levgrossman/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+    <loc>https://a2r-lab.github.io/authors/brianplancher/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/khainguyen/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/samschoedel/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/zacharymanchester/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication_types/3/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/edge-computing/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/embedded-systems/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/model-predictive-control/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/quadrotor/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/tinympc/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/levgrossman/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/compressed-learning/</loc>
@@ -26,19 +62,10 @@
     <loc>https://a2r-lab.github.io/tags/machine-learning/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/robot-learning/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/computer-architecture/</loc>
@@ -167,9 +194,6 @@
     <loc>https://a2r-lab.github.io/tags/linear-systems/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/tags/model-predictive-control/</loc>
-    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication/mpcgpu/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -202,9 +226,6 @@
   </url><url>
     <loc>https://a2r-lab.github.io/tags/large-language-models/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/embedded-systems/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/open-education/</loc>
     <lastmod>2023-07-14T00:00:00+00:00</lastmod>
@@ -567,9 +588,6 @@
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/sertackaraman/</loc>
-    <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/zacharymanchester/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/cudp/</loc>
