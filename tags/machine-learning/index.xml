@@ -108,24 +108,6 @@
     </item>
     
     <item>
-      <title>COMS-BC3997-F22: Introduction to Robotics Engineering from Bits to Electrons</title>
-      <link>https://a2r-lab.github.io/courses/coms-bc3997-f22/</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/coms-bc3997-f22/</guid>
-      <description>Robots are cyber-physical systems – leveraging computational intelligence to sense and interact with the real world. As such, robotics is a very diverse, cross-disciplinary field. This introductory course exposes learners to the vast opportunities and challenges posed by the interdisciplinary nature of robotics. While grounded and focused in computation this course also explores hands-on electromechanical and ethical topics that are an integral part of a real-world robotic system. Topics will include: a survey of the algorithmic robotics pipeline (perception, mapping, localization, planning, control, and learning), an introduction to cyber-physical system design, and responsible AI. The course will culminate in a team-based final project.</description>
-    </item>
-    
-    <item>
-      <title>Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry</title>
-      <link>https://a2r-lab.github.io/courses/mtgrss22/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/mtgrss22/</guid>
-      <description>Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry is aimed at bridging the gap between academia and industry. For researchers, this workshop will help lift the curtain on the realities of academic to industry tech transfer. For industry experts, this workshop provides an opportunity to influence the direction of academic research. For both, we hope to provide an venue for integrated dialogue and identification of new potential collaborations.</description>
-    </item>
-    
-    <item>
       <title>TinyMLedu: The Tiny Machine Learning Open Education Initiative</title>
       <link>https://a2r-lab.github.io/publication/tinymledu/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
@@ -141,33 +123,6 @@
       
       <guid>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</guid>
       <description>In this paper, we describe our pedagogical approach to increasing access to applied ML through a four part massive open online course (MOOC) on Tiny Machine Learning (TinyML) produced in collaboration between academia (Harvard University) and industry (Google). We suggest that TinyML, ML on resource-constrained embedded devices, is an attractive means to widen access because TinyML both leverages low-cost and globally accessible hardware, and encourages the development of complete, self-contained applications, from data collection to deployment. We also released the course materials publicly, hoping they will inspire the next generation of ML practitioners and educators and further broaden access to cutting-edge ML technologies.</description>
-    </item>
-    
-    <item>
-      <title>HarvardX: Tiny Machine Learning MOOC</title>
-      <link>https://a2r-lab.github.io/courses/tinymledx/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/tinymledx/</guid>
-      <description>In this exciting Professional Certificate program offered by Harvard University and Google TensorFlow, you will learn about the emerging field of Tiny Machine Learning (TinyML), its real-world applications, and the future possibilities of this transformative technology. TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance-constrained and power-constrained domain of embedded systems. The program will emphasize hands-on experience and is a collaboration between expert faculty at Harvard’s John A. Paulson School of Engineering and Applied Sciences (SEAS) and innovative members of Google’s TensorFlow team.</description>
-    </item>
-    
-    <item>
-      <title>Harvard CS249r: Tiny Machine Learning (TinyML)</title>
-      <link>https://a2r-lab.github.io/courses/cs249r_tinyml/</link>
-      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/cs249r_tinyml/</guid>
-      <description>An introductory course on Applied AI at the intersection of Machine Learning and Embedded IoT Devices. We provide background on both topics and then dive into the unique challenges faced at that intersection point with hands-on assignments using TensorFlow, Google Colab, and Arduino.</description>
-    </item>
-    
-    <item>
-      <title>Harvard CS249r: Special Topics in Edge Computing - Autonomous Machines</title>
-      <link>https://a2r-lab.github.io/courses/cs249r_autonomous/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/cs249r_autonomous/</guid>
-      <description>Modern embedded systems are intelligent devices that involve complex hardware and software to perform a multitude of cognitive functions collaboratively. Designing such systems requires us to have deep understanding of the target application domains, as well as an appreciation for the coupling between the hardware and the software subsystems.This course is structured around building “systems” for Autonomous Machines (cars, drones, ground robots, manipulators, etc.). For example, we will discuss what are all the hardware and software components that are involved in developing the intelligence required for an autonomous car?</description>
     </item>
     
   </channel>

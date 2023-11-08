@@ -68,42 +68,6 @@
     <loc>https://a2r-lab.github.io/tags/robot-learning/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/tags/computer-architecture/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/coms-bc3159-sp24/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/coms-bc3997-sp24/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/control/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/hands-on/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/hardware-software-co-design/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/optimization/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/parallel-programming/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/planning/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/projects/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/robotics/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/alejandrafarina/</loc>
     <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -173,6 +137,12 @@
     <loc>https://a2r-lab.github.io/tags/hardware-acceleration/</loc>
     <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://a2r-lab.github.io/tags/hardware-software-co-design/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/robotics/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/publication/robotperf/</loc>
     <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -235,27 +205,6 @@
   </url><url>
     <loc>https://a2r-lab.github.io/tags/tinyml/</loc>
     <lastmod>2023-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/artificial-intelligence/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/edgemlup-23/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/hadware-acceleration/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/mapping-localization/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/perception/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/roboarchmicro-23/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/stem-education/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/benjaminbrown/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
@@ -323,9 +272,6 @@
     <loc>https://a2r-lab.github.io/tags/un-sdgs/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/courses/scitinyml-23/</loc>
-    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/sachinkatti/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -374,32 +320,14 @@
     <loc>https://a2r-lab.github.io/tags/open-source/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://a2r-lab.github.io/tags/stem-education/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/publication/csedreinventing_full/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/courses/coms-bc3159-sp23/</loc>
-    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/coms-bc3997-sp23/</loc>
-    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/roboarchmicro-22/</loc>
-    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication/csedreinventing/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/contact/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/manipulation/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/models/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/modelcontactiros23/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/robotcore/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
@@ -434,9 +362,6 @@
     <loc>https://a2r-lab.github.io/publication/dhilanthesis/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/courses/easi-22/</loc>
-    <lastmod>2022-05-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication/tinymlunsti22/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -448,18 +373,6 @@
   </url><url>
     <loc>https://a2r-lab.github.io/tags/rigid-body-dynamics/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/scitinyml-22/</loc>
-    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/coms-bc3997-f22/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/mtgrss22/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/real-world-deployments/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/global-network/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
@@ -530,14 +443,8 @@
     <loc>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/courses/scitinyml-21/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/projects/</loc>
     <lastmod>2021-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/crestlex/</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/srinidevadas/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
@@ -551,23 +458,8 @@
     <loc>https://a2r-lab.github.io/publication/accellrbdgrad/</loc>
     <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/courses/tinymledx/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/applied-ai/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/arduino/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/cs249r_tinyml/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication/levthesis/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/courses/cs249r_autonomous/</loc>
-    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/parallelddp_icra/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>

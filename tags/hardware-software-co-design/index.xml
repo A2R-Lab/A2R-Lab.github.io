@@ -7,16 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/hardware-software-co-design/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>COMS-BC3159-SP24: Parallel Optimization for Robotics</title>
-      <link>https://a2r-lab.github.io/courses/coms-bc3159-sp24/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/coms-bc3159-sp24/</guid>
-      <description>Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on GPUs as well as numerical optimization. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/hardware-software-co-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance</title>
       <link>https://a2r-lab.github.io/publication/robotperf/</link>
@@ -36,15 +27,6 @@
     </item>
     
     <item>
-      <title>COMS-BC3159-SP23: Parallel Optimization for Robotics</title>
-      <link>https://a2r-lab.github.io/courses/coms-bc3159-sp23/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/coms-bc3159-sp23/</guid>
-      <description>Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on CPUs and GPUs as well as optimization algorithms for robotics applications. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project.</description>
-    </item>
-    
-    <item>
       <title>RobotCore: An Open Architecture for Hardware Acceleration in ROS 2</title>
       <link>https://a2r-lab.github.io/publication/robotcore/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
@@ -60,15 +42,6 @@
       
       <guid>https://a2r-lab.github.io/publication/robomorphic/</guid>
       <description>We introduce robomorphic computing; a methodology to transform robot morphology into a customized hardware accelerator morphology. In this work, we (i) present this design methodology; (ii) use the methodology to generate a parameterized accelerator design for the gradient of rigid body dynamics; (iii) evaluate FPGA and synthesized ASIC implementations; and (iv) describe how the design can be automatically customized for other robot models. Our FPGA accelerator achieves speedups of 8x and 86x over CPU and GPU latency, and maintains an overall speedup of 1.9x to 2.9x deployed in an end-to-end coprocessor system. ASIC synthesis indicates an additional factor of 7.2x.</description>
-    </item>
-    
-    <item>
-      <title>Harvard CS249r: Special Topics in Edge Computing - Autonomous Machines</title>
-      <link>https://a2r-lab.github.io/courses/cs249r_autonomous/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/cs249r_autonomous/</guid>
-      <description>Modern embedded systems are intelligent devices that involve complex hardware and software to perform a multitude of cognitive functions collaboratively. Designing such systems requires us to have deep understanding of the target application domains, as well as an appreciation for the coupling between the hardware and the software subsystems.This course is structured around building “systems” for Autonomous Machines (cars, drones, ground robots, manipulators, etc.). For example, we will discuss what are all the hardware and software components that are involved in developing the intelligence required for an autonomous car?</description>
     </item>
     
   </channel>

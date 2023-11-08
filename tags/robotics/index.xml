@@ -7,16 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>COMS-BC3159-SP24: Parallel Optimization for Robotics</title>
-      <link>https://a2r-lab.github.io/courses/coms-bc3159-sp24/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/coms-bc3159-sp24/</guid>
-      <description>Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on GPUs as well as numerical optimization. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance</title>
       <link>https://a2r-lab.github.io/publication/robotperf/</link>
@@ -45,48 +36,12 @@
     </item>
     
     <item>
-      <title>RoboARCH: Workshop on Robotics Acceleration with Computing Hardware</title>
-      <link>https://a2r-lab.github.io/courses/roboarchmicro-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/roboarchmicro-23/</guid>
-      <description>Robotics is pushing the limits of conventional computing. This is a call to action for researchers across academia and industry: we must leverage nontraditional computing hardware (e.g., custom accelerator ASICs, FPGAs, and GPUs) and navigate enormous design spaces spanning across algorithms, hardware, and physical robot parameters in order to design new high performance systems enabling critical tasks in robotics. This workshop aims to gather pioneers and innovators working at the intersection of robotics and computer architecture, and to provide an introduction to this exciting emerging field to the computer architecture community.</description>
-    </item>
-    
-    <item>
       <title>RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots</title>
       <link>https://a2r-lab.github.io/publication/roboshape/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/publication/roboshape/</guid>
       <description>We present RoboShape, an accelerator framework that leverages two topology-based computational patterns that scale with robot size: (1) topology traversals, and (2) large topology-based matrices. Using these patterns and building on prior work, we expose opportunities to directly use robot topology to inform architectural mechanisms including task scheduling and allocation, data placement, block matrix operations, and sparse I/O data. For the topologically-diverse iiwa manipulator, HyQ quadruped, and Baxter torso robots, RoboShape accelerators on an FPGA provide a 4.0x to 4.4x speedup in compute latency over CPU and a 8.0x to 15.1x speedup over GPU for the dynamics gradients, a key bottleneck preventing online execution of nonlinear optimal motion control for legged robots. Taking a broader view, for topology-based applications, RoboShape enables analysis of performance and resource utilization tradeoffs that will be critical to managing resources across accelerators in future full robotics domain-specific SoCs.</description>
-    </item>
-    
-    <item>
-      <title>COMS-BC3159-SP23: Parallel Optimization for Robotics</title>
-      <link>https://a2r-lab.github.io/courses/coms-bc3159-sp23/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/coms-bc3159-sp23/</guid>
-      <description>Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on CPUs and GPUs as well as optimization algorithms for robotics applications. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project.</description>
-    </item>
-    
-    <item>
-      <title>RoboARCH: Workshop on Robotics Acceleration with Computing Hardware</title>
-      <link>https://a2r-lab.github.io/courses/roboarchmicro-22/</link>
-      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/roboarchmicro-22/</guid>
-      <description>Robotics is pushing the limits of conventional computing. This is a call to action for researchers across academia and industry: we must leverage nontraditional computing hardware (e.g., custom accelerator ASICs, FPGAs, and GPUs) and navigate enormous design spaces spanning across algorithms, hardware, and physical robot parameters in order to design new high performance systems enabling critical tasks in robotics. This workshop aims to gather pioneers and innovators working at the intersection of robotics and computer architecture, and to provide an introduction to this exciting emerging field to the computer architecture community.</description>
-    </item>
-    
-    <item>
-      <title>Workshop on Leveraging Models for Contact-Rich Manipulation</title>
-      <link>https://a2r-lab.github.io/courses/modelcontactiros23/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/modelcontactiros23/</guid>
-      <description>The objective of this workshop is to bring together researchers in the model-based manipulation community to present their work and review state-of-the art methods in the field. In conjunction, the workshop aims to facilitate discussions on the future of the field and ask several important questions: how can we synthesize model-based approaches and recent learning approaches into a coherent whole? Do we believe that there is structure we can leverage from the models that we use to better inform planning and control algorithms?</description>
     </item>
     
     <item>
@@ -117,39 +72,12 @@
     </item>
     
     <item>
-      <title>COMS-BC3997-F22: Introduction to Robotics Engineering from Bits to Electrons</title>
-      <link>https://a2r-lab.github.io/courses/coms-bc3997-f22/</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/coms-bc3997-f22/</guid>
-      <description>Robots are cyber-physical systems – leveraging computational intelligence to sense and interact with the real world. As such, robotics is a very diverse, cross-disciplinary field. This introductory course exposes learners to the vast opportunities and challenges posed by the interdisciplinary nature of robotics. While grounded and focused in computation this course also explores hands-on electromechanical and ethical topics that are an integral part of a real-world robotic system. Topics will include: a survey of the algorithmic robotics pipeline (perception, mapping, localization, planning, control, and learning), an introduction to cyber-physical system design, and responsible AI. The course will culminate in a team-based final project.</description>
-    </item>
-    
-    <item>
-      <title>Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry</title>
-      <link>https://a2r-lab.github.io/courses/mtgrss22/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/mtgrss22/</guid>
-      <description>Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry is aimed at bridging the gap between academia and industry. For researchers, this workshop will help lift the curtain on the realities of academic to industry tech transfer. For industry experts, this workshop provides an opportunity to influence the direction of academic research. For both, we hope to provide an venue for integrated dialogue and identification of new potential collaborations.</description>
-    </item>
-    
-    <item>
       <title>Robomorphic Computing: A Design Methodology for Domain-Specific Accelerators Parameterized by Robot Morphology</title>
       <link>https://a2r-lab.github.io/publication/robomorphic/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/publication/robomorphic/</guid>
       <description>We introduce robomorphic computing; a methodology to transform robot morphology into a customized hardware accelerator morphology. In this work, we (i) present this design methodology; (ii) use the methodology to generate a parameterized accelerator design for the gradient of rigid body dynamics; (iii) evaluate FPGA and synthesized ASIC implementations; and (iv) describe how the design can be automatically customized for other robot models. Our FPGA accelerator achieves speedups of 8x and 86x over CPU and GPU latency, and maintains an overall speedup of 1.9x to 2.9x deployed in an end-to-end coprocessor system. ASIC synthesis indicates an additional factor of 7.2x.</description>
-    </item>
-    
-    <item>
-      <title>Harvard CS249r: Special Topics in Edge Computing - Autonomous Machines</title>
-      <link>https://a2r-lab.github.io/courses/cs249r_autonomous/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/cs249r_autonomous/</guid>
-      <description>Modern embedded systems are intelligent devices that involve complex hardware and software to perform a multitude of cognitive functions collaboratively. Designing such systems requires us to have deep understanding of the target application domains, as well as an appreciation for the coupling between the hardware and the software subsystems.This course is structured around building “systems” for Autonomous Machines (cars, drones, ground robots, manipulators, etc.). For example, we will discuss what are all the hardware and software components that are involved in developing the intelligence required for an autonomous car?</description>
     </item>
     
   </channel>

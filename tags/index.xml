@@ -81,87 +81,6 @@
     </item>
     
     <item>
-      <title>Computer Architecture</title>
-      <link>https://a2r-lab.github.io/tags/computer-architecture/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/computer-architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Control</title>
-      <link>https://a2r-lab.github.io/tags/control/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hands-on</title>
-      <link>https://a2r-lab.github.io/tags/hands-on/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/hands-on/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware-Software Co-Design</title>
-      <link>https://a2r-lab.github.io/tags/hardware-software-co-design/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/hardware-software-co-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimization</title>
-      <link>https://a2r-lab.github.io/tags/optimization/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel Programming</title>
-      <link>https://a2r-lab.github.io/tags/parallel-programming/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/parallel-programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Planning</title>
-      <link>https://a2r-lab.github.io/tags/planning/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/planning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://a2r-lab.github.io/tags/projects/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://a2r-lab.github.io/tags/robotics/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Benchmarking</title>
       <link>https://a2r-lab.github.io/tags/benchmarking/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
@@ -194,6 +113,24 @@
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware-Software Co-Design</title>
+      <link>https://a2r-lab.github.io/tags/hardware-software-co-design/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/hardware-software-co-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://a2r-lab.github.io/tags/robotics/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
@@ -288,51 +225,6 @@
     </item>
     
     <item>
-      <title>Artificial Intelligence</title>
-      <link>https://a2r-lab.github.io/tags/artificial-intelligence/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hadware Acceleration</title>
-      <link>https://a2r-lab.github.io/tags/hadware-acceleration/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/hadware-acceleration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mapping &amp; Localization</title>
-      <link>https://a2r-lab.github.io/tags/mapping-localization/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/mapping-localization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perception</title>
-      <link>https://a2r-lab.github.io/tags/perception/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>STEM Education</title>
-      <link>https://a2r-lab.github.io/tags/stem-education/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/stem-education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Edge ML</title>
       <link>https://a2r-lab.github.io/tags/edge-ml/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
@@ -405,29 +297,11 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://a2r-lab.github.io/tags/contact/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <title>STEM Education</title>
+      <link>https://a2r-lab.github.io/tags/stem-education/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://a2r-lab.github.io/tags/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manipulation</title>
-      <link>https://a2r-lab.github.io/tags/manipulation/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/manipulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Models</title>
-      <link>https://a2r-lab.github.io/tags/models/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/models/</guid>
+      <guid>https://a2r-lab.github.io/tags/stem-education/</guid>
       <description></description>
     </item>
     
@@ -459,15 +333,6 @@
     </item>
     
     <item>
-      <title>Real-World Deployments</title>
-      <link>https://a2r-lab.github.io/tags/real-world-deployments/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/real-world-deployments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Global Network</title>
       <link>https://a2r-lab.github.io/tags/global-network/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
@@ -482,24 +347,6 @@
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/mooc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Applied AI</title>
-      <link>https://a2r-lab.github.io/tags/applied-ai/</link>
-      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/applied-ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arduino</title>
-      <link>https://a2r-lab.github.io/tags/arduino/</link>
-      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/arduino/</guid>
       <description></description>
     </item>
     
