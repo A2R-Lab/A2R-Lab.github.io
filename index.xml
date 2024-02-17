@@ -48,7 +48,6 @@
       
       <guid>https://a2r-lab.github.io/join/</guid>
       <description>&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;For Spring and Summer 2024:&lt;/strong&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
 &lt;li&gt;We are unfortunately full for Spring 2024. Please check back at the start of the Fall Semester for more term-time research options.&lt;/li&gt;
@@ -56,7 +55,7 @@
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;If you have any questions, comments, or concerns, please reach out to us at: &lt;strong&gt;&lt;a href=&#34;mailto:barnard.a2r.lab@gmail.com&#34;&gt;barnard.a2r.lab@gmail.com&lt;/a&gt;&lt;/strong&gt;. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
 &lt;p&gt;We are always looking to grow our team! We are looking for students across all levels of experience: from undergraduates, to Masters students, to PhD candidates, to Postdoctoral researchers. No background in robotics, parallel programming, or machine learning is required. That said, we are generally conducting research that requires mathematical maturity and programming and so we will expect some CS / EE / Math background. For CU and BC undergraduates considering taking &lt;strong&gt;COMS BC3159: Parallel Optimization for Robotics&lt;/strong&gt; as it is perfect preperation for much of the lab&amp;rsquo;s research! Other useful courses include: COMS W3157 Advanced Programming, CSEE 3827: Fundamentals of Computer Systems, or any courses in optimization, numerical methods, or robotics!&lt;/p&gt;
 &lt;p&gt;In general, we are looking for students who demonstrate commitment, creativity, communication skills, and courage to learn something new. We also particularly encourage students from any of the underrepresented groups in CS and Engineering to reach out about potential projects.&lt;/p&gt;
@@ -66,6 +65,7 @@
 &lt;li&gt;Provide a (team) progress update every week either during lab meetings, at office hours, or through a scheduled meeting&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;There are also additional opportunites for full-time summer research experiences. For Barnard students, consider applying for the &lt;a href=&#34;https://barnard.edu/summer-research-institute&#34;&gt;Summer Research Institute (SRI)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have any questions, comments, or concerns, please reach out to us at: &lt;strong&gt;&lt;a href=&#34;mailto:barnard.a2r.lab@gmail.com&#34;&gt;barnard.a2r.lab@gmail.com&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;faqs&#34;&gt;FAQs:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;What kinds of research is the lab doing right now?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;You can find descriptions of some of our current research directions on our &lt;a href=&#34;https://a2r-lab.github.io/projects&#34;&gt;projects page&lt;/a&gt; as well as our recent publications on our &lt;a href=&#34;https://a2r-lab.github.io/publication&#34;&gt;publications page&lt;/a&gt;. In general we tend to explore one of two things. First, how to combine algorithmic and computer hardware insights to accelerate robotics problems. You can find a talk exploring these concepts &lt;a href=&#34;https://www.youtube.com/watch?v=IFXlHAfr_v0&#34;&gt;at this link&lt;/a&gt;. Second, how to increase the accessibility of cutting-edge computer science topics globally. This is best exemplified by our work with &lt;a href=&#34;https://tinymledu.org/&#34;&gt;TinyMLedu&lt;/a&gt;.&lt;/p&gt;
