@@ -7,22 +7,94 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Edge Computing</title>
-      <link>https://a2r-lab.github.io/tags/edge-computing/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <title>Artificial Intelligence</title>
+      <link>https://a2r-lab.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://a2r-lab.github.io/tags/edge-computing/</guid>
+      <guid>https://a2r-lab.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge ML</title>
+      <link>https://a2r-lab.github.io/tags/edge-ml/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/edge-ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Embedded Systems</title>
       <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://a2r-lab.github.io/tags/machine-learning/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Materiality</title>
+      <link>https://a2r-lab.github.io/tags/materiality/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/materiality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://a2r-lab.github.io/tags/privacy/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk</title>
+      <link>https://a2r-lab.github.io/tags/risk/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensors</title>
+      <link>https://a2r-lab.github.io/tags/sensors/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TinyML</title>
+      <link>https://a2r-lab.github.io/tags/tinyml/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/tinyml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge Computing</title>
+      <link>https://a2r-lab.github.io/tags/edge-computing/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/edge-computing/</guid>
       <description></description>
     </item>
     
@@ -50,15 +122,6 @@
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/compressed-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://a2r-lab.github.io/tags/machine-learning/</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -216,38 +279,11 @@
     </item>
     
     <item>
-      <title>TinyML</title>
-      <link>https://a2r-lab.github.io/tags/tinyml/</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/tinyml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edge ML</title>
-      <link>https://a2r-lab.github.io/tags/edge-ml/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/edge-ml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ML Sensors</title>
       <link>https://a2r-lab.github.io/tags/ml-sensors/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/ml-sensors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>https://a2r-lab.github.io/tags/privacy/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     

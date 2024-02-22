@@ -7,59 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>EdgeMLUP-23: Building Sustainable Edge Machine Learning University Programs</title>
-      <link>https://a2r-lab.github.io/courses/edgemlup-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <title>Materiality and Risk in the Age of Pervasive AI Sensors</title>
+      <link>https://a2r-lab.github.io/publication/pervasivesensors/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://a2r-lab.github.io/courses/edgemlup-23/</guid>
-      <description>EdgeMLUP-23 was an ICTP In-Person Meeting which brought together educators and researchers from around the globe (47 participants from 28 countries) to develop a roadmap for sustainable university programs in embedded machine learning including the development of a common modular curriculum. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, Barnard College of Columbia University, Universidade Federal de Itajubá (UNIFEI), and TinyMLedu with support from Edge Impulse, Arduino, Seeed Studio, Arm, and the TinyML Foundation.</description>
-    </item>
-    
-    <item>
-      <title>SciTinyML-23: Scientific Use of Machine Learning on Low-Power Devices</title>
-      <link>https://a2r-lab.github.io/courses/scitinyml-23/</link>
-      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/scitinyml-23/</guid>
-      <description>SciTinyML-23 was a, five day, hands-on, virtual workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using embedded hardware devices and exploration of advanced topics. SciTinyML-23 was attend by 418 participants from 76 countries. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, Barnard College of Columbia University, Universidade Federal de Itajubá (UNIFEI), and TinyMLedu.</description>
-    </item>
-    
-    <item>
-      <title>EASI-22: Edge AI Summer Institute</title>
-      <link>https://a2r-lab.github.io/courses/easi-22/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/easi-22/</guid>
-      <description>EASI-22 was a 3-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence at the edge through hands-on examples of Tiny Machine Learning (TinyML). This program was a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, and Barnard College, Columbia University.</description>
-    </item>
-    
-    <item>
-      <title>SciTinyML-22: Scientific Use of Machine Learning on Low-Power Devices</title>
-      <link>https://a2r-lab.github.io/courses/scitinyml-22/</link>
-      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/scitinyml-22/</guid>
-      <description>SciTinyML-22 was a, five day, hands-on, virtual workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using embedded hardware devices. SciTinyML-22 was run regionally with seperate workshops for Africa (187 participants from 29 countries), Asia, and Latin America. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, and TinyMLedu.</description>
-    </item>
-    
-    <item>
-      <title>SciTinyML-21: Scientific Use of Machine Learning on Low-Power Devices</title>
-      <link>https://a2r-lab.github.io/courses/scitinyml-21/</link>
-      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/scitinyml-21/</guid>
-      <description>SciTinyML-21 was a, five day, hands-on, virtual, global (216 participants from 48 countries) workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using the Edge Impulse cloud platform and a smartphone. This program was a collaboration between the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, and TinyML4D.</description>
-    </item>
-    
-    <item>
-      <title>CRESTLEX 3.0 - CReating Effective STem Learning EXperiences</title>
-      <link>https://a2r-lab.github.io/courses/crestlex/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/courses/crestlex/</guid>
-      <description>CRESTLEX 3.0 was a first-of-its-kind, 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of Tiny Machine Learning (TinyML). This program was a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, Google, and Edge Impulse.</description>
+      <guid>https://a2r-lab.github.io/publication/pervasivesensors/</guid>
+      <description>Artificial intelligence systems connected to sensor-laden devices are becoming pervasive, which has significant implications for a range of AI risks, including to privacy, the environment, autonomy, and more. In this paper, we provide a comprehensive analysis of the evolution of sensors, the risks they pose by virtue of their material existence in the world, and the impacts of ubiquitous sensing and on-device AI. We propose incorporating sensors into risk management frameworks and call for more responsible sensor and system design paradigms that address risks of such systems. We show through calculative models that current systems prioritize data collection and cost reduction and produce risks that emerge around privacy, surveillance, waste, and power dynamics. We then analyze these risks, highlighting issues of validity, safety, security, accountability, interpretability, and bias. We conclude by advocating for increased attention to the materiality of algorithmic systems, and of on-device AI sensors in particular, and highlight the need for development of a responsible sensor design paradigm that empowers users and communities and leads to a future of increased fairness, accountability and transparency.</description>
     </item>
     
   </channel>
