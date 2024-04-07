@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/research/</link>
+    <description>Recent content in Research on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Underrepresentation of Women in Robotics Research</title>
+      <link>https://a2r-lab.github.io/publication/underrepresentationwomenram/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/underrepresentationwomenram/</guid>
+      <description>Computer science (CS) and engineering research both have large and well documented gender diversity gaps. In fact, previous studies have reported that the overall CS Female Author Ratio (FAR) is only in the range of 16-26% and varies significantly between CS subfields ranging from as high as 42% in CS Education to as low as 8% in Theory and Algorithms. To understand the current state of gender diversity of robotics, we recently collected and analyzed the gender of paper authors from all IEEE RAS fully sponsored conferences (ARSO, CASE, HAPTICS, Humanoids, ICRA, ISAM, MEMS, RoboSoft, SIMPAR, SSRR) as well as IROS and RA-L from 2019-2021. Overall, we find that robotics has a long way to go to reach gender parity, with an overall FAR of only 11-12%. We hope this analysis helps the robotics community to continue to emphasize the importance of working to improve our diversity.</description>
+    </item>
+    
+  </channel>
+</rss>

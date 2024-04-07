@@ -7,7 +7,97 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Generation</title>
+      <link>https://a2r-lab.github.io/tags/code-generation/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/code-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conic Constraints</title>
+      <link>https://a2r-lab.github.io/tags/conic-constraints/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/conic-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge Computing</title>
+      <link>https://a2r-lab.github.io/tags/edge-computing/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/edge-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedded Systems</title>
+      <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Predictive Control</title>
+      <link>https://a2r-lab.github.io/tags/model-predictive-control/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/model-predictive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadrotor</title>
+      <link>https://a2r-lab.github.io/tags/quadrotor/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/quadrotor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender</title>
+      <link>https://a2r-lab.github.io/tags/gender/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://a2r-lab.github.io/tags/research/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://a2r-lab.github.io/tags/robotics/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women</title>
+      <link>https://a2r-lab.github.io/tags/women/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/women/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Artificial Intelligence</title>
       <link>https://a2r-lab.github.io/tags/artificial-intelligence/</link>
@@ -23,15 +113,6 @@
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/edge-ml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Embedded Systems</title>
-      <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
       <description></description>
     </item>
     
@@ -86,33 +167,6 @@
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/tinyml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edge Computing</title>
-      <link>https://a2r-lab.github.io/tags/edge-computing/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/edge-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model Predictive Control</title>
-      <link>https://a2r-lab.github.io/tags/model-predictive-control/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/model-predictive-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quadrotor</title>
-      <link>https://a2r-lab.github.io/tags/quadrotor/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/quadrotor/</guid>
       <description></description>
     </item>
     
@@ -185,15 +239,6 @@
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/hardware-software-co-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://a2r-lab.github.io/tags/robotics/</link>
-      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
