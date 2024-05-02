@@ -6,6 +6,16 @@
     <description>Recent content on A²R Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; {year} Brian Plancher</copyright><atom:link href="https://a2r-lab.github.io/authors/iulianbrumar/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/iulianbrumar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application of Approximate Matrix Multiplication to Neural Networks and Distributed SLAM</title>
+      <link>https://a2r-lab.github.io/publication/appliedapproxmm/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/appliedapproxmm/</guid>
+      <description>We apply approximate matrix multiplication to artificial Neural Networks for image classification and to the robotics problem of Distributed Simultaneous Localization and Mapping increasing the speed of both applications by 15-20% while maintaining a 97% classification accuracy for NNs running on the MNIST dataset and keeping the average robot position error under 1 meter (vs 0.32 meters for the exact solution). However, both applications experience variance in their results.</description>
+    </item>
+    
   </channel>
 </rss>

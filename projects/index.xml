@@ -18,25 +18,25 @@
     </item>
     
     <item>
-      <title>Hardware Acceleration for Robotics</title>
-      <link>https://a2r-lab.github.io/projects/acceleratingrobotics/</link>
+      <title>Co-Designing Computational Systems for Robotics</title>
+      <link>https://a2r-lab.github.io/projects/codesign/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://a2r-lab.github.io/projects/acceleratingrobotics/</guid>
+      <guid>https://a2r-lab.github.io/projects/codesign/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robust Nonlinear Trajectory Optimization</title>
-      <link>https://a2r-lab.github.io/projects/robusttrajopt/</link>
+      <title>Next Generation (Nonlinear) Optimization Solvers</title>
+      <link>https://a2r-lab.github.io/projects/optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://a2r-lab.github.io/projects/robusttrajopt/</guid>
+      <guid>https://a2r-lab.github.io/projects/optimization/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tiny Robots</title>
+      <title>Responsible Tiny Robots</title>
       <link>https://a2r-lab.github.io/projects/tinyrobots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

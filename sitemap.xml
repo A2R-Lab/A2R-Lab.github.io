@@ -20,10 +20,10 @@
     <loc>https://a2r-lab.github.io/publication_types/3/</loc>
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/</loc>
+    <loc>https://a2r-lab.github.io/</loc>
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/</loc>
+    <loc>https://a2r-lab.github.io/authors/</loc>
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/code-generation/</loc>
@@ -130,6 +130,15 @@
   </url><url>
     <loc>https://a2r-lab.github.io/tags/tinyml/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/tinymltheconversation/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/conservation/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/developing-world/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/anoushkaalavilli/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
@@ -500,6 +509,45 @@
     <loc>https://a2r-lab.github.io/projects/</loc>
     <lastmod>2021-08-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://a2r-lab.github.io/authors/behzadboroujerdian/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/compute/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/cyber-physical-systems/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/jon-cruz/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/mav/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/roborun/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/runtimes/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/hasangenc/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/kayvan-mansoorshahi/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/marcelino-almeida/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/motion-planning/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/pieter-bardienus/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/roleofcompute/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/authors/srinidevadas/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -514,6 +562,33 @@
   </url><url>
     <loc>https://a2r-lab.github.io/publication/levthesis/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/cameliabrumar/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/davidbrooks/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/iulianbrumar/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/lillianpentecost/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/sakethrama/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/appliedapproxmm/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/approximation/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/neural-networks/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/slam/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/parallelddp_icra/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
@@ -598,8 +673,6 @@
   </url><url>
     <loc>https://a2r-lab.github.io/authors/barkhaseth/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/behzadboroujerdian/</loc>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/bharatchaudhari/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/bonnieyang/</loc>
@@ -610,8 +683,6 @@
   </url><url>
     <loc>https://a2r-lab.github.io/authors/britneyaparicio/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/cameliabrumar/</loc>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/carlykiang/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/catherineji/</loc>
@@ -621,8 +692,6 @@
     <loc>https://a2r-lab.github.io/authors/claudialihar/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/danelletuchman/</loc>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/davidbrooks/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/davidcuartielles/</loc>
   </url><url>
@@ -655,10 +724,6 @@
     <loc>https://a2r-lab.github.io/authors/halspeed/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/hanlin/</loc>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/hasangenc/</loc>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/iulianbrumar/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/jacklinetum/</loc>
   </url><url>
@@ -695,8 +760,6 @@
     <loc>https://a2r-lab.github.io/authors/kwamenaawotwi/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/lailakazimierski/</loc>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/lillianpentecost/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/luanaliao/</loc>
   </url><url>
@@ -746,8 +809,6 @@
   </url><url>
     <loc>https://a2r-lab.github.io/authors/rytispaskauskas/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/sakethrama/</loc>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/salahabdeljabar/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/samarthagrawal/</loc>
@@ -794,11 +855,11 @@
   </url><url>
     <loc>https://a2r-lab.github.io/categories/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/projects/acceleratingrobotics/</loc>
+    <loc>https://a2r-lab.github.io/projects/codesign/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/join/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/projects/robusttrajopt/</loc>
+    <loc>https://a2r-lab.github.io/projects/optimization/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/projects/tinyrobots/</loc>
   </url>

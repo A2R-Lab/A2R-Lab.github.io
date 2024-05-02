@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jon Cruz on A²R Lab</title>
+    <link>https://a2r-lab.github.io/authors/jon-cruz/</link>
+    <description>Recent content in Jon Cruz on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/jon-cruz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity</title>
+      <link>https://a2r-lab.github.io/publication/roborun/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/roborun/</guid>
+      <description>This paper introduces RoboRun, a mobile-robot runtime that dynamically exploits the compute-environment synergy to improve performance and energy. We implement RoboRun in the Robot Operating System (ROS) and evaluate it on autonomous drones. We compare RoboRun against a state-of-the-art static design and show 4.5X and 4X improvements in mission time and energy, respectively, as well as a 36% reduction in CPU utilization.</description>
+    </item>
+    
+  </channel>
+</rss>
