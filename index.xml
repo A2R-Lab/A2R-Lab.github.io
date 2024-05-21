@@ -42,6 +42,45 @@
     </item>
     
     <item>
+      <title>A²R Lab at ICRA 2024</title>
+      <link>https://a2r-lab.github.io/icra-24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/icra-24/</guid>
+      <description>&lt;h3 id=&#34;paper-presentations-and-posters&#34;&gt;Paper Presentations and Posters&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Tuesday 10:30am-12:00pm&lt;/strong&gt; &amp;ndash; Poster Session Tuesday 1:30pm-3:00pm&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2r-lab.org/publication/tinympc/&#34;&gt;&lt;strong&gt;TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers&lt;/strong&gt;&lt;/a&gt; (TuAA1-CC.1 - Award Session - CC-Main Hall)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;Tuesday 1:30pm-3:00pm&lt;/strong&gt; &amp;ndash; Poster Session Tuesday 4:30pm-6:00pm&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2r-lab.org/publication/diffcompressdrl/&#34;&gt;&lt;strong&gt;Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning&lt;/strong&gt;&lt;/a&gt; (TuBT8-CC.7 - Reinforcement Learning I - CC-418)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday 10:30am-12:00pm&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2r-lab.org/publication/robotperf/&#34;&gt;&lt;strong&gt;RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance&lt;/strong&gt;&lt;/a&gt; (WeAT20-NT.8 - Performance Evaluation and Benchmarking - NT-G302)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday 1:30pm-3:00pm&lt;/strong&gt; &amp;ndash; Poster Session Wednesday 4:30pm-6:00pm&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2r-lab.org/publication/symstair/&#34;&gt;&lt;strong&gt;Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization&lt;/strong&gt;&lt;/a&gt; (WeBT18-AX.3 - Optimization and Optimal Control I - AX-206)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2r-lab.org/publication/mpcgpu/&#34;&gt;&lt;strong&gt;MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU&lt;/strong&gt;&lt;/a&gt; (WeBT18-AX.4 - Optimization and Optimal Control I - AX-206)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;workshop-panels-and-presentations&#34;&gt;Workshop Panels and Presentations&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Friday 4:30-6:00pm&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/adrienescandehomepage/ICRA2024ClimateChange&#34;&gt;&lt;strong&gt;Workshop on Robots and Roboticists in the Age of Climate Change&lt;/strong&gt; &amp;ndash; Panel Discussion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Join Us</title>
       <link>https://a2r-lab.github.io/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
