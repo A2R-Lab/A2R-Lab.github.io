@@ -122,7 +122,7 @@
   <meta property="og:description" content="The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. We also want to improve the accessibility of STEM education. We therefore undertake research to understand and improve diversity, equity, inclusion, and belonging in STEM education globally and explore ways to design new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning."><meta property="og:image" content="https://a2r-lab.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2024-03-26T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2024-05-27T00:00:00&#43;00:00">
   
 
   
@@ -673,6 +673,343 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/mpcgpu/" itemprop="url">MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</a>
+    </h3>
+    <div class="article-style" itemprop="articleBody"><i>
+
+
+
+
+</i></div>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      
+      We introduce MPCGPU, a GPU-accelerated, real-time NMPC solver that leverages an accelerated preconditioned conjugate gradient (PCG) linear system solver at its core. We show that MPCGPU increases the scalability and real-time performance of NMPC, solving larger problems, at faster rates. In particular, for tracking tasks using the Kuka IIWA manipulator, MPCGPU is able to scale to kilohertz control rates with trajectories as long as 512 knot points. This is driven by a custom PCG solver which outperforms state-of-the-art, CPU-based, linear system solvers by at least 10x for a majority of solves and 3.6x on average.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/emre-adabag-223277174/" target="_blank">Emre Adabag</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/miloniatal/" target="_blank">Miloni Atal</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/gerard-william/" target="_blank">William Gerard</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2309.08079" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/mpcgpu/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/a2r-lab/MPCGPU" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/2024_MPCGPU_ICRA_Poster_vertical_v2.pdf" target="_blank" rel="noopener">
+  Poster
+</a>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/2024_ICRA_MPCGPU_SymStair_Slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/mpcgpu/">
+      <img src="/publication/mpcgpu/featured_huccbe3f058d1304be0752d77ba129b8af_206704_150x0_resize_lanczos_3.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/tinympc/" itemprop="url">TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</a>
+    </h3>
+    <div class="article-style" itemprop="articleBody"><i>
+
+
+
+
+	
+	  
+	     IEEE ICRA 2024 Best Paper in Automation
+	    <br/>
+	     IEEE ICRA 2024 Best Conference Paper - Finalist
+	    <br/>
+	     IEEE ICRA 2024 Best Student Paper - Finalist
+	    <br/>
+
+</i></div>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      
+      Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://xkhainguyen.github.io/" target="_blank">Khai Nguyen</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://samschoedel.com/" target="_blank">Sam Schoedel</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/anoushka-alavilli-89586b178" target="_blank">Anoushka Alavilli</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="http://zacmanchester.github.io/" target="_blank">Zachary Manchester</a>
+        </span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2310.16985" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/tinympc/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/tinympc" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/TinyMPC_ICRA_Poster.pdf" target="_blank" rel="noopener">
+  Poster
+</a>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=NKOrRyhcr6w" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://tinympc.org/" target="_blank" rel="noopener">
+    
+    Website
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/tinympc/">
+      <img src="/publication/tinympc/featured_hu3197d2f7ae7826b69c30e8c0e9f13fb2_1460515_150x0_resize_lanczos_3.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
       <a href="/publication/conictinympc/" itemprop="url">Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC</a>
     </h3>
     <div class="article-style" itemprop="articleBody"><i>
@@ -926,486 +1263,6 @@
     
     <a href="/publication/underrepresentationwomenram/">
       <img src="/publication/underrepresentationwomenram/featured_hu2160527379d129a6adaa3b3b7b12f846_180439_150x0_resize_lanczos_3.png" itemprop="image">
-    </a>
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/tinympc/" itemprop="url">TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</a>
-    </h3>
-    <div class="article-style" itemprop="articleBody"><i>
-
-
-
-
-	
-	  
-	     IEEE ICRA 2024 Best Paper in Automation
-	    <br/>
-	     IEEE ICRA 2024 Best Conference Paper - Finalist
-	    <br/>
-	     IEEE ICRA 2024 Best Student Paper - Finalist
-	    <br/>
-
-</i></div>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      
-      Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div itemprop="author">
-        
-
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://xkhainguyen.github.io/" target="_blank">Khai Nguyen</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://samschoedel.com/" target="_blank">Sam Schoedel</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/anoushka-alavilli-89586b178" target="_blank">Anoushka Alavilli</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="http://zacmanchester.github.io/" target="_blank">Zachary Manchester</a>
-        </span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2310.16985" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/tinympc/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/tinympc" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-    
-  
-
-  
-    
-  
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/TinyMPC_ICRA_Poster.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=NKOrRyhcr6w" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://tinympc.org/" target="_blank" rel="noopener">
-    
-    Website
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/tinympc/">
-      <img src="/publication/tinympc/featured_hu3197d2f7ae7826b69c30e8c0e9f13fb2_1460515_150x0_resize_lanczos_3.png" itemprop="image">
-    </a>
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/diffcompressdrl/" itemprop="url">Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning</a>
-    </h3>
-    <div class="article-style" itemprop="articleBody"><i>
-
-
-
-
-</i></div>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      
-      Perceptive deep reinforcement learning (DRL) has lead to many recent breakthroughs for complex AI systems leveraging image-based input data. However, training these perceptive DRL-enabled systems remains incredibly memory intensive. In this paper, we begin to address this issue through differentially encoded observation spaces. By reinterpreting stored image-based observations as a video, we leverage lossless differential video encoding schemes to compress the replay buffer without impacting training performance. We evaluate our approach with three state-of-the-art DRL algorithms and find that differential image encoding reduces the memory footprint by as much as 14.2x and 16.7x across tasks from the Atari 2600 benchmark and the DeepMind Control Suite (DMC) respectively. These savings also enable large-scale perceptive DRL that previously required paging between flash and RAM to be run entirely in RAM, improving the latency of DMC tasks by as much as 32%..
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div itemprop="author">
-        
-
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/grossmanlev" target="_blank">Lev Grossman</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
-        </span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2310.01767" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/diffcompressdrl/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-    
-  
-
-  
-    
-  
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/A2R-Lab/DiffCompressDRL" target="_blank" rel="noopener">
-    
-    Code
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/diffcompressdrl/">
-      <img src="/publication/diffcompressdrl/featured_hucd990dccddf3ffa38e5b3270a4c76b7b_37838_150x0_resize_lanczos_3.png" itemprop="image">
-    </a>
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/mpcgpu/" itemprop="url">MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</a>
-    </h3>
-    <div class="article-style" itemprop="articleBody"><i>
-
-
-
-
-</i></div>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      
-      We introduce MPCGPU, a GPU-accelerated, real-time NMPC solver that leverages an accelerated preconditioned conjugate gradient (PCG) linear system solver at its core. We show that MPCGPU increases the scalability and real-time performance of NMPC, solving larger problems, at faster rates. In particular, for tracking tasks using the Kuka IIWA manipulator, MPCGPU is able to scale to kilohertz control rates with trajectories as long as 512 knot points. This is driven by a custom PCG solver which outperforms state-of-the-art, CPU-based, linear system solvers by at least 10x for a majority of solves and 3.6x on average.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div itemprop="author">
-        
-
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/emre-adabag-223277174/" target="_blank">Emre Adabag</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/miloniatal/" target="_blank">Miloni Atal</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/gerard-william/" target="_blank">William Gerard</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
-        </span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2309.08079" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/mpcgpu/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/a2r-lab/MPCGPU" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-    
-  
-
-  
-    
-  
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/2024_MPCGPU_ICRA_Poster_vertical_v2.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/2024_ICRA_MPCGPU_SymStair_Slides.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/mpcgpu/">
-      <img src="/publication/mpcgpu/featured_huccbe3f058d1304be0752d77ba129b8af_206704_150x0_resize_lanczos_3.png" itemprop="image">
     </a>
     
   </div>

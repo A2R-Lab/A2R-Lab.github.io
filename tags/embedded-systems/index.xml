@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</title>
+      <link>https://a2r-lab.github.io/publication/tinympc/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/tinympc/</guid>
+      <description>Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance.</description>
+    </item>
+    
     <item>
       <title>Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC</title>
       <link>https://a2r-lab.github.io/publication/conictinympc/</link>
@@ -42,15 +51,6 @@
       
       <guid>https://a2r-lab.github.io/publication/tinymltheconversation/</guid>
       <description>The landscape of artificial intelligence (AI) applications has traditionally been dominated by the use of resource-intensive servers centralised in industrialised nations. However, recent years have witnessed the emergence of small, energy-efficient devices for AI applications, a concept known as tiny machine learning (TinyML). We’re most familiar with consumer-facing applications such as Siri, Alexa, and Google Assistant, but the limited cost and small size of such devices allow them to be deployed in the field. For example, the technology has been used to detect mosquito wingbeats and so help prevent the spread of malaria. It’s also been part of the development of low-power animal collars to support conservation efforts.</description>
-    </item>
-    
-    <item>
-      <title>TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</title>
-      <link>https://a2r-lab.github.io/publication/tinympc/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/publication/tinympc/</guid>
-      <description>Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance.</description>
     </item>
     
     <item>

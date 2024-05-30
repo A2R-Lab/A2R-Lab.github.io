@@ -121,7 +121,7 @@
   <meta property="og:description" content="The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. We also want to improve the accessibility of STEM education. We therefore undertake research to understand and improve diversity, equity, inclusion, and belonging in STEM education globally and explore ways to design new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning."><meta property="og:image" content="https://a2r-lab.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2024-03-25T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2024-05-27T00:00:00&#43;00:00">
   
 
   
@@ -448,19 +448,10 @@
   
   
   <div>
-    <h2><a href="/publication/scalingtinyml4d/">TinyML4D: Scaling Embedded Machine Learning Education in the Developing World</a></h2>
+    <h2><a href="/publication/paroptrobcourse/">Parallel Optimization for Robotics: An Undergraduate Introduction to GPU Parallel Programming and Numerical Optimization Research</a></h2>
     <div class="article-style">
       
-      Embedded machine learning (ML) on low-power devices, also known as "TinyML," enables intelligent applications on accessible hardware and fosters collaboration across disciplines to solve real-world problems. Its interdisciplinary and practical nature makes embedded ML education appealing, but barriers remain that limit its accessibility, especially in developing countries. Challenges include limited open-source software, courseware, models, and datasets that can be used with globally accessible heterogeneous hardware. Our vision is that with concerted effort and partnerships between industry and academia, we can overcome such challenges and enable embedded ML education to empower developers and researchers worldwide to build locally relevant AI solutions on low-cost hardware, increasing diversity and sustainability in the field. Towards this aim, we document efforts made by the TinyML4D community to scale embedded ML education globally through open-source curricula and introductory workshops co-created by international educators. We conclude with calls to action to further develop modular and inclusive resources and transform embedded ML into a truly global gateway to embedded AI skills development.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/tinympc/">TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</a></h2>
-    <div class="article-style">
-      
-      Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance.
+      While parallel programming, particularly on graphics processing units (GPUs), and numerical optimization hold immense potential to tackle real-world computational challenges across disciplines, their inherent complexity and technical demands often act as daunting barriers to entry. This, unfortunately, limits accessibility and diversity within these crucial areas of computer science. To combat this challenge and ignite excitement among undergraduate learners, we developed an application-driven course, harnessing robotics as a lens to demystify the intricacies of these topics making them tangible and engaging. Our course's prerequisites are limited to the required undergraduate introductory core curriculum, opening doors for a wider range of students. Our course also features a large final-project component to connect theoretical learning to applied practice. In our first offering of the course we attracted 27 students without prior experience in these topics and found that an overwhelming majority of the students felt that they learned both technical and soft skills such that they felt prepared for future study in these fields.
       
     </div>
   </div>
@@ -475,15 +466,6 @@
   </div>
   
   <div>
-    <h2><a href="/publication/robotperf/">RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance</a></h2>
-    <div class="article-style">
-      
-      We introduce RobotPerf, a vendor-agnostic benchmarking suite designed to evaluate robotics computing performance across a diverse range of hardware platforms using ROS 2 as its common baseline. The suite encompasses ROS 2 packages covering the full robotics pipeline and integrates two distinct benchmarking approaches: black-box testing, which measures performance by eliminating upper layers and replacing them with a test application, and grey-box testing, an application-specific measure that observes internal system states with minimal interference. Our benchmarking framework provides ready-to-use tools and is easily adaptable for the assessment of custom ROS 2 computational graphs. Drawing from the knowledge of leading robot architects and system architecture experts, RobotPerf establishes a standardized approach to robotics benchmarking. As an open-source initiative, RobotPerf remains committed to evolving with community input to advance the future of hardware-accelerated robotics.
-      
-    </div>
-  </div>
-  
-  <div>
     <h2><a href="/publication/mpcgpu/">MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</a></h2>
     <div class="article-style">
       
@@ -493,10 +475,37 @@
   </div>
   
   <div>
+    <h2><a href="/publication/robotperf/">RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance</a></h2>
+    <div class="article-style">
+      
+      We introduce RobotPerf, a vendor-agnostic benchmarking suite designed to evaluate robotics computing performance across a diverse range of hardware platforms using ROS 2 as its common baseline. The suite encompasses ROS 2 packages covering the full robotics pipeline and integrates two distinct benchmarking approaches: black-box testing, which measures performance by eliminating upper layers and replacing them with a test application, and grey-box testing, an application-specific measure that observes internal system states with minimal interference. Our benchmarking framework provides ready-to-use tools and is easily adaptable for the assessment of custom ROS 2 computational graphs. Drawing from the knowledge of leading robot architects and system architecture experts, RobotPerf establishes a standardized approach to robotics benchmarking. As an open-source initiative, RobotPerf remains committed to evolving with community input to advance the future of hardware-accelerated robotics.
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="/publication/symstair/">Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization</a></h2>
     <div class="article-style">
       
       In this work we present a new parallel-friendly symmetric stair preconditioner. We prove that our preconditioner has advantageous theoretical properties when used in conjunction with iterative methods for trajectory optimization such as a more clustered eigenvalue spectrum. Numerical experiments with typical trajectory optimization problems reveal that as compared to the best alternative parallel preconditioner from the literature, our symmetric stair preconditioner provides up to a 34% reduction in condition number and up to a 25% reduction in the number of resulting linear system solver iterations.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/tinympc/">TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</a></h2>
+    <div class="article-style">
+      
+      Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/scalingtinyml4d/">TinyML4D: Scaling Embedded Machine Learning Education in the Developing World</a></h2>
+    <div class="article-style">
+      
+      Embedded machine learning (ML) on low-power devices, also known as "TinyML," enables intelligent applications on accessible hardware and fosters collaboration across disciplines to solve real-world problems. Its interdisciplinary and practical nature makes embedded ML education appealing, but barriers remain that limit its accessibility, especially in developing countries. Challenges include limited open-source software, courseware, models, and datasets that can be used with globally accessible heterogeneous hardware. Our vision is that with concerted effort and partnerships between industry and academia, we can overcome such challenges and enable embedded ML education to empower developers and researchers worldwide to build locally relevant AI solutions on low-cost hardware, increasing diversity and sustainability in the field. Towards this aim, we document efforts made by the TinyML4D community to scale embedded ML education globally through open-source curricula and introductory workshops co-created by international educators. We conclude with calls to action to further develop modular and inclusive resources and transform embedded ML into a truly global gateway to embedded AI skills development.
       
     </div>
   </div>

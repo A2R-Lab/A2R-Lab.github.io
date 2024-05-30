@@ -7,7 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parallel Optimization for Robotics: An Undergraduate Introduction to GPU Parallel Programming and Numerical Optimization Research</title>
+      <link>https://a2r-lab.github.io/publication/paroptrobcourse/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/paroptrobcourse/</guid>
+      <description>While parallel programming, particularly on graphics processing units (GPUs), and numerical optimization hold immense potential to tackle real-world computational challenges across disciplines, their inherent complexity and technical demands often act as daunting barriers to entry. This, unfortunately, limits accessibility and diversity within these crucial areas of computer science. To combat this challenge and ignite excitement among undergraduate learners, we developed an application-driven course, harnessing robotics as a lens to demystify the intricacies of these topics making them tangible and engaging. Our course&amp;rsquo;s prerequisites are limited to the required undergraduate introductory core curriculum, opening doors for a wider range of students. Our course also features a large final-project component to connect theoretical learning to applied practice. In our first offering of the course we attracted 27 students without prior experience in these topics and found that an overwhelming majority of the students felt that they learned both technical and soft skills such that they felt prepared for future study in these fields.</description>
+    </item>
+    
+    <item>
+      <title>Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning</title>
+      <link>https://a2r-lab.github.io/publication/diffcompressdrl/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/diffcompressdrl/</guid>
+      <description>Perceptive deep reinforcement learning (DRL) has lead to many recent breakthroughs for complex AI systems leveraging image-based input data. However, training these perceptive DRL-enabled systems remains incredibly memory intensive. In this paper, we begin to address this issue through differentially encoded observation spaces. By reinterpreting stored image-based observations as a video, we leverage lossless differential video encoding schemes to compress the replay buffer without impacting training performance. We evaluate our approach with three state-of-the-art DRL algorithms and find that differential image encoding reduces the memory footprint by as much as 14.2x and 16.7x across tasks from the Atari 2600 benchmark and the DeepMind Control Suite (DMC) respectively. These savings also enable large-scale perceptive DRL that previously required paging between flash and RAM to be run entirely in RAM, improving the latency of DMC tasks by as much as 32%..</description>
+    </item>
+    
+    <item>
+      <title>MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</title>
+      <link>https://a2r-lab.github.io/publication/mpcgpu/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/mpcgpu/</guid>
+      <description>We introduce MPCGPU, a GPU-accelerated, real-time NMPC solver that leverages an accelerated preconditioned conjugate gradient (PCG) linear system solver at its core. We show that MPCGPU increases the scalability and real-time performance of NMPC, solving larger problems, at faster rates. In particular, for tracking tasks using the Kuka IIWA manipulator, MPCGPU is able to scale to kilohertz control rates with trajectories as long as 512 knot points. This is driven by a custom PCG solver which outperforms state-of-the-art, CPU-based, linear system solvers by at least 10x for a majority of solves and 3.6x on average.</description>
+    </item>
+    
+    <item>
+      <title>RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance</title>
+      <link>https://a2r-lab.github.io/publication/robotperf/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/robotperf/</guid>
+      <description>We introduce RobotPerf, a vendor-agnostic benchmarking suite designed to evaluate robotics computing performance across a diverse range of hardware platforms using ROS 2 as its common baseline. The suite encompasses ROS 2 packages covering the full robotics pipeline and integrates two distinct benchmarking approaches: black-box testing, which measures performance by eliminating upper layers and replacing them with a test application, and grey-box testing, an application-specific measure that observes internal system states with minimal interference. Our benchmarking framework provides ready-to-use tools and is easily adaptable for the assessment of custom ROS 2 computational graphs. Drawing from the knowledge of leading robot architects and system architecture experts, RobotPerf establishes a standardized approach to robotics benchmarking. As an open-source initiative, RobotPerf remains committed to evolving with community input to advance the future of hardware-accelerated robotics.</description>
+    </item>
+    
+    <item>
+      <title>Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization</title>
+      <link>https://a2r-lab.github.io/publication/symstair/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/symstair/</guid>
+      <description>In this work we present a new parallel-friendly symmetric stair preconditioner. We prove that our preconditioner has advantageous theoretical properties when used in conjunction with iterative methods for trajectory optimization such as a more clustered eigenvalue spectrum. Numerical experiments with typical trajectory optimization problems reveal that as compared to the best alternative parallel preconditioner from the literature, our symmetric stair preconditioner provides up to a 34% reduction in condition number and up to a 25% reduction in the number of resulting linear system solver iterations.</description>
+    </item>
+    
+    <item>
+      <title>TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</title>
+      <link>https://a2r-lab.github.io/publication/tinympc/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/tinympc/</guid>
+      <description>Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance.</description>
+    </item>
+    
     <item>
       <title>Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC</title>
       <link>https://a2r-lab.github.io/publication/conictinympc/</link>
@@ -51,51 +105,6 @@
       
       <guid>https://a2r-lab.github.io/publication/tinymltheconversation/</guid>
       <description>The landscape of artificial intelligence (AI) applications has traditionally been dominated by the use of resource-intensive servers centralised in industrialised nations. However, recent years have witnessed the emergence of small, energy-efficient devices for AI applications, a concept known as tiny machine learning (TinyML). We’re most familiar with consumer-facing applications such as Siri, Alexa, and Google Assistant, but the limited cost and small size of such devices allow them to be deployed in the field. For example, the technology has been used to detect mosquito wingbeats and so help prevent the spread of malaria. It’s also been part of the development of low-power animal collars to support conservation efforts.</description>
-    </item>
-    
-    <item>
-      <title>TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</title>
-      <link>https://a2r-lab.github.io/publication/tinympc/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/publication/tinympc/</guid>
-      <description>Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance.</description>
-    </item>
-    
-    <item>
-      <title>Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning</title>
-      <link>https://a2r-lab.github.io/publication/diffcompressdrl/</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/publication/diffcompressdrl/</guid>
-      <description>Perceptive deep reinforcement learning (DRL) has lead to many recent breakthroughs for complex AI systems leveraging image-based input data. However, training these perceptive DRL-enabled systems remains incredibly memory intensive. In this paper, we begin to address this issue through differentially encoded observation spaces. By reinterpreting stored image-based observations as a video, we leverage lossless differential video encoding schemes to compress the replay buffer without impacting training performance. We evaluate our approach with three state-of-the-art DRL algorithms and find that differential image encoding reduces the memory footprint by as much as 14.2x and 16.7x across tasks from the Atari 2600 benchmark and the DeepMind Control Suite (DMC) respectively. These savings also enable large-scale perceptive DRL that previously required paging between flash and RAM to be run entirely in RAM, improving the latency of DMC tasks by as much as 32%..</description>
-    </item>
-    
-    <item>
-      <title>RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance</title>
-      <link>https://a2r-lab.github.io/publication/robotperf/</link>
-      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/publication/robotperf/</guid>
-      <description>We introduce RobotPerf, a vendor-agnostic benchmarking suite designed to evaluate robotics computing performance across a diverse range of hardware platforms using ROS 2 as its common baseline. The suite encompasses ROS 2 packages covering the full robotics pipeline and integrates two distinct benchmarking approaches: black-box testing, which measures performance by eliminating upper layers and replacing them with a test application, and grey-box testing, an application-specific measure that observes internal system states with minimal interference. Our benchmarking framework provides ready-to-use tools and is easily adaptable for the assessment of custom ROS 2 computational graphs. Drawing from the knowledge of leading robot architects and system architecture experts, RobotPerf establishes a standardized approach to robotics benchmarking. As an open-source initiative, RobotPerf remains committed to evolving with community input to advance the future of hardware-accelerated robotics.</description>
-    </item>
-    
-    <item>
-      <title>MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</title>
-      <link>https://a2r-lab.github.io/publication/mpcgpu/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/publication/mpcgpu/</guid>
-      <description>We introduce MPCGPU, a GPU-accelerated, real-time NMPC solver that leverages an accelerated preconditioned conjugate gradient (PCG) linear system solver at its core. We show that MPCGPU increases the scalability and real-time performance of NMPC, solving larger problems, at faster rates. In particular, for tracking tasks using the Kuka IIWA manipulator, MPCGPU is able to scale to kilohertz control rates with trajectories as long as 512 knot points. This is driven by a custom PCG solver which outperforms state-of-the-art, CPU-based, linear system solvers by at least 10x for a majority of solves and 3.6x on average.</description>
-    </item>
-    
-    <item>
-      <title>Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization</title>
-      <link>https://a2r-lab.github.io/publication/symstair/</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/publication/symstair/</guid>
-      <description>In this work we present a new parallel-friendly symmetric stair preconditioner. We prove that our preconditioner has advantageous theoretical properties when used in conjunction with iterative methods for trajectory optimization such as a more clustered eigenvalue spectrum. Numerical experiments with typical trajectory optimization problems reveal that as compared to the best alternative parallel preconditioner from the literature, our symmetric stair preconditioner provides up to a 34% reduction in condition number and up to a 25% reduction in the number of resulting linear system solver iterations.</description>
     </item>
     
     <item>
