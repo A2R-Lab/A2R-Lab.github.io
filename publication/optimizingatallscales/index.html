@@ -31,10 +31,10 @@
   
     
   
-  <meta name="description" content="Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance.">
+  <meta name="description" content="In our recent works, by leveraging a combination of parallelism, approximation, and structure exploitation, we have enabled and accelerated (nonlinear) trajectory optimization solvers for real-time performance on non-standard computational hardware, ranging from microcontrollers (MCUs) to graphical processing units (GPUs). This has led to real-time MPC onboard an MCU powered 27g quadrotor for dynamic obstacle avoidance, as well as simulated whole-body nonlinear MPC at kHz rates for a GPU powered manipulator for high speed trajectory tracking.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/publication/tinympc/">
+  <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/publication/optimizingatallscales/">
 
   
 
@@ -101,7 +101,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://a2r-lab.github.io/publication/tinympc/">
+  <link rel="canonical" href="https://a2r-lab.github.io/publication/optimizingatallscales/">
 
   
   
@@ -112,14 +112,14 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="A²R Lab">
-  <meta property="og:url" content="https://a2r-lab.github.io/publication/tinympc/">
-  <meta property="og:title" content="TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers | A²R Lab">
-  <meta property="og:description" content="Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance."><meta property="og:image" content="https://a2r-lab.github.io/publication/tinympc/featured.png">
+  <meta property="og:url" content="https://a2r-lab.github.io/publication/optimizingatallscales/">
+  <meta property="og:title" content="Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs | A²R Lab">
+  <meta property="og:description" content="In our recent works, by leveraging a combination of parallelism, approximation, and structure exploitation, we have enabled and accelerated (nonlinear) trajectory optimization solvers for real-time performance on non-standard computational hardware, ranging from microcontrollers (MCUs) to graphical processing units (GPUs). This has led to real-time MPC onboard an MCU powered 27g quadrotor for dynamic obstacle avoidance, as well as simulated whole-body nonlinear MPC at kHz rates for a GPU powered manipulator for high speed trajectory tracking."><meta property="og:image" content="https://a2r-lab.github.io/publication/optimizingatallscales/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2023-10-25T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2024-07-15T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2024-05-13T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2024-07-15T00:00:00&#43;00:00">
   
 
   
@@ -134,7 +134,7 @@
   gtag('config', 'G-BWMRJXPX7Z');
 </script>
 
-  <title>TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers | A²R Lab</title>
+  <title>Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs | A²R Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -422,7 +422,7 @@
 
 
 <div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/publication/tinympc/featured_hu3197d2f7ae7826b69c30e8c0e9f13fb2_1460515_800x0_resize_lanczos_3.png');"></div>
+  <div class="featured-image" style="background-image: url('/publication/optimizingatallscales/featured_hua4a4ff7dabe8191ad87b7f5502e98c4a_110835_800x0_resize_lanczos_3.png');"></div>
   
 </div>
 
@@ -431,7 +431,7 @@
   <div class="row">
     <div class="col-6">
       <div class="split-header-content">
-        <h1 itemprop="name">TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</h1>
+        <h1 itemprop="name">Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs</h1>
 
         
 
@@ -440,23 +440,14 @@
 
 
 
-	
-	  
-	     Best Paper in Automation at IEEE ICRA 2024
-	    <br/>
-	     Finalist for Best Conference Paper at IEEE ICRA 2024
-	    <br/>
-	     Finalist for Best Student Paper at IEEE ICRA 2024
-	    <br/>
-
 </p>
 
         
 
 
 
-<meta content="2024-05-13 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2024-05-13 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2024-07-15 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2024-07-15 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -470,15 +461,25 @@
 
 
   <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/emre-adabag-223277174/" target="_blank">Emre Adabag</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://paulgroup.apam.columbia.edu/people/xueyi-bu" target="_blank">Xueyi Bu</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://xkhainguyen.github.io/" target="_blank">Khai Nguyen</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://samschoedel.com/" target="_blank">Sam Schoedel</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://www.linkedin.com/in/anoushka-alavilli-89586b178" target="_blank">Anoushka Alavilli</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+          <a href="https://www.linkedin.com/in/miloniatal/" target="_blank">Miloni Atal</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/gerard-william/" target="_blank">William Gerard</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/elakhya-nedumaran/" target="_blank">Elakhya Nedumaran</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="http://zacmanchester.github.io/" target="_blank">Zachary Manchester</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
         </span>
 
   </div>
@@ -491,7 +492,7 @@
     
       
     
-    <time>May 2024</time>
+    <time>July 2024</time>
   </span>
   
 
@@ -543,26 +544,18 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2310.16985" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://drive.google.com/file/d/11rsDcUR1gz5DniZqbdAB2qbWXg80dHlv/view" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/tinympc/cite.bib">
+        data-filename="/publication/optimizingatallscales/cite.bib">
   Cite
 </button>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/tinympc" target="_blank" rel="noopener">
-  Code
-</a>
-
 
 
 
@@ -580,7 +573,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="/files/TinyMPC_ICRA_Poster.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/2024_Optimizing_at_All_Scales_Poster.pdf" target="_blank" rel="noopener">
   Poster
 </a>
 
@@ -588,16 +581,24 @@
 
 
 
+
+
+
+  
   
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.youtube.com/watch?v=NKOrRyhcr6w" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home" target="_blank" rel="noopener">
+    
+    Workshop Website
+  </a>
 
   
   
@@ -612,7 +613,23 @@
   
   <a class="btn btn-outline-primary my-1 mr-1" href="https://tinympc.org/" target="_blank" rel="noopener">
     
-    Website
+    TinyMPC Website
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://a2r-lab.org/publication/mpcgpu/" target="_blank" rel="noopener">
+    
+    MPCGPU Website
   </a>
 
 
@@ -626,7 +643,7 @@
     </div>
     <div class="col-6">
       <div class="split-header-image">
-        <img src="/publication/tinympc/featured_hu3197d2f7ae7826b69c30e8c0e9f13fb2_1460515_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
+        <img src="/publication/optimizingatallscales/featured_hua4a4ff7dabe8191ad87b7f5502e98c4a_110835_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
         
       </div>
     </div>
@@ -634,7 +651,7 @@
 </div>
 
 <div class="article-container d-xl-none">
-  <h1 itemprop="name">TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</h1>
+  <h1 itemprop="name">Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs</h1>
 
   
 
@@ -643,23 +660,14 @@
 
 
 
-	
-	  
-	     Best Paper in Automation at IEEE ICRA 2024
-	    <br/>
-	     Finalist for Best Conference Paper at IEEE ICRA 2024
-	    <br/>
-	     Finalist for Best Student Paper at IEEE ICRA 2024
-	    <br/>
-
 
 
   
 
 
 
-<meta content="2024-05-13 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2024-05-13 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2024-07-15 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2024-07-15 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -673,15 +681,25 @@
 
 
   <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/emre-adabag-223277174/" target="_blank">Emre Adabag</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://paulgroup.apam.columbia.edu/people/xueyi-bu" target="_blank">Xueyi Bu</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://xkhainguyen.github.io/" target="_blank">Khai Nguyen</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://samschoedel.com/" target="_blank">Sam Schoedel</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://www.linkedin.com/in/anoushka-alavilli-89586b178" target="_blank">Anoushka Alavilli</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+          <a href="https://www.linkedin.com/in/miloniatal/" target="_blank">Miloni Atal</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/gerard-william/" target="_blank">William Gerard</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/elakhya-nedumaran/" target="_blank">Elakhya Nedumaran</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="http://zacmanchester.github.io/" target="_blank">Zachary Manchester</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
         </span>
 
   </div>
@@ -694,7 +712,7 @@
     
       
     
-    <time>May 2024</time>
+    <time>July 2024</time>
   </span>
   
 
@@ -748,26 +766,18 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2310.16985" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://drive.google.com/file/d/11rsDcUR1gz5DniZqbdAB2qbWXg80dHlv/view" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/tinympc/cite.bib">
+        data-filename="/publication/optimizingatallscales/cite.bib">
   Cite
 </button>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/tinympc" target="_blank" rel="noopener">
-  Code
-</a>
-
 
 
 
@@ -785,7 +795,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="/files/TinyMPC_ICRA_Poster.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/2024_Optimizing_at_All_Scales_Poster.pdf" target="_blank" rel="noopener">
   Poster
 </a>
 
@@ -793,16 +803,24 @@
 
 
 
+
+
+
+  
   
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.youtube.com/watch?v=NKOrRyhcr6w" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home" target="_blank" rel="noopener">
+    
+    Workshop Website
+  </a>
 
   
   
@@ -817,7 +835,23 @@
   
   <a class="btn btn-outline-primary my-1 mr-1" href="https://tinympc.org/" target="_blank" rel="noopener">
     
-    Website
+    TinyMPC Website
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://a2r-lab.org/publication/mpcgpu/" target="_blank" rel="noopener">
+    
+    MPCGPU Website
   </a>
 
 
@@ -832,7 +866,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract" itemprop="text">Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance.</p>
+      <p class="pub-abstract" itemprop="text">Model predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC, and its underlying (nonlinear) optimization algorithms, are often too computationally demanding to meet real-time rates for robotic platforms, both large and small. These problems are exacerbated by the end of Dennard Scaling and Moore&rsquo;s law, which have led to a utilization wall that limits the performance a single CPU chip can deliver. As such, we now need to look to the field of software performance engineering to co-design our solvers for their target hardware architectures. As such, in our recent works, by leveraging a combination of parallelism, approximation, and structure exploitation, we have enabled and accelerated (nonlinear) trajectory optimization solvers for real-time performance on non-standard computational hardware, ranging from microcontrollers (MCUs) to graphical processing units (GPUs). This has led to real-time MPC onboard an MCU powered 27g quadrotor for dynamic obstacle avoidance, as well as simulated whole-body nonlinear MPC at kHz rates for a GPU powered manipulator for high speed trajectory tracking.</p>
     
 
     
@@ -844,8 +878,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
-              Conference Proceedings
+            <a href="/publication/#9">
+              Posters / Abstracts / Other
             </a>
             
           </div>
@@ -862,7 +896,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em><a href="http://ieee-icra.org/">2024 IEEE International Conference on Robotics and Automation (ICRA)</a></em></div>
+          <div class="col-12 col-md-9">In <em><a href="https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home">Frontiers of Optimization for Robotics</a></em> a Workshop at <a href="https://roboticsconference.org/">Robotics: Sceince and Systems (RSS) 2024</a></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -883,11 +917,21 @@
   
   <a class="badge badge-light" href="/tags/model-predictive-control/">Model Predictive Control</a>
   
+  <a class="badge badge-light" href="/tags/parallel-computing/">Parallel Computing</a>
+  
+  <a class="badge badge-light" href="/tags/gpu/">GPU</a>
+  
   <a class="badge badge-light" href="/tags/embedded-systems/">Embedded Systems</a>
   
   <a class="badge badge-light" href="/tags/edge-computing/">Edge Computing</a>
   
-  <a class="badge badge-light" href="/tags/quadrotor/">Quadrotor</a>
+  <a class="badge badge-light" href="/tags/mcu/">MCU</a>
+  
+  <a class="badge badge-light" href="/tags/linear-systems/">Linear Systems</a>
+  
+  <a class="badge badge-light" href="/tags/iterative-methods/">Iterative Methods</a>
+  
+  <a class="badge badge-light" href="/tags/trajectory-optimization/">Trajectory Optimization</a>
   
 </div>
 
@@ -914,14 +958,17 @@
   
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
+      
+      <img class="portrait mr-3" src="/authors/emreadabag/avatar_hu235da3fa0f02e961de331653adb5f757_42848_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
 
     <div class="media-body">
       
       
         
       
-      <h5 class="card-title" itemprop="name"><a href="https://xkhainguyen.github.io/">Khai Nguyen</a></h5>
-      
+      <h5 class="card-title" itemprop="name"><a href="https://www.linkedin.com/in/emre-adabag-223277174/">Emre Adabag</a></h5>
+      <h6 class="card-subtitle">Accelerated Numerical Optimization</h6>
       
       <ul class="network-icon" aria-hidden="true">
         

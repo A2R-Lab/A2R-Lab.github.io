@@ -7,20 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/brianplancher/</link>
-      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/authors/brianplancher/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://a2r-lab.github.io/authors/anoushkaalavilli/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/authors/anoushkaalavilli/</guid>
       <description></description>
@@ -28,10 +19,82 @@
     
     <item>
       <title></title>
+      <link>https://a2r-lab.github.io/authors/brianplancher/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/authors/brianplancher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/elakhyanedumaran/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/authors/elakhyanedumaran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://a2r-lab.github.io/authors/emreadabag/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/authors/emreadabag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/khainguyen/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/authors/khainguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/milonidipakatal/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/authors/milonidipakatal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/samschoedel/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/authors/samschoedel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/williamgerard/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/authors/williamgerard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/xueyibu/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/authors/xueyibu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/zacharymanchester/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/authors/zacharymanchester/</guid>
       <description></description>
     </item>
     
@@ -73,15 +136,6 @@
     
     <item>
       <title></title>
-      <link>https://a2r-lab.github.io/authors/khainguyen/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/authors/khainguyen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://a2r-lab.github.io/authors/levgrossman/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
@@ -113,15 +167,6 @@
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/authors/matthewstewart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/milonidipakatal/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/authors/milonidipakatal/</guid>
       <description></description>
     </item>
     
@@ -172,15 +217,6 @@
     
     <item>
       <title></title>
-      <link>https://a2r-lab.github.io/authors/samschoedel/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/authors/samschoedel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://a2r-lab.github.io/authors/smrutipanigrahi/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
@@ -217,24 +253,6 @@
     
     <item>
       <title></title>
-      <link>https://a2r-lab.github.io/authors/williamgerard/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/authors/williamgerard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/xueyibu/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/authors/xueyibu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://a2r-lab.github.io/authors/yushunhsiao/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
@@ -244,28 +262,10 @@
     
     <item>
       <title></title>
-      <link>https://a2r-lab.github.io/authors/zacharymanchester/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/authors/zacharymanchester/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://a2r-lab.github.io/authors/zishenwan/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/authors/zishenwan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/elakhyanedumaran/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/authors/elakhyanedumaran/</guid>
       <description></description>
     </item>
     
