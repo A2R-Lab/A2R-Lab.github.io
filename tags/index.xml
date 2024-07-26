@@ -90,6 +90,51 @@
     </item>
     
     <item>
+      <title>ASIC</title>
+      <link>https://a2r-lab.github.io/tags/asic/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/asic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Systems</title>
+      <link>https://a2r-lab.github.io/tags/autonomous-systems/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/autonomous-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>https://a2r-lab.github.io/tags/fpga/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Acceleration</title>
+      <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://a2r-lab.github.io/tags/robotics/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CS Education</title>
       <link>https://a2r-lab.github.io/tags/cs-education/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
@@ -117,15 +162,6 @@
     </item>
     
     <item>
-      <title>Robotics</title>
-      <link>https://a2r-lab.github.io/tags/robotics/</link>
-      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Benchmarking</title>
       <link>https://a2r-lab.github.io/tags/benchmarking/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
@@ -140,24 +176,6 @@
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/compressed-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FPGA</title>
-      <link>https://a2r-lab.github.io/tags/fpga/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/fpga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware Acceleration</title>
-      <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
       <description></description>
     </item>
     
