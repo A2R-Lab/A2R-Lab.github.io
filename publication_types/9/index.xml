@@ -7,87 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs</title>
       <link>https://a2r-lab.github.io/publication/optimizingatallscales/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/optimizingatallscales/</guid>
       <description>In our recent works, by leveraging a combination of parallelism, approximation, and structure exploitation, we have enabled and accelerated (nonlinear) trajectory optimization solvers for real-time performance on non-standard computational hardware, ranging from microcontrollers (MCUs) to graphical processing units (GPUs). This has led to real-time MPC onboard an MCU powered 27g quadrotor for dynamic obstacle avoidance, as well as simulated whole-body nonlinear MPC at kHz rates for a GPU powered manipulator for high speed trajectory tracking.</description>
     </item>
-    
     <item>
       <title>Can Large Language Models Reduce the Barriers to Entry for High School Robotics?</title>
       <link>https://a2r-lab.github.io/publication/llmfrccodegen/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/llmfrccodegen/</guid>
       <description>In this study we will investigate whether we can reduce the barriers to entry for high school robotics through the use of code generation models derived from large language models (LLMs). As such, we aim to raise the abstraction barrier for the development of artificial intelligence algorithms needed to program and control the Romi Robot used in the FIRST Robotics Competition (FRC). To do so we develop a web interface that helps automate the prompt-engineer step and allows students to easily incorporate OpenAI Codex into their workflows.</description>
     </item>
-    
     <item>
       <title>Tiny Robot Learning: Expanding Access to Edge ML as a Step Toward Accessible Robotics</title>
       <link>https://a2r-lab.github.io/publication/tinyrobotlearningrssaccessibility/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinyrobotlearningrssaccessibility/</guid>
       <description>The high barriers to entry associated with robotics, in particular its high cost, has rendered it inaccessibility for many. In this poster we present our early efforts to begin to address these challenges through edge machine learning (ML). We show how ultra-low-cost robot and computational hardware paired with open-source software and courseware can be leveraged for hands-on education globally and the beginnings of a globally diverse research community.</description>
     </item>
-    
     <item>
       <title>Bridging the Digital Divide: the Promising Impact of TinyML for Developing Countries</title>
       <link>https://a2r-lab.github.io/publication/tinymlunsti23/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinymlunsti23/</guid>
       <description>The rise of TinyML has opened up new opportunities for the development of smart, low-power devices in resource-constrained environments. A network of 40 universities has been established over the past two years with the goal of promoting the use of TinyML in developing regions. The members of this network have taught courses at their home institutions and have completed their first research projects covering topics ranging from the diagnosis of respiratory diseases in Rwanda to assistive technology development in Brazil, bee population monitoring in Kenya and estimating the lifespan of the date palm fruit in Saudi Arabia. We suggest three policy recommendations to increase the future impact: first, training and research activities in STI should focus on regional networks; second, the ethics of artificial intelligence must be covered in all activities; and third, we need to support local champions better.</description>
     </item>
-    
     <item>
       <title>Leveraging Community Software in CS Education to Avoid Reinventing the Wheel</title>
       <link>https://a2r-lab.github.io/publication/csedreinventing/</link>
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/csedreinventing/</guid>
       <description>Historically, computing instructors and researchers have developed a wide variety of tools to support teaching and educational research, including exam and code testing suites and data collection solutions. Many are then community or individually maintained. However, these tools often find limited adoption beyond their creators. As a result, it is common for many of the same functionalities to be re-implemented by different instructional groups within the CS Education community. We hypothesize that this is due in part to accessibility, discoverability, and adaptability challenges, among others. Further, instructors often face institutional barriers to deployment, which can include hesitance of institutions to utilize community developed solutions that often lack a centralized authority. This working group will explore what solutions are currently available, what instructors need, and reasons behind the above-mentioned phenomenon.</description>
     </item>
-    
     <item>
       <title>Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms</title>
       <link>https://a2r-lab.github.io/publication/bittlesim2real/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/bittlesim2real/</guid>
       <description>As a step toward robust learning pipelines for these constrained robot platforms, we demonstrate how existing state-of-the-art imitation learning pipelines can be modified and augmented to support low-cost, limited hardware. By reducing our model’s observational space, leveraging TinyML to quantize our model, and adjusting the model outputs through post-processing, we are able to learn and deploy successful walking gaits on an 8-DoF, $299 (USD) toy quadruped robot that has reduced actuation and sensor feedback, as well as limited computing resources.</description>
     </item>
-    
     <item>
       <title>TinyML: Applied AI for Development</title>
       <link>https://a2r-lab.github.io/publication/tinymlunsti22/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinymlunsti22/</guid>
       <description>We believe that TinyML has a significant role to play in achieving the SDGs and facilitating scientific research in areas such as environmental monitoring, physics of complex systems and energy management. To broaden access and participation and increase the impact of this new technology, we present an initiative that is creating and supporting a global network of academic institutions working on TinyML in developing countries. We suggest the development of additional open educational resources, South–South academic collaboration and pilot projects of at-scale TinyML solutions aimed at addressing the SDGs.</description>
     </item>
-    
     <item>
       <title>TinyMLedu: The Tiny Machine Learning Open Education Initiative</title>
       <link>https://a2r-lab.github.io/publication/tinymledu/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinymledu/</guid>
       <description>&lt;a href=&#34;https://tinymledu.org&#34;&gt;TinyMLedu&lt;/a&gt; is working to build an international coalition of researchers and practitioners advancing TinyML in the developing world, and to develop and share high-quality, open-access educational materials globally.</description>
     </item>
-    
     <item>
       <title>Realtime Model Predictive Control using Parallel DDP on a GPU</title>
       <link>https://a2r-lab.github.io/publication/parallelddp_icra/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/parallelddp_icra/</guid>
-      <description>In this extended abstract we extend our &lt;a href=&#34;https://a2r-lab.github.io/publication/parallelddp&#34;&gt;previous work&lt;/a&gt; by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.</description>
+      <description>In this extended abstract we extend our &lt;a href=&#34;https://a2r-lab.github.io/publication/parallelddp/&#34;&gt;previous work&lt;/a&gt; by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.</description>
     </item>
-    
   </channel>
 </rss>
