@@ -162,6 +162,60 @@
     </item>
     
     <item>
+      <title>Quadrotor</title>
+      <link>https://a2r-lab.github.io/tags/quadrotor/</link>
+      <pubDate>Mon, 13 May 2024 00:00:05 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/quadrotor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preconditioning</title>
+      <link>https://a2r-lab.github.io/tags/preconditioning/</link>
+      <pubDate>Mon, 13 May 2024 00:00:03 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/preconditioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressed Learning</title>
+      <link>https://a2r-lab.github.io/tags/compressed-learning/</link>
+      <pubDate>Mon, 13 May 2024 00:00:02 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/compressed-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://a2r-lab.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 13 May 2024 00:00:02 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://a2r-lab.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Mon, 13 May 2024 00:00:02 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot Learning</title>
+      <link>https://a2r-lab.github.io/tags/robot-learning/</link>
+      <pubDate>Mon, 13 May 2024 00:00:02 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/tags/robot-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Benchmarking</title>
       <link>https://a2r-lab.github.io/tags/benchmarking/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
@@ -171,65 +225,11 @@
     </item>
     
     <item>
-      <title>Compressed Learning</title>
-      <link>https://a2r-lab.github.io/tags/compressed-learning/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/compressed-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hardware-Software Co-Design</title>
       <link>https://a2r-lab.github.io/tags/hardware-software-co-design/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/tags/hardware-software-co-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://a2r-lab.github.io/tags/machine-learning/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preconditioning</title>
-      <link>https://a2r-lab.github.io/tags/preconditioning/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/preconditioning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quadrotor</title>
-      <link>https://a2r-lab.github.io/tags/quadrotor/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/quadrotor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning</title>
-      <link>https://a2r-lab.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robot Learning</title>
-      <link>https://a2r-lab.github.io/tags/robot-learning/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2r-lab.github.io/tags/robot-learning/</guid>
       <description></description>
     </item>
     
