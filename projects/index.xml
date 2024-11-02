@@ -7,42 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accessible STEM Education</title>
       <link>https://a2r-lab.github.io/projects/openstem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/projects/openstem/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Co-Designing Computational Systems for Robotics</title>
       <link>https://a2r-lab.github.io/projects/codesign/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/projects/codesign/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Next Generation (Nonlinear) Optimization Solvers</title>
       <link>https://a2r-lab.github.io/projects/optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/projects/optimization/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Responsible Tiny Robots</title>
       <link>https://a2r-lab.github.io/projects/tinyrobots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/projects/tinyrobots/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
