@@ -401,7 +401,7 @@
     <loc>https://a2r-lab.github.io/tags/materiality/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/publication/pervasivesensors/</loc>
+    <loc>https://a2r-lab.github.io/publication/materiality/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/privacy/</loc>
@@ -957,16 +957,20 @@
   </url><url>
     <loc>https://a2r-lab.github.io/icra-24/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/projects/openstem/</loc>
+    <loc>https://a2r-lab.github.io/projects/robotlearning/</loc>
+  </url><url>
+    <loc>https://a2r-lab.github.io/projects/middlewarebenchmarking/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/categories/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/projects/codesign/</loc>
+    <loc>https://a2r-lab.github.io/projects/accelerators/</loc>
+  </url><url>
+    <loc>https://a2r-lab.github.io/projects/gpuoptimization/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/join/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/projects/optimization/</loc>
-  </url><url>
     <loc>https://a2r-lab.github.io/projects/tinyrobots/</loc>
+  </url><url>
+    <loc>https://a2r-lab.github.io/projects/responsibleaccessible/</loc>
   </url>
 </urlset>

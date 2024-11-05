@@ -10,31 +10,45 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Accessible STEM Education</title>
-      <link>https://a2r-lab.github.io/projects/openstem/</link>
+      <title>Accelerated and Memory Efficient Edge Reinforcement Learning</title>
+      <link>https://a2r-lab.github.io/projects/robotlearning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/projects/openstem/</guid>
+      <guid>https://a2r-lab.github.io/projects/robotlearning/</guid>
       <description></description>
     </item>
     <item>
-      <title>Co-Designing Computational Systems for Robotics</title>
-      <link>https://a2r-lab.github.io/projects/codesign/</link>
+      <title>Accelerated Middleware and Benchmarking for Robotics</title>
+      <link>https://a2r-lab.github.io/projects/middlewarebenchmarking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/projects/codesign/</guid>
+      <guid>https://a2r-lab.github.io/projects/middlewarebenchmarking/</guid>
       <description></description>
     </item>
     <item>
-      <title>Next Generation (Nonlinear) Optimization Solvers</title>
-      <link>https://a2r-lab.github.io/projects/optimization/</link>
+      <title>Computational Hardware Accelerators for Robotics</title>
+      <link>https://a2r-lab.github.io/projects/accelerators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/projects/optimization/</guid>
+      <guid>https://a2r-lab.github.io/projects/accelerators/</guid>
       <description></description>
     </item>
     <item>
-      <title>Responsible Tiny Robots</title>
+      <title>GPU-Accelerated Optimization and Optimal Control</title>
+      <link>https://a2r-lab.github.io/projects/gpuoptimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/projects/gpuoptimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Next Generation Intelligence for Tiny Robots</title>
       <link>https://a2r-lab.github.io/projects/tinyrobots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/projects/tinyrobots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Responsible and Accessible Robotics and Computing</title>
+      <link>https://a2r-lab.github.io/projects/responsibleaccessible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/projects/responsibleaccessible/</guid>
       <description></description>
     </item>
   </channel>

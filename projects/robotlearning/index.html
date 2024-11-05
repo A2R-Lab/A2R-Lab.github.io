@@ -1,0 +1,1306 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+      
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Machine learning-based robotics applications are increasing in prevalence and importance. Whether structured as foundation-models, pixels-to-actions policies, or as learned hyperparameters or models for classical approaches, these algorithms will need to run on the edge to support the next generation of field robots. We are therefore working to reduce the challenging memory requirements and long runtimes of such algorithms, enabling their use at the edge.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/projects/robotlearning/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#002f6c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.671a5d321dd11f585302404280009266.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://a2r-lab.github.io/projects/robotlearning/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="A²R Lab">
+  <meta property="og:url" content="https://a2r-lab.github.io/projects/robotlearning/">
+  <meta property="og:title" content="Accelerated and Memory Efficient Edge Reinforcement Learning | A²R Lab">
+  <meta property="og:description" content="Machine learning-based robotics applications are increasing in prevalence and importance. Whether structured as foundation-models, pixels-to-actions policies, or as learned hyperparameters or models for classical approaches, these algorithms will need to run on the edge to support the next generation of field robots. We are therefore working to reduce the challenging memory requirements and long runtimes of such algorithms, enabling their use at the edge."><meta property="og:image" content="https://a2r-lab.github.io/projects/robotlearning/featured.png">
+  <meta property="og:locale" content="en-us">
+  
+  
+  
+  
+
+  
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BWMRJXPX7Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BWMRJXPX7Z');
+</script>
+
+  <title>Accelerated and Memory Efficient Edge Reinforcement Learning | A²R Lab</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">A²R Lab</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/projects">
+            
+            <span>Research Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/people">
+            
+            <span>People</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/join">
+            
+            <span>Join Us</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="http://brianplancher.com/courses/" target="_blank" rel="noopener">
+            
+            <span>PI's Courses</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://cs.barnard.edu" target="_blank" rel="noopener">
+            
+            <span>Barnard CS</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/projects/robotlearning/featured_hu0efbe3643759ee5c5707e4d2b33bd620_838710_800x0_resize_lanczos_3.png');"></div>
+  
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">Accelerated and Memory Efficient Edge Reinforcement Learning</h1>        
+        <p class="page-subtitle" style="color:#404040;"></p>
+        <meta content="" itemprop="dateModified">
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/projects/robotlearning/featured_hu0efbe3643759ee5c5707e4d2b33bd620_838710_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">Accelerated and Memory Efficient Edge Reinforcement Learning</h1>
+  <meta content="" itemprop="dateModified">
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Project Overview</h3>
+      <p class="pub-abstract" itemprop="text">Machine learning-based robotics applications are increasing in prevalence and importance. Whether structured as foundation-models, pixels-to-actions policies, or as learned hyperparameters or models for classical approaches, these algorithms will need to run on the edge to support the next generation of field robots. We are therefore working to reduce the challenging memory requirements and long runtimes of such algorithms, enabling their use at the edge.</p>
+      
+      
+    
+
+    
+
+
+
+
+
+
+
+
+
+<h3>Publications</h3>
+
+<ul>
+
+  <li>
+    <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+
+
+
+  
+  
+
+  <span itemprop="author" class="article-metadata li-cite-author">
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/grossmanlev" target="_blank">Lev Grossman</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>
+
+  </span>
+  (2024).
+  <a href="/publication/diffcompressdrl/" itemprop="name">Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning</a>.
+  In <em>ICRA 2024</em>.
+  
+  <br/><b><i>
+
+
+
+
+</i></b>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2310.01767" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/diffcompressdrl/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/ICRA57147.2024.10611215" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/A2R-Lab/DiffCompressDRL" target="_blank" rel="noopener">
+    
+    Code
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+  </li>
+  <li>
+    <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+
+
+
+  
+  
+
+  <span itemprop="author" class="article-metadata li-cite-author">
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/grossmanlev" target="_blank">Lev Grossman</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>
+
+  </span>
+  (2023).
+  <a href="/publication/justround/" itemprop="name">Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion</a>.
+  In <em>ICRA 2023</em>.
+  
+  <br/><b><i>
+
+
+
+
+</i></b>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2210.08065.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/justround/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/3jfAxLUjUSc" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/ICRA48891.2023.10160293" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/A2R-Lab/Just-Round" target="_blank" rel="noopener">
+    
+    Code
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+  </li>
+  <li>
+    <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+
+
+
+  
+  
+
+  <span itemprop="author" class="article-metadata li-cite-author">
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://jabbourjason.com/" target="_blank">Jason Jabbour</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://scholar.harvard.edu/sneuman" target="_blank">Sabrina M. Neuman</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://markmaz.com/" target="_blank">Mark Mazumder</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.colbybanbury.com/" target="_blank">Colby Banbury</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/shvetank-prakash" target="_blank">Shvetank Prakash</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://scholar.harvard.edu/vijay-janapa-reddi/home" target="_blank">Vijay Janapa Reddi</a>
+        </span>
+
+  </span>
+  (2022).
+  <a href="/publication/bittlesim2real/" itemprop="name">Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms</a>.
+  In <em>Workshop on Closing the Sim2Real Gap at RSS 2022</em>.
+  
+  <br/><b><i>
+
+</i></b>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://sim2real.github.io/assets/papers/2022/jabbour.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/bittlesim2real/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/Bittle_Sim2Real_RSS22.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/jloya0TOzWA" target="_blank" rel="noopener">
+    
+    Video
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+  </li>
+  <li>
+    <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+
+
+
+  
+  
+
+  <span itemprop="author" class="article-metadata li-cite-author">
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/grossmanlev" target="_blank">Lev Grossman</a>
+        </span>
+
+  </span>
+  (2020).
+  <a href="/publication/levthesis/" itemprop="name">Reinforcement Learning to Enable Robust Robotic Model Predictive Control</a>.
+  Harvard University Bachelors of Arts Thesis.
+  
+  <br/><b><i>
+
+</i></b>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dash.harvard.edu/bitstream/handle/1/37364714/GROSSMAN-SENIORTHESIS-2020.pdf?sequence=1&amp;isAllowed=y" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/levthesis/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+  </li>
+  <li>
+    <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+
+
+
+  
+  
+
+  <span itemprop="author" class="article-metadata li-cite-author">
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/camelia-d-brumar-ab8339172" target="_blank">Camelia D. Brumar</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.seas.harvard.edu/directory/ibrumar" target="_blank">Iulian Brumar</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://lpentecost.github.io/cv/" target="_blank">Lillian Pentecost</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://sakethrama.com/" target="_blank">Saketh Rama</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="http://www.eecs.harvard.edu/~dbrooks/" target="_blank">David Brooks</a>
+        </span>
+
+  </span>
+  (2019).
+  <a href="/publication/appliedapproxmm/" itemprop="name">Application of Approximate Matrix Multiplication to Neural Networks and Distributed SLAM</a>.
+  In <em>HPEC 2019</em>.
+  
+  <br/><b><i>
+
+</i></b>
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/Applied_Approx_MM.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/appliedapproxmm/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/HPEC.2019.8916468" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+  </li></ul>
+
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+
+<h3>Collaborators</h3>
+
+<ul>
+
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://brianplancher.com" target="_blank">Brian Plancher</a></span></li>
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://www.linkedin.com/in/camelia-d-brumar-ab8339172" target="_blank">Camelia D. Brumar</a></span></li>
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://www.colbybanbury.com/" target="_blank">Colby Banbury</a></span></li>
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="http://www.eecs.harvard.edu/~dbrooks/" target="_blank">David Brooks</a></span></li>
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://www.seas.harvard.edu/directory/ibrumar" target="_blank">Iulian Brumar</a></span></li>
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://jabbourjason.com/" target="_blank">Jason Jabbour</a></span></li>
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://www.linkedin.com/in/grossmanlev" target="_blank">Lev Grossman</a></span></li>
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://lpentecost.github.io/cv/" target="_blank">Lillian Pentecost</a></span></li>
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://markmaz.com/" target="_blank">Mark Mazumder</a></span></li>
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://scholar.harvard.edu/sneuman" target="_blank">Sabrina M. Neuman</a></span></li>
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://sakethrama.com/" target="_blank">Saketh Rama</a></span></li>
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://www.linkedin.com/in/shvetank-prakash" target="_blank">Shvetank Prakash</a></span></li>
+    <li><span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://scholar.harvard.edu/vijay-janapa-reddi/home" target="_blank">Vijay Janapa Reddi</a></span></li></ul>
+
+
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hub3205ed3c893c1f053112545244d1e4e_146209_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      
+      
+      <h5 class="card-title" itemprop="name"><a href="/authors/admin/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+          <li>
+            <a itemprop="sameAs" href="mailto:barnard.a2r.lab@gmail.com" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/a2r-lab" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=Hys8HdsAAAAJ" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
+<div class="container">
+  <footer class="site-footer">
+
+
+  <p class="powered-by">
+    © 2024 Brian Plancher &middot; 
+
+    Powered by the Academic theme for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+    
+    <script src="/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.8f452a0cd988430f316a081b49c9d361.js"></script>
+
+  </body>
+</html>
+
