@@ -7,49 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a2r-lab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accelerated and Memory Efficient Edge Reinforcement Learning</title>
       <link>https://a2r-lab.github.io/projects/robotlearning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/projects/robotlearning/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Accelerated Middleware and Benchmarking for Robotics</title>
       <link>https://a2r-lab.github.io/projects/middlewarebenchmarking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/projects/middlewarebenchmarking/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Computational Hardware Accelerators for Robotics</title>
       <link>https://a2r-lab.github.io/projects/accelerators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/projects/accelerators/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>GPU-Accelerated Optimization and Optimal Control</title>
       <link>https://a2r-lab.github.io/projects/gpuoptimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/projects/gpuoptimization/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Next Generation Intelligence for Tiny Robots</title>
       <link>https://a2r-lab.github.io/projects/tinyrobots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/projects/tinyrobots/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Responsible and Accessible Robotics and Computing</title>
       <link>https://a2r-lab.github.io/projects/responsibleaccessible/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/projects/responsibleaccessible/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
