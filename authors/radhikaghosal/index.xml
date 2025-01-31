@@ -7,42 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/radhikaghosal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/authors/radhikaghosal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/radhikaghosal/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/radhikaghosal/</guid>
+      <description></description>
+    </item>
     <item>
       <title>RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots</title>
       <link>https://a2r-lab.github.io/publication/roboshape/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/roboshape/</guid>
       <description>We present RoboShape, an accelerator framework that leverages two topology-based computational patterns that scale with robot size: (1) topology traversals, and (2) large topology-based matrices. Using these patterns and building on prior work, we expose opportunities to directly use robot topology to inform architectural mechanisms including task scheduling and allocation, data placement, block matrix operations, and sparse I/O data. For the topologically-diverse iiwa manipulator, HyQ quadruped, and Baxter torso robots, RoboShape accelerators on an FPGA provide a 4.0x to 4.4x speedup in compute latency over CPU and a 8.0x to 15.1x speedup over GPU for the dynamics gradients, a key bottleneck preventing online execution of nonlinear optimal motion control for legged robots. Taking a broader view, for topology-based applications, RoboShape enables analysis of performance and resource utilization tradeoffs that will be critical to managing resources across accelerators in future full robotics domain-specific SoCs.</description>
     </item>
-    
     <item>
       <title>GRiD: GPU-Accelerated Rigid Body Dynamics with Analytical Gradients</title>
       <link>https://a2r-lab.github.io/publication/grid/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/grid/</guid>
       <description>We introduce and release GRiD, an open-source, GPU-accelerated library for computing rigid body dynamics with analytical gradients. GRiD was designed to accelerate nonlinear trajectory optimization through optimized code generation, GRiD provides as much as a 7.2x speedup over a state-of-the-art, multi-threaded CPU implementation and maintains as much as a 2.5x speedup when accounting for I/O overhead.</description>
     </item>
-    
     <item>
       <title>Widening Access to Applied Machine Learning with TinyML</title>
       <link>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</guid>
       <description>In this paper, we describe our pedagogical approach to increasing access to applied ML through a four part massive open online course (MOOC) on Tiny Machine Learning (TinyML) produced in collaboration between academia (Harvard University) and industry (Google). We suggest that TinyML, ML on resource-constrained embedded devices, is an attractive means to widen access because TinyML both leverages low-cost and globally accessible hardware, and encourages the development of complete, self-contained applications, from data collection to deployment. We also released the course materials publicly, hoping they will inspire the next generation of ML practitioners and educators and further broaden access to cutting-edge ML technologies.</description>
     </item>
-    
     <item>
       <title>RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity</title>
       <link>https://a2r-lab.github.io/publication/roborun/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/roborun/</guid>
       <description>This paper introduces RoboRun, a mobile-robot runtime that dynamically exploits the compute-environment synergy to improve performance and energy. We implement RoboRun in the Robot Operating System (ROS) and evaluate it on autonomous drones. We compare RoboRun against a state-of-the-art static design and show 4.5X and 4X improvements in mission time and energy, respectively, as well as a 36% reduction in CPU utilization.</description>
     </item>
-    
   </channel>
 </rss>

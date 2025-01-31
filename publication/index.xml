@@ -7,393 +7,308 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs</title>
       <link>https://a2r-lab.github.io/publication/optimizingatallscales/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/optimizingatallscales/</guid>
       <description>In our recent works, by leveraging a combination of parallelism, approximation, and structure exploitation, we have enabled and accelerated (nonlinear) trajectory optimization solvers for real-time performance on non-standard computational hardware, ranging from microcontrollers (MCUs) to graphical processing units (GPUs). This has led to real-time MPC onboard an MCU powered 27g quadrotor for dynamic obstacle avoidance, as well as simulated whole-body nonlinear MPC at kHz rates for a GPU powered manipulator for high speed trajectory tracking.</description>
     </item>
-    
     <item>
       <title>Invited: The Magnificent Seven Challenges and Opportunities in Domain-Specific Accelerator Design for Autonomous Systems</title>
       <link>https://a2r-lab.github.io/publication/magnificentseven/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/magnificentseven/</guid>
       <description>In this work, we present the Magnificent Seven Challenges in domain-specific accelerator design that can guide adventurous architects to contribute meaningfully to novel application domains. Although these challenges appear across domains ranging from ML to genomics, we examine them through the lens of autonomous systems as a motivating example in this work. To that end, we identify opportunities for the path forward in a successful domain-specific accelerator design from these challenges.</description>
     </item>
-    
     <item>
       <title>Parallel Optimization for Robotics: An Undergraduate Introduction to GPU Parallel Programming and Numerical Optimization Research</title>
       <link>https://a2r-lab.github.io/publication/paroptrobcourse/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/paroptrobcourse/</guid>
       <description>While parallel programming, particularly on graphics processing units (GPUs), and numerical optimization hold immense potential to tackle real-world computational challenges across disciplines, their inherent complexity and technical demands often act as daunting barriers to entry. This, unfortunately, limits accessibility and diversity within these crucial areas of computer science. To combat this challenge and ignite excitement among undergraduate learners, we developed an application-driven course, harnessing robotics as a lens to demystify the intricacies of these topics making them tangible and engaging. Our course&amp;rsquo;s prerequisites are limited to the required undergraduate introductory core curriculum, opening doors for a wider range of students. Our course also features a large final-project component to connect theoretical learning to applied practice. In our first offering of the course we attracted 27 students without prior experience in these topics and found that an overwhelming majority of the students felt that they learned both technical and soft skills such that they felt prepared for future study in these fields.</description>
     </item>
-    
     <item>
       <title>TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</title>
       <link>https://a2r-lab.github.io/publication/tinympc/</link>
       <pubDate>Mon, 13 May 2024 00:00:05 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinympc/</guid>
       <description>Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance.</description>
     </item>
-    
     <item>
       <title>MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</title>
       <link>https://a2r-lab.github.io/publication/mpcgpu/</link>
       <pubDate>Mon, 13 May 2024 00:00:04 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/mpcgpu/</guid>
       <description>We introduce MPCGPU, a GPU-accelerated, real-time NMPC solver that leverages an accelerated preconditioned conjugate gradient (PCG) linear system solver at its core. We show that MPCGPU increases the scalability and real-time performance of NMPC, solving larger problems, at faster rates. In particular, for tracking tasks using the Kuka IIWA manipulator, MPCGPU is able to scale to kilohertz control rates with trajectories as long as 512 knot points. This is driven by a custom PCG solver which outperforms state-of-the-art, CPU-based, linear system solvers by at least 10x for a majority of solves and 3.6x on average.</description>
     </item>
-    
     <item>
       <title>Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization</title>
       <link>https://a2r-lab.github.io/publication/symstair/</link>
       <pubDate>Mon, 13 May 2024 00:00:03 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/symstair/</guid>
       <description>In this work we present a new parallel-friendly symmetric stair preconditioner. We prove that our preconditioner has advantageous theoretical properties when used in conjunction with iterative methods for trajectory optimization such as a more clustered eigenvalue spectrum. Numerical experiments with typical trajectory optimization problems reveal that as compared to the best alternative parallel preconditioner from the literature, our symmetric stair preconditioner provides up to a 34% reduction in condition number and up to a 25% reduction in the number of resulting linear system solver iterations.</description>
     </item>
-    
     <item>
       <title>Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning</title>
       <link>https://a2r-lab.github.io/publication/diffcompressdrl/</link>
       <pubDate>Mon, 13 May 2024 00:00:02 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/diffcompressdrl/</guid>
       <description>Perceptive deep reinforcement learning (DRL) has lead to many recent breakthroughs for complex AI systems leveraging image-based input data. However, training these perceptive DRL-enabled systems remains incredibly memory intensive. In this paper, we begin to address this issue through differentially encoded observation spaces. By reinterpreting stored image-based observations as a video, we leverage lossless differential video encoding schemes to compress the replay buffer without impacting training performance. We evaluate our approach with three state-of-the-art DRL algorithms and find that differential image encoding reduces the memory footprint by as much as 14.2x and 16.7x across tasks from the Atari 2600 benchmark and the DeepMind Control Suite (DMC) respectively. These savings also enable large-scale perceptive DRL that previously required paging between flash and RAM to be run entirely in RAM, improving the latency of DMC tasks by as much as 32%..</description>
     </item>
-    
     <item>
       <title>RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance</title>
       <link>https://a2r-lab.github.io/publication/robotperf/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/robotperf/</guid>
       <description>We introduce RobotPerf, a vendor-agnostic benchmarking suite designed to evaluate robotics computing performance across a diverse range of hardware platforms using ROS 2 as its common baseline. The suite encompasses ROS 2 packages covering the full robotics pipeline and integrates two distinct benchmarking approaches: black-box testing, which measures performance by eliminating upper layers and replacing them with a test application, and grey-box testing, an application-specific measure that observes internal system states with minimal interference. Our benchmarking framework provides ready-to-use tools and is easily adaptable for the assessment of custom ROS 2 computational graphs. Drawing from the knowledge of leading robot architects and system architecture experts, RobotPerf establishes a standardized approach to robotics benchmarking. As an open-source initiative, RobotPerf remains committed to evolving with community input to advance the future of hardware-accelerated robotics.</description>
     </item>
-    
     <item>
       <title>Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC</title>
       <link>https://a2r-lab.github.io/publication/conictinympc/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/conictinympc/</guid>
       <description>We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to handle second-order cone constraints. We also present code-generation software to enable deployment of TinyMPC on a variety of microcontrollers. We benchmark our generated code against state-of-the-art embedded QP and SOCP solvers, demonstrating a two-order-of-magnitude speed increase over ECOS while consuming less memory. Finally, we demonstrate TinyMPC&amp;rsquo;s efficacy on the Crazyflie, a lightweight, resource-constrained quadrotor with fast dynamics. TinyMPC and its code-generation tools are publicly available at &lt;a href=&#34;https://tinympc.org/&#34;&gt;tinympc.org&lt;/a&gt;.</description>
     </item>
-    
     <item>
       <title>TinyML4D: Scaling Embedded Machine Learning Education in the Developing World</title>
       <link>https://a2r-lab.github.io/publication/scalingtinyml4d/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/scalingtinyml4d/</guid>
       <description>Embedded machine learning (ML) on low-power devices, also known as &amp;ldquo;TinyML,&amp;rdquo; enables intelligent applications on accessible hardware and fosters collaboration across disciplines to solve real-world problems. Its interdisciplinary and practical nature makes embedded ML education appealing, but barriers remain that limit its accessibility, especially in developing countries. Challenges include limited open-source software, courseware, models, and datasets that can be used with globally accessible heterogeneous hardware. Our vision is that with concerted effort and partnerships between industry and academia, we can overcome such challenges and enable embedded ML education to empower developers and researchers worldwide to build locally relevant AI solutions on low-cost hardware, increasing diversity and sustainability in the field. Towards this aim, we document efforts made by the TinyML4D community to scale embedded ML education globally through open-source curricula and introductory workshops co-created by international educators. We conclude with calls to action to further develop modular and inclusive resources and transform embedded ML into a truly global gateway to embedded AI skills development.</description>
     </item>
-    
     <item>
       <title>Underrepresentation of Women in Robotics Research</title>
       <link>https://a2r-lab.github.io/publication/underrepresentationwomenram/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/underrepresentationwomenram/</guid>
       <description>Computer science (CS) and engineering research both have large and well documented gender diversity gaps. In fact, previous studies have reported that the overall CS Female Author Ratio (FAR) is only in the range of 16-26% and varies significantly between CS subfields ranging from as high as 42% in CS Education to as low as 8% in Theory and Algorithms. To understand the current state of gender diversity of robotics, we recently collected and analyzed the gender of paper authors from all IEEE RAS fully sponsored conferences (ARSO, CASE, HAPTICS, Humanoids, ICRA, ISAM, MEMS, RoboSoft, SIMPAR, SSRR) as well as IROS and RA-L from 2019-2021. Overall, we find that robotics has a long way to go to reach gender parity, with an overall FAR of only 11-12%. We hope this analysis helps the robotics community to continue to emphasize the importance of working to improve our diversity.</description>
     </item>
-    
     <item>
       <title>Materiality and Risk in the Age of Pervasive AI Sensors</title>
       <link>https://a2r-lab.github.io/publication/materiality/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/materiality/</guid>
       <description>Artificial intelligence systems connected to sensor-laden devices are becoming pervasive, which has significant implications for a range of AI risks, including to privacy, the environment, autonomy, and more. In this paper, we provide a comprehensive analysis of the evolution of sensors, the risks they pose by virtue of their material existence in the world, and the impacts of ubiquitous sensing and on-device AI. We propose incorporating sensors into risk management frameworks and call for more responsible sensor and system design paradigms that address risks of such systems. We show through calculative models that current systems prioritize data collection and cost reduction and produce risks that emerge around privacy, surveillance, waste, and power dynamics. We then analyze these risks, highlighting issues of validity, safety, security, accountability, interpretability, and bias. We conclude by advocating for increased attention to the materiality of algorithmic systems, and of on-device AI sensors in particular, and highlight the need for development of a responsible sensor design paradigm that empowers users and communities and leads to a future of increased fairness, accountability and transparency.</description>
     </item>
-    
     <item>
       <title>AI in the Developing World: How ‘Tiny Machine Learning’ can have a Big Impact</title>
       <link>https://a2r-lab.github.io/publication/tinymltheconversation/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinymltheconversation/</guid>
       <description>The landscape of artificial intelligence (AI) applications has traditionally been dominated by the use of resource-intensive servers centralised in industrialised nations. However, recent years have witnessed the emergence of small, energy-efficient devices for AI applications, a concept known as tiny machine learning (TinyML). We’re most familiar with consumer-facing applications such as Siri, Alexa, and Google Assistant, but the limited cost and small size of such devices allow them to be deployed in the field. For example, the technology has been used to detect mosquito wingbeats and so help prevent the spread of malaria. It’s also been part of the development of low-power animal collars to support conservation efforts.</description>
     </item>
-    
     <item>
       <title>Can Large Language Models Reduce the Barriers to Entry for High School Robotics?</title>
       <link>https://a2r-lab.github.io/publication/llmfrccodegen/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/llmfrccodegen/</guid>
       <description>In this study we will investigate whether we can reduce the barriers to entry for high school robotics through the use of code generation models derived from large language models (LLMs). As such, we aim to raise the abstraction barrier for the development of artificial intelligence algorithms needed to program and control the Romi Robot used in the FIRST Robotics Competition (FRC). To do so we develop a web interface that helps automate the prompt-engineer step and allows students to easily incorporate OpenAI Codex into their workflows.</description>
     </item>
-    
     <item>
       <title>Tiny Robot Learning: Expanding Access to Edge ML as a Step Toward Accessible Robotics</title>
       <link>https://a2r-lab.github.io/publication/tinyrobotlearningrssaccessibility/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinyrobotlearningrssaccessibility/</guid>
       <description>The high barriers to entry associated with robotics, in particular its high cost, has rendered it inaccessibility for many. In this poster we present our early efforts to begin to address these challenges through edge machine learning (ML). We show how ultra-low-cost robot and computational hardware paired with open-source software and courseware can be leveraged for hands-on education globally and the beginnings of a globally diverse research community.</description>
     </item>
-    
     <item>
       <title>Datasheets for Machine Learning Sensors</title>
       <link>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</guid>
       <description>This paper introduces a standard datasheet template for ML sensors and discusses its essential components inluding: the system&amp;rsquo;s hardware, ML model and dataset attributes, end-to-end performance metrics, and environmental impact. We provide an example datasheet for our own ML sensor and discuss each section in detail. We highlight how these datasheets can facilitate better understanding and utilization of sensor data in ML applications, and we provide objective measures upon which system performance can be evaluated and compared.</description>
     </item>
-    
     <item>
       <title>RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots</title>
       <link>https://a2r-lab.github.io/publication/roboshape/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/roboshape/</guid>
       <description>We present RoboShape, an accelerator framework that leverages two topology-based computational patterns that scale with robot size: (1) topology traversals, and (2) large topology-based matrices. Using these patterns and building on prior work, we expose opportunities to directly use robot topology to inform architectural mechanisms including task scheduling and allocation, data placement, block matrix operations, and sparse I/O data. For the topologically-diverse iiwa manipulator, HyQ quadruped, and Baxter torso robots, RoboShape accelerators on an FPGA provide a 4.0x to 4.4x speedup in compute latency over CPU and a 8.0x to 15.1x speedup over GPU for the dynamics gradients, a key bottleneck preventing online execution of nonlinear optimal motion control for legged robots. Taking a broader view, for topology-based applications, RoboShape enables analysis of performance and resource utilization tradeoffs that will be critical to managing resources across accelerators in future full robotics domain-specific SoCs.</description>
     </item>
-    
     <item>
       <title>Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion</title>
       <link>https://a2r-lab.github.io/publication/justround/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/justround/</guid>
       <description>Deep reinforcement learning (DRL) is one of the most powerful tools for synthesizing complex robotic behaviors. But training DRL models is incredibly compute and memory intensive, requiring large training datasets and replay buffers to achieve performant results. This poses a challenge for the next generation of field robots that will need to learn on the edge to adapt to their environment. In this paper, we begin to address this issue through observation space quantization. We evaluate our approach using four simulated robot locomotion tasks and two state-of-the-art DRL algorithms, the on-policy Proximal Policy Optimization (PPO) and off-policy Soft Actor-Critic (SAC) and find that observation space quantization reduces overall memory costs by as much as 4.2x without impacting learning performance.</description>
     </item>
-    
     <item>
       <title>Bridging the Digital Divide: the Promising Impact of TinyML for Developing Countries</title>
       <link>https://a2r-lab.github.io/publication/tinymlunsti23/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinymlunsti23/</guid>
       <description>The rise of TinyML has opened up new opportunities for the development of smart, low-power devices in resource-constrained environments. A network of 40 universities has been established over the past two years with the goal of promoting the use of TinyML in developing regions. The members of this network have taught courses at their home institutions and have completed their first research projects covering topics ranging from the diagnosis of respiratory diseases in Rwanda to assistive technology development in Brazil, bee population monitoring in Kenya and estimating the lifespan of the date palm fruit in Saudi Arabia. We suggest three policy recommendations to increase the future impact: first, training and research activities in STI should focus on regional networks; second, the ethics of artificial intelligence must be covered in all activities; and third, we need to support local champions better.</description>
     </item>
-    
     <item>
       <title>Machine Learning Sensors: A Design Paradigm for the Future of Intelligent Sensors</title>
       <link>https://a2r-lab.github.io/publication/mlsensorscacm/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/mlsensorscacm/</guid>
       <description>In this viewpoint we propose the ML sensor: a logical framework for developing ML-enabled embedded systems which empowers end users through its privacy-by-design approach. By limiting the data interface, the ML sensor paradigm helps ensure that no user information can be extracted beyond the scope of the sensor’s functionality. Our proposed definition is as follows: An ML sensor is a self-contained, embedded system that utilizes machine learning to process sensor data on-device – logically decoupling data computation from the main application processor and limiting the data access of the wider system to high-level ML model outputs.</description>
     </item>
-    
     <item>
       <title>Is TinyML Sustainable? Assessing the Environmental Impacts of Machine Learning on Microcontrollers</title>
       <link>https://a2r-lab.github.io/publication/sustainabletinyml/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/sustainabletinyml/</guid>
       <description>The sustained growth of carbon emissions and global waste elicits significant sustainability concerns for our environment&amp;rsquo;s future. The growing Internet of Things (IoT) has the potential to exacerbate this issue. However, an emerging area known as Tiny Machine Learning (TinyML) has the opportunity to help address these environmental challenges through sustainable computing practices. TinyML, the deployment of machine learning (ML) algorithms onto low-cost, low-power microcontroller systems, enables on-device sensor analytics that unlocks numerous always-on ML applications. This article discusses the potential of these TinyML applications to address critical sustainability challenges. Moreover, the footprint of this emerging technology is assessed through a complete life cycle analysis of TinyML systems. From this analysis, TinyML presents opportunities to offset its carbon emissions by enabling applications that reduce the emissions of other sectors. Nevertheless, when globally scaled, the carbon footprint of TinyML systems is not negligible, necessitating that designers factor in environmental impact when formulating new devices. Finally, research directions for enabling further opportunities for TinyML to contribute to a sustainable future are outlined.</description>
     </item>
-    
     <item>
       <title>Stop Reinventing the Wheel! Promoting Community Software in Computing Education</title>
       <link>https://a2r-lab.github.io/publication/csedreinventing_full/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/csedreinventing_full/</guid>
       <description>Historically, computing instructors and researchers have developed a wide variety of tools to support teaching and educational research, including exam and code testing suites and data collection solutions. However, these tools often find limited adoption beyond their creators. As a result, it is common for many of the same functionalities to be re-implemented by different instructional groups within the Computing Education community. We hypothesise that this is due in part to discoverability, availability, and adaptability challenges. Further, instructors often face institutional barriers to deployment, which can include hesitance of institutions to rely on community developed solutions that often lack a centralised authority and may be community or individually maintained. To this end, our working group explored what solutions are currently available, what instructors needed, and the reasons behind the above-mentioned phenomenon. To do so, we reviewed existing literature and surveyed the community to identify the tools that have been developed by the community; the solutions that are currently available and in use by instructors; what features are needed moving forward for classroom and research use; what support for extensions is needed to support further Computing Education research; and what institutional challenges instructors and researchers are currently facing or have faced in using community software solutions. Finally, the working group identified factors that limited adoption of solutions. This work proposes ways to integrate and improve the availability, discoverability, and dissemination of existing community projects, as well as ways to manage and overcome institutional challenges.</description>
     </item>
-    
     <item>
       <title>Leveraging Community Software in CS Education to Avoid Reinventing the Wheel</title>
       <link>https://a2r-lab.github.io/publication/csedreinventing/</link>
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/csedreinventing/</guid>
       <description>Historically, computing instructors and researchers have developed a wide variety of tools to support teaching and educational research, including exam and code testing suites and data collection solutions. Many are then community or individually maintained. However, these tools often find limited adoption beyond their creators. As a result, it is common for many of the same functionalities to be re-implemented by different instructional groups within the CS Education community. We hypothesize that this is due in part to accessibility, discoverability, and adaptability challenges, among others. Further, instructors often face institutional barriers to deployment, which can include hesitance of institutions to utilize community developed solutions that often lack a centralized authority. This working group will explore what solutions are currently available, what instructors need, and reasons behind the above-mentioned phenomenon.</description>
     </item>
-    
     <item>
       <title>RobotCore: An Open Architecture for Hardware Acceleration in ROS 2</title>
       <link>https://a2r-lab.github.io/publication/robotcore/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/robotcore/</guid>
       <description>We introduce RobotCore, an architecture to integrate hardware acceleration in the widely-used ROS 2 robotics software framework. This architecture is target-agnostic (supports edge, workstation, data center, or cloud targets) and accelerator-agnostic (supports both FPGAs and GPUs). It builds on top of the common ROS 2 build system and tools and is easily portable across different research and commercial solutions through a new firmware layer. We also leverage the Linux Tracing Toolkit next generation (LTTng) for low-overhead real-time tracing and benchmarking. To demonstrate the acceleration enabled by this architecture, we design an intra-FPGA ROS 2 node communication queue to enable faster data flows, and use it in conjunction with FPGA-accelerated nodes to achieve a 24.42% speedup over a CPU.</description>
     </item>
-    
     <item>
       <title>Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms</title>
       <link>https://a2r-lab.github.io/publication/bittlesim2real/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/bittlesim2real/</guid>
       <description>As a step toward robust learning pipelines for these constrained robot platforms, we demonstrate how existing state-of-the-art imitation learning pipelines can be modified and augmented to support low-cost, limited hardware. By reducing our model’s observational space, leveraging TinyML to quantize our model, and adjusting the model outputs through post-processing, we are able to learn and deploy successful walking gaits on an 8-DoF, $299 (USD) toy quadruped robot that has reduced actuation and sensor feedback, as well as limited computing resources.</description>
     </item>
-    
     <item>
       <title>Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots</title>
       <link>https://a2r-lab.github.io/publication/tinyrobotlearning/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinyrobotlearning/</guid>
       <description>Tiny robot learning lies at the intersection of embedded systems, robotics, and ML, compounding the challenges of these domains. This paper gives a brief survey of the tiny robot learning space, elaborates on key challenges, and proposes promising opportunities for future work in ML system design.</description>
     </item>
-    
     <item>
       <title>Teaching Embedded Systems Programming</title>
       <link>https://a2r-lab.github.io/publication/dhilanthesis/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/dhilanthesis/</guid>
       <description>This work presents a model for a modular course, seated outside the traditional classroom, from which students and faculty can pick-and-choose the material that is relevant to their interests, doing so in a flexible way that is not obstructed by a list of prerequisite units. Guidance for maintaining accessibility, generality, and module independence accompanies a provided content map. This work culminates in a demonstration of a proof-of-concept aligned to the recommendations made along the way.</description>
     </item>
-    
     <item>
       <title>TinyML: Applied AI for Development</title>
       <link>https://a2r-lab.github.io/publication/tinymlunsti22/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinymlunsti22/</guid>
       <description>We believe that TinyML has a significant role to play in achieving the SDGs and facilitating scientific research in areas such as environmental monitoring, physics of complex systems and energy management. To broaden access and participation and increase the impact of this new technology, we present an initiative that is creating and supporting a global network of academic institutions working on TinyML in developing countries. We suggest the development of additional open educational resources, South–South academic collaboration and pilot projects of at-scale TinyML solutions aimed at addressing the SDGs.</description>
     </item>
-    
     <item>
       <title>GPU Acceleration for Real-time, Whole-body, Nonlinear Model Predictive Control</title>
       <link>https://a2r-lab.github.io/publication/dissertation/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/dissertation/</guid>
       <description>This dissertation address the computational challenges of whole-body, nonlinear model predictive control (MPC) by exposing, analyzing, and leveraging the structured sparsity and parallelism patterns found in the underlying numerical optimization and rigid body dynamics algorithms. Through careful algorithmic refactoring and re-design, this work exploits these patterns to enable real-time MPC performance through GPU-acceleration. It also validates the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU by deploying the resulting implementations onto a physical manipulator arm. Overall, this dissertation finds that GPU acceleration can provide nearly order-of-magnitude speedups, and open-sources its implementations to aid the wider robotics community in accelerating both robotics computations and application development timelines.</description>
     </item>
-    
     <item>
       <title>TinyMLedu: The Tiny Machine Learning Open Education Initiative</title>
       <link>https://a2r-lab.github.io/publication/tinymledu/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinymledu/</guid>
       <description>&lt;a href=&#34;https://tinymledu.org&#34;&gt;TinyMLedu&lt;/a&gt; is working to build an international coalition of researchers and practitioners advancing TinyML in the developing world, and to develop and share high-quality, open-access educational materials globally.</description>
     </item>
-    
     <item>
       <title>GRiD: GPU-Accelerated Rigid Body Dynamics with Analytical Gradients</title>
       <link>https://a2r-lab.github.io/publication/grid/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/grid/</guid>
       <description>We introduce and release GRiD, an open-source, GPU-accelerated library for computing rigid body dynamics with analytical gradients. GRiD was designed to accelerate nonlinear trajectory optimization through optimized code generation, GRiD provides as much as a 7.2x speedup over a state-of-the-art, multi-threaded CPU implementation and maintains as much as a 2.5x speedup when accounting for I/O overhead.</description>
     </item>
-    
     <item>
       <title>Widening Access to Applied Machine Learning with TinyML</title>
       <link>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</guid>
       <description>In this paper, we describe our pedagogical approach to increasing access to applied ML through a four part massive open online course (MOOC) on Tiny Machine Learning (TinyML) produced in collaboration between academia (Harvard University) and industry (Google). We suggest that TinyML, ML on resource-constrained embedded devices, is an attractive means to widen access because TinyML both leverages low-cost and globally accessible hardware, and encourages the development of complete, self-contained applications, from data collection to deployment. We also released the course materials publicly, hoping they will inspire the next generation of ML practitioners and educators and further broaden access to cutting-edge ML technologies.</description>
     </item>
-    
     <item>
       <title>RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity</title>
       <link>https://a2r-lab.github.io/publication/roborun/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/roborun/</guid>
       <description>This paper introduces RoboRun, a mobile-robot runtime that dynamically exploits the compute-environment synergy to improve performance and energy. We implement RoboRun in the Robot Operating System (ROS) and evaluate it on autonomous drones. We compare RoboRun against a state-of-the-art static design and show 4.5X and 4X improvements in mission time and energy, respectively, as well as a 36% reduction in CPU utilization.</description>
     </item>
-    
     <item>
       <title>The Role of Compute in Autonomous Aerial Vehicles</title>
       <link>https://a2r-lab.github.io/publication/roleofcompute/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/roleofcompute/</guid>
       <description>By combining MAVBench (our tool-set, which consists of (1) a closed-loop real-time feedback simulator and (2) an end-to-end benchmark suite comprised of state-of-the-art kernels), analytical modeling, and an understanding of various compute impacts, we show up to 2X and 1.8X improvements for mission time and mission energy for two optimization case studies. Our investigations, as well as our optimizations, show that cyber-physical co-design, a methodology with which both the cyber and physical processes/quantities of the robot are developed with consideration of one another, similar to hardware-software co-design, is necessary for arriving at the design of the optimal robot.</description>
     </item>
-    
     <item>
       <title>Robomorphic Computing: A Design Methodology for Domain-Specific Accelerators Parameterized by Robot Morphology</title>
       <link>https://a2r-lab.github.io/publication/robomorphic/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/robomorphic/</guid>
       <description>We introduce robomorphic computing; a methodology to transform robot morphology into a customized hardware accelerator morphology. In this work, we (i) present this design methodology; (ii) use the methodology to generate a parameterized accelerator design for the gradient of rigid body dynamics; (iii) evaluate FPGA and synthesized ASIC implementations; and (iv) describe how the design can be automatically customized for other robot models. Our FPGA accelerator achieves speedups of 8x and 86x over CPU and GPU latency, and maintains an overall speedup of 1.9x to 2.9x deployed in an end-to-end coprocessor system. ASIC synthesis indicates an additional factor of 7.2x.</description>
     </item>
-    
     <item>
       <title>Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA</title>
       <link>https://a2r-lab.github.io/publication/accellrbdgrad/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/accellrbdgrad/</guid>
       <description>In this paper, we detail the designs of three faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. Our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over our optimized CPU implementation by refactoring the algorithm to exploit its computational features, e.g., parallelism at different granularities.</description>
     </item>
-    
     <item>
       <title>Reinforcement Learning to Enable Robust Robotic Model Predictive Control</title>
       <link>https://a2r-lab.github.io/publication/levthesis/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/levthesis/</guid>
       <description>This thesis proposes a novel algorithm, “Reference-Guided, Value-Based MPC,” which combines model predictive control (MPC) and reinforcement learning (RL) to compute feasible trajectories for a robotic arm. The algorithm does this while 1) achieving an almost 50% higher planning success rate than standard MPC, 2) solving in sparse environments considered unsolvable by current state of the art algorithms, and 3) generalizing its solutions to different environment initializations.</description>
     </item>
-    
     <item>
       <title>Application of Approximate Matrix Multiplication to Neural Networks and Distributed SLAM</title>
       <link>https://a2r-lab.github.io/publication/appliedapproxmm/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/appliedapproxmm/</guid>
       <description>We apply approximate matrix multiplication to artificial Neural Networks for image classification and to the robotics problem of Distributed Simultaneous Localization and Mapping increasing the speed of both applications by 15-20% while maintaining a 97% classification accuracy for NNs running on the MNIST dataset and keeping the average robot position error under 1 meter (vs 0.32 meters for the exact solution). However, both applications experience variance in their results.</description>
     </item>
-    
     <item>
       <title>Realtime Model Predictive Control using Parallel DDP on a GPU</title>
       <link>https://a2r-lab.github.io/publication/parallelddp_icra/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/parallelddp_icra/</guid>
-      <description>In this extended abstract we extend our &lt;a href=&#34;https://a2r-lab.github.io/publication/parallelddp&#34;&gt;previous work&lt;/a&gt; by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.</description>
+      <description>In this extended abstract we extend our &lt;a href=&#34;https://a2r-lab.github.io/publication/parallelddp/&#34;&gt;previous work&lt;/a&gt; by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.</description>
     </item>
-    
     <item>
       <title>A Performance Analysis of Parallel Differential Dynamic Programming on a GPU</title>
       <link>https://a2r-lab.github.io/publication/parallelddp/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/parallelddp/</guid>
-      <description>We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism. This work was &lt;a href=&#34;https://a2r-lab.github.io/publication/parallelddp_icra&#34;&gt;extended&lt;/a&gt; and used for MPC on a physical Kuka arm.</description>
+      <description>We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism. This work was &lt;a href=&#34;https://a2r-lab.github.io/publication/parallelddp_icra/&#34;&gt;extended&lt;/a&gt; and used for MPC on a physical Kuka arm.</description>
     </item>
-    
     <item>
       <title>Parallel and Constrained Differential Dynamic Programming for Model Predictive Control</title>
       <link>https://a2r-lab.github.io/publication/mastersthesis/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/mastersthesis/</guid>
       <description>This thesis builds on recent work on Unscented Dynamic Programming (UDP)—which eliminates dynamics derivative computations in DDP—to support general nonlinear state and input constraints to high precision using an augmented Lagrangian. It then leverages parallel computations for increased throughput and systematically analyzes the insights, challenges, tradeoffs, and benefits of implementing a parallelized variant of DDP on both a multi-core CPU and a graphics processing unit (GPU).</description>
     </item>
-    
     <item>
       <title>Constrained Unscented Dynamic Programming</title>
       <link>https://a2r-lab.github.io/publication/cudp/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/cudp/</guid>
       <description>We build on recent work on Unscented Dynamic Programming (UDP) - which eliminates dynamics derivative computations in DDP - to support general nonlinear state and input constraints using an augmented Lagrangian. The resulting algorithm has the same computational cost as first-order penalty-based DDP variants, but can achieve constraint satisfaction to high precision without the numerical ill-conditioning associated with penalty methods.</description>
     </item>
-    
     <item>
       <title>Project-based, collaborative, algorithmic robotics for high school students: Programming self-driving race cars at MIT</title>
       <link>https://a2r-lab.github.io/publication/racecarteaching/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/racecarteaching/</guid>
       <description>We describe the pedagogy behind the MIT Beaver Works Summer Institute Robotics Program, a new high-school STEM program in robotics. The program utilizes state-of-the-art sensors and embedded computers for mobile robotics. The program was offered as a four-week residential program at MIT in the summer of 2016.</description>
     </item>
-    
   </channel>
 </rss>

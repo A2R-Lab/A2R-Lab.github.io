@@ -7,591 +7,462 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Edge Computing</title>
       <link>https://a2r-lab.github.io/tags/edge-computing/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/edge-computing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Embedded Systems</title>
       <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GPU</title>
       <link>https://a2r-lab.github.io/tags/gpu/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/gpu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Iterative Methods</title>
       <link>https://a2r-lab.github.io/tags/iterative-methods/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/iterative-methods/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Linear Systems</title>
       <link>https://a2r-lab.github.io/tags/linear-systems/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/linear-systems/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MCU</title>
       <link>https://a2r-lab.github.io/tags/mcu/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/mcu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Model Predictive Control</title>
       <link>https://a2r-lab.github.io/tags/model-predictive-control/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/model-predictive-control/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Parallel Computing</title>
       <link>https://a2r-lab.github.io/tags/parallel-computing/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/parallel-computing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Trajectory Optimization</title>
       <link>https://a2r-lab.github.io/tags/trajectory-optimization/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/trajectory-optimization/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ASIC</title>
       <link>https://a2r-lab.github.io/tags/asic/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/asic/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Autonomous Systems</title>
       <link>https://a2r-lab.github.io/tags/autonomous-systems/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/autonomous-systems/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FPGA</title>
       <link>https://a2r-lab.github.io/tags/fpga/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/fpga/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hardware Acceleration</title>
       <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Robotics</title>
       <link>https://a2r-lab.github.io/tags/robotics/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/robotics/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CS Education</title>
       <link>https://a2r-lab.github.io/tags/cs-education/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/cs-education/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GPU Programming</title>
       <link>https://a2r-lab.github.io/tags/gpu-programming/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/gpu-programming/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Numerical Optimizaiton</title>
       <link>https://a2r-lab.github.io/tags/numerical-optimizaiton/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/numerical-optimizaiton/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Quadrotor</title>
       <link>https://a2r-lab.github.io/tags/quadrotor/</link>
       <pubDate>Mon, 13 May 2024 00:00:05 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/quadrotor/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Preconditioning</title>
       <link>https://a2r-lab.github.io/tags/preconditioning/</link>
       <pubDate>Mon, 13 May 2024 00:00:03 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/preconditioning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Compressed Learning</title>
       <link>https://a2r-lab.github.io/tags/compressed-learning/</link>
       <pubDate>Mon, 13 May 2024 00:00:02 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/compressed-learning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Machine Learning</title>
       <link>https://a2r-lab.github.io/tags/machine-learning/</link>
       <pubDate>Mon, 13 May 2024 00:00:02 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Reinforcement Learning</title>
       <link>https://a2r-lab.github.io/tags/reinforcement-learning/</link>
       <pubDate>Mon, 13 May 2024 00:00:02 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Robot Learning</title>
       <link>https://a2r-lab.github.io/tags/robot-learning/</link>
       <pubDate>Mon, 13 May 2024 00:00:02 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/robot-learning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Benchmarking</title>
       <link>https://a2r-lab.github.io/tags/benchmarking/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/benchmarking/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hardware-Software Co-Design</title>
       <link>https://a2r-lab.github.io/tags/hardware-software-co-design/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/hardware-software-co-design/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ROS2</title>
       <link>https://a2r-lab.github.io/tags/ros2/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/ros2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Code Generation</title>
       <link>https://a2r-lab.github.io/tags/code-generation/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/code-generation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Conic Constraints</title>
       <link>https://a2r-lab.github.io/tags/conic-constraints/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/conic-constraints/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Global Network</title>
       <link>https://a2r-lab.github.io/tags/global-network/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/global-network/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Open Curricula</title>
       <link>https://a2r-lab.github.io/tags/open-curricula/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/open-curricula/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>TinyML</title>
       <link>https://a2r-lab.github.io/tags/tinyml/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/tinyml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Gender</title>
       <link>https://a2r-lab.github.io/tags/gender/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/gender/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>https://a2r-lab.github.io/tags/research/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/research/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Women</title>
       <link>https://a2r-lab.github.io/tags/women/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/women/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Artificial Intelligence</title>
       <link>https://a2r-lab.github.io/tags/artificial-intelligence/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Edge ML</title>
       <link>https://a2r-lab.github.io/tags/edge-ml/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/edge-ml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Materiality</title>
       <link>https://a2r-lab.github.io/tags/materiality/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/materiality/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Privacy</title>
       <link>https://a2r-lab.github.io/tags/privacy/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/privacy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Risk</title>
       <link>https://a2r-lab.github.io/tags/risk/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/risk/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sensors</title>
       <link>https://a2r-lab.github.io/tags/sensors/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/sensors/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Conservation</title>
       <link>https://a2r-lab.github.io/tags/conservation/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/conservation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Developing World</title>
       <link>https://a2r-lab.github.io/tags/developing-world/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/developing-world/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FIRST Robotics</title>
       <link>https://a2r-lab.github.io/tags/first-robotics/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/first-robotics/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Large Language Models</title>
       <link>https://a2r-lab.github.io/tags/large-language-models/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/large-language-models/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Open Education</title>
       <link>https://a2r-lab.github.io/tags/open-education/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/open-education/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ML Sensors</title>
       <link>https://a2r-lab.github.io/tags/ml-sensors/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/ml-sensors/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sustainability</title>
       <link>https://a2r-lab.github.io/tags/sustainability/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/sustainability/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sustainable Development</title>
       <link>https://a2r-lab.github.io/tags/sustainable-development/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/sustainable-development/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>UN SDGs</title>
       <link>https://a2r-lab.github.io/tags/un-sdgs/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/un-sdgs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Open Source</title>
       <link>https://a2r-lab.github.io/tags/open-source/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/open-source/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>STEM Education</title>
       <link>https://a2r-lab.github.io/tags/stem-education/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/stem-education/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sim-to-Real</title>
       <link>https://a2r-lab.github.io/tags/sim-to-real/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/sim-to-real/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Differential Dynamic Programming</title>
       <link>https://a2r-lab.github.io/tags/differential-dynamic-programming/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/differential-dynamic-programming/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Rigid Body Dynamics</title>
       <link>https://a2r-lab.github.io/tags/rigid-body-dynamics/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/rigid-body-dynamics/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MOOC</title>
       <link>https://a2r-lab.github.io/tags/mooc/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/mooc/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Compute</title>
       <link>https://a2r-lab.github.io/tags/compute/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/compute/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cyber-Physical Systems</title>
       <link>https://a2r-lab.github.io/tags/cyber-physical-systems/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/cyber-physical-systems/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MAV</title>
       <link>https://a2r-lab.github.io/tags/mav/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/mav/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Runtimes</title>
       <link>https://a2r-lab.github.io/tags/runtimes/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/runtimes/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Motion Planning</title>
       <link>https://a2r-lab.github.io/tags/motion-planning/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/motion-planning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Approximation</title>
       <link>https://a2r-lab.github.io/tags/approximation/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/approximation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Neural Networks</title>
       <link>https://a2r-lab.github.io/tags/neural-networks/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/neural-networks/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SLAM</title>
       <link>https://a2r-lab.github.io/tags/slam/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/slam/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Augmented Lagrangian</title>
       <link>https://a2r-lab.github.io/tags/augmented-lagrangian/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/augmented-lagrangian/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Unscented Transform</title>
       <link>https://a2r-lab.github.io/tags/unscented-transform/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/tags/unscented-transform/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,6 +6,14 @@
     <description>Recent content on A²R Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; {year} Brian Plancher</copyright><atom:link href="https://a2r-lab.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <atom:link href="https://a2r-lab.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/admin/</guid>
+      <description>The A²R Lab at Barnard College, Columbia University, focuses on optimizing robotic systems at all scales by developing, optimizing, implementing, and evaluating next-generation algorithms and edge computational systems, through algorithm-hardware-software co-design (e.g., MPCGPU, GRiD, TinyMPC). As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning.&#xA;We also want to promote responsible and accessible robotics and computing. We therefore research ways to better understand and improve diversity, equity, inclusion, and belonging in STEM education globally; promote a sustainable and privacy preserving future for autonomous systems and edge computing; as well as design and teach new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics, parallel programming, and embedded machine learning (e.</description>
+    </item>
   </channel>
 </rss>

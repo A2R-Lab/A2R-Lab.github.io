@@ -7,15 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 13 May 2024 00:00:03 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/preconditioning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2024 00:00:03 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/tags/preconditioning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization</title>
       <link>https://a2r-lab.github.io/publication/symstair/</link>
       <pubDate>Mon, 13 May 2024 00:00:03 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/symstair/</guid>
       <description>In this work we present a new parallel-friendly symmetric stair preconditioner. We prove that our preconditioner has advantageous theoretical properties when used in conjunction with iterative methods for trajectory optimization such as a more clustered eigenvalue spectrum. Numerical experiments with typical trajectory optimization problems reveal that as compared to the best alternative parallel preconditioner from the literature, our symmetric stair preconditioner provides up to a 34% reduction in condition number and up to a 25% reduction in the number of resulting linear system solver iterations.</description>
     </item>
-    
   </channel>
 </rss>
