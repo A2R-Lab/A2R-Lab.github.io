@@ -7,8 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://a2r-lab.github.io/tags/cybersecurity/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gender</title>
+      <link>https://a2r-lab.github.io/tags/gender/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/gender/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Representation</title>
+      <link>https://a2r-lab.github.io/tags/representation/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/representation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Women</title>
+      <link>https://a2r-lab.github.io/tags/women/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/women/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Edge Computing</title>
       <link>https://a2r-lab.github.io/tags/edge-computing/</link>
@@ -227,24 +255,10 @@
       <description></description>
     </item>
     <item>
-      <title>Gender</title>
-      <link>https://a2r-lab.github.io/tags/gender/</link>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/gender/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Research</title>
       <link>https://a2r-lab.github.io/tags/research/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/research/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Women</title>
-      <link>https://a2r-lab.github.io/tags/women/</link>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/women/</guid>
       <description></description>
     </item>
     <item>
