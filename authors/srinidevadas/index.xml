@@ -7,28 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a2r-lab.github.io/authors/srinidevadas/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/srinidevadas/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/authors/srinidevadas/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/srinidevadas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robomorphic Computing: A Design Methodology for Domain-Specific Accelerators Parameterized by Robot Morphology</title>
       <link>https://a2r-lab.github.io/publication/robomorphic/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/robomorphic/</guid>
       <description>We introduce robomorphic computing; a methodology to transform robot morphology into a customized hardware accelerator morphology. In this work, we (i) present this design methodology; (ii) use the methodology to generate a parameterized accelerator design for the gradient of rigid body dynamics; (iii) evaluate FPGA and synthesized ASIC implementations; and (iv) describe how the design can be automatically customized for other robot models. Our FPGA accelerator achieves speedups of 8x and 86x over CPU and GPU latency, and maintains an overall speedup of 1.9x to 2.9x deployed in an end-to-end coprocessor system. ASIC synthesis indicates an additional factor of 7.2x.</description>
     </item>
+    
     <item>
       <title>Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA</title>
       <link>https://a2r-lab.github.io/publication/accellrbdgrad/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/accellrbdgrad/</guid>
       <description>In this paper, we detail the designs of three faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. Our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over our optimized CPU implementation by refactoring the algorithm to exploit its computational features, e.g., parallelism at different granularities.</description>
     </item>
+    
   </channel>
 </rss>

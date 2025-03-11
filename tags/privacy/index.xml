@@ -7,28 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a2r-lab.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Materiality and Risk in the Age of Pervasive AI Sensors</title>
       <link>https://a2r-lab.github.io/publication/materiality/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/materiality/</guid>
       <description>Artificial intelligence systems connected to sensor-laden devices are becoming pervasive, which has significant implications for a range of AI risks, including to privacy, the environment, autonomy, and more. In this paper, we provide a comprehensive analysis of the evolution of sensors, the risks they pose by virtue of their material existence in the world, and the impacts of ubiquitous sensing and on-device AI. We propose incorporating sensors into risk management frameworks and call for more responsible sensor and system design paradigms that address risks of such systems. We show through calculative models that current systems prioritize data collection and cost reduction and produce risks that emerge around privacy, surveillance, waste, and power dynamics. We then analyze these risks, highlighting issues of validity, safety, security, accountability, interpretability, and bias. We conclude by advocating for increased attention to the materiality of algorithmic systems, and of on-device AI sensors in particular, and highlight the need for development of a responsible sensor design paradigm that empowers users and communities and leads to a future of increased fairness, accountability and transparency.</description>
     </item>
+    
     <item>
       <title>Datasheets for Machine Learning Sensors</title>
       <link>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</guid>
       <description>This paper introduces a standard datasheet template for ML sensors and discusses its essential components inluding: the system&amp;rsquo;s hardware, ML model and dataset attributes, end-to-end performance metrics, and environmental impact. We provide an example datasheet for our own ML sensor and discuss each section in detail. We highlight how these datasheets can facilitate better understanding and utilization of sensor data in ML applications, and we provide objective measures upon which system performance can be evaluated and compared.</description>
     </item>
+    
     <item>
       <title>Machine Learning Sensors: A Design Paradigm for the Future of Intelligent Sensors</title>
       <link>https://a2r-lab.github.io/publication/mlsensorscacm/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/mlsensorscacm/</guid>
       <description>In this viewpoint we propose the ML sensor: a logical framework for developing ML-enabled embedded systems which empowers end users through its privacy-by-design approach. By limiting the data interface, the ML sensor paradigm helps ensure that no user information can be extracted beyond the scope of the sensor’s functionality. Our proposed definition is as follows: An ML sensor is a self-contained, embedded system that utilizes machine learning to process sensor data on-device – logically decoupling data computation from the main application processor and limiting the data access of the wider system to high-level ML model outputs.</description>
     </item>
+    
   </channel>
 </rss>
