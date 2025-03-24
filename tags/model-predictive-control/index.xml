@@ -7,87 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/model-predictive-control/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/tags/model-predictive-control/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs</title>
       <link>https://a2r-lab.github.io/publication/optimizingatallscales/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/optimizingatallscales/</guid>
       <description>In our recent works, by leveraging a combination of parallelism, approximation, and structure exploitation, we have enabled and accelerated (nonlinear) trajectory optimization solvers for real-time performance on non-standard computational hardware, ranging from microcontrollers (MCUs) to graphical processing units (GPUs). This has led to real-time MPC onboard an MCU powered 27g quadrotor for dynamic obstacle avoidance, as well as simulated whole-body nonlinear MPC at kHz rates for a GPU powered manipulator for high speed trajectory tracking.</description>
     </item>
-    
     <item>
       <title>TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</title>
       <link>https://a2r-lab.github.io/publication/tinympc/</link>
       <pubDate>Mon, 13 May 2024 00:00:05 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinympc/</guid>
       <description>Model-predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC is computationally demanding, and is often impractical to implement on small, resource-constrained robotic platforms. We present TinyMPC, a high-speed MPC solver with a low memory footprint targeting the microcontrollers common on small robots. Our approach is based on the alternating direction method of multipliers (ADMM) and leverages the structure of the MPC problem for efficiency. We demonstrate TinyMPC both by benchmarking against the state-of-the-art solver OSQP, achieving nearly an order of magnitude speed increase, as well as through hardware experiments on a 27 g quadrotor, demonstrating high-speed trajectory tracking and dynamic obstacle avoidance.</description>
     </item>
-    
     <item>
       <title>MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</title>
       <link>https://a2r-lab.github.io/publication/mpcgpu/</link>
       <pubDate>Mon, 13 May 2024 00:00:04 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/mpcgpu/</guid>
       <description>We introduce MPCGPU, a GPU-accelerated, real-time NMPC solver that leverages an accelerated preconditioned conjugate gradient (PCG) linear system solver at its core. We show that MPCGPU increases the scalability and real-time performance of NMPC, solving larger problems, at faster rates. In particular, for tracking tasks using the Kuka IIWA manipulator, MPCGPU is able to scale to kilohertz control rates with trajectories as long as 512 knot points. This is driven by a custom PCG solver which outperforms state-of-the-art, CPU-based, linear system solvers by at least 10x for a majority of solves and 3.6x on average.</description>
     </item>
-    
     <item>
       <title>Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC</title>
       <link>https://a2r-lab.github.io/publication/conictinympc/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/conictinympc/</guid>
       <description>We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to handle second-order cone constraints. We also present code-generation software to enable deployment of TinyMPC on a variety of microcontrollers. We benchmark our generated code against state-of-the-art embedded QP and SOCP solvers, demonstrating a two-order-of-magnitude speed increase over ECOS while consuming less memory. Finally, we demonstrate TinyMPC&amp;rsquo;s efficacy on the Crazyflie, a lightweight, resource-constrained quadrotor with fast dynamics. TinyMPC and its code-generation tools are publicly available at &lt;a href=&#34;https://tinympc.org/&#34;&gt;tinympc.org&lt;/a&gt;.</description>
     </item>
-    
     <item>
       <title>GPU Acceleration for Real-time, Whole-body, Nonlinear Model Predictive Control</title>
       <link>https://a2r-lab.github.io/publication/dissertation/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/dissertation/</guid>
       <description>This dissertation address the computational challenges of whole-body, nonlinear model predictive control (MPC) by exposing, analyzing, and leveraging the structured sparsity and parallelism patterns found in the underlying numerical optimization and rigid body dynamics algorithms. Through careful algorithmic refactoring and re-design, this work exploits these patterns to enable real-time MPC performance through GPU-acceleration. It also validates the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU by deploying the resulting implementations onto a physical manipulator arm. Overall, this dissertation finds that GPU acceleration can provide nearly order-of-magnitude speedups, and open-sources its implementations to aid the wider robotics community in accelerating both robotics computations and application development timelines.</description>
     </item>
-    
     <item>
       <title>Reinforcement Learning to Enable Robust Robotic Model Predictive Control</title>
       <link>https://a2r-lab.github.io/publication/levthesis/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/levthesis/</guid>
       <description>This thesis proposes a novel algorithm, “Reference-Guided, Value-Based MPC,” which combines model predictive control (MPC) and reinforcement learning (RL) to compute feasible trajectories for a robotic arm. The algorithm does this while 1) achieving an almost 50% higher planning success rate than standard MPC, 2) solving in sparse environments considered unsolvable by current state of the art algorithms, and 3) generalizing its solutions to different environment initializations.</description>
     </item>
-    
     <item>
       <title>Realtime Model Predictive Control using Parallel DDP on a GPU</title>
       <link>https://a2r-lab.github.io/publication/parallelddp_icra/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/parallelddp_icra/</guid>
-      <description>In this extended abstract we extend our &lt;a href=&#34;https://a2r-lab.github.io/publication/parallelddp&#34;&gt;previous work&lt;/a&gt; by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.</description>
+      <description>In this extended abstract we extend our &lt;a href=&#34;https://a2r-lab.github.io/publication/parallelddp/&#34;&gt;previous work&lt;/a&gt; by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.</description>
     </item>
-    
     <item>
       <title>A Performance Analysis of Parallel Differential Dynamic Programming on a GPU</title>
       <link>https://a2r-lab.github.io/publication/parallelddp/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/parallelddp/</guid>
-      <description>We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism. This work was &lt;a href=&#34;https://a2r-lab.github.io/publication/parallelddp_icra&#34;&gt;extended&lt;/a&gt; and used for MPC on a physical Kuka arm.</description>
+      <description>We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism. This work was &lt;a href=&#34;https://a2r-lab.github.io/publication/parallelddp_icra/&#34;&gt;extended&lt;/a&gt; and used for MPC on a physical Kuka arm.</description>
     </item>
-    
     <item>
       <title>Parallel and Constrained Differential Dynamic Programming for Model Predictive Control</title>
       <link>https://a2r-lab.github.io/publication/mastersthesis/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/mastersthesis/</guid>
       <description>This thesis builds on recent work on Unscented Dynamic Programming (UDP)—which eliminates dynamics derivative computations in DDP—to support general nonlinear state and input constraints to high precision using an augmented Lagrangian. It then leverages parallel computations for increased throughput and systematically analyzes the insights, challenges, tradeoffs, and benefits of implementing a parallelized variant of DDP on both a multi-core CPU and a graphics processing unit (GPU).</description>
     </item>
-    
   </channel>
 </rss>

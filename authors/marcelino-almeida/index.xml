@@ -7,15 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/marcelino-almeida/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/authors/marcelino-almeida/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Role of Compute in Autonomous Aerial Vehicles</title>
       <link>https://a2r-lab.github.io/publication/roleofcompute/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/roleofcompute/</guid>
       <description>By combining MAVBench (our tool-set, which consists of (1) a closed-loop real-time feedback simulator and (2) an end-to-end benchmark suite comprised of state-of-the-art kernels), analytical modeling, and an understanding of various compute impacts, we show up to 2X and 1.8X improvements for mission time and mission energy for two optimization case studies. Our investigations, as well as our optimizations, show that cyber-physical co-design, a methodology with which both the cyber and physical processes/quantities of the robot are developed with consideration of one another, similar to hardware-software co-design, is necessary for arriving at the design of the optimal robot.</description>
     </item>
-    
   </channel>
 </rss>

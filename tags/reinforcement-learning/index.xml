@@ -7,42 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 13 May 2024 00:00:02 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2024 00:00:02 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning</title>
       <link>https://a2r-lab.github.io/publication/diffcompressdrl/</link>
       <pubDate>Mon, 13 May 2024 00:00:02 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/diffcompressdrl/</guid>
       <description>Perceptive deep reinforcement learning (DRL) has lead to many recent breakthroughs for complex AI systems leveraging image-based input data. However, training these perceptive DRL-enabled systems remains incredibly memory intensive. In this paper, we begin to address this issue through differentially encoded observation spaces. By reinterpreting stored image-based observations as a video, we leverage lossless differential video encoding schemes to compress the replay buffer without impacting training performance. We evaluate our approach with three state-of-the-art DRL algorithms and find that differential image encoding reduces the memory footprint by as much as 14.2x and 16.7x across tasks from the Atari 2600 benchmark and the DeepMind Control Suite (DMC) respectively. These savings also enable large-scale perceptive DRL that previously required paging between flash and RAM to be run entirely in RAM, improving the latency of DMC tasks by as much as 32%..</description>
     </item>
-    
     <item>
       <title>Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion</title>
       <link>https://a2r-lab.github.io/publication/justround/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/justround/</guid>
       <description>Deep reinforcement learning (DRL) is one of the most powerful tools for synthesizing complex robotic behaviors. But training DRL models is incredibly compute and memory intensive, requiring large training datasets and replay buffers to achieve performant results. This poses a challenge for the next generation of field robots that will need to learn on the edge to adapt to their environment. In this paper, we begin to address this issue through observation space quantization. We evaluate our approach using four simulated robot locomotion tasks and two state-of-the-art DRL algorithms, the on-policy Proximal Policy Optimization (PPO) and off-policy Soft Actor-Critic (SAC) and find that observation space quantization reduces overall memory costs by as much as 4.2x without impacting learning performance.</description>
     </item>
-    
     <item>
       <title>Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots</title>
       <link>https://a2r-lab.github.io/publication/tinyrobotlearning/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinyrobotlearning/</guid>
       <description>Tiny robot learning lies at the intersection of embedded systems, robotics, and ML, compounding the challenges of these domains. This paper gives a brief survey of the tiny robot learning space, elaborates on key challenges, and proposes promising opportunities for future work in ML system design.</description>
     </item>
-    
     <item>
       <title>Reinforcement Learning to Enable Robust Robotic Model Predictive Control</title>
       <link>https://a2r-lab.github.io/publication/levthesis/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/levthesis/</guid>
       <description>This thesis proposes a novel algorithm, “Reference-Guided, Value-Based MPC,” which combines model predictive control (MPC) and reinforcement learning (RL) to compute feasible trajectories for a robotic arm. The algorithm does this while 1) achieving an almost 50% higher planning success rate than standard MPC, 2) solving in sparse environments considered unsolvable by current state of the art algorithms, and 3) generalizing its solutions to different environment initializations.</description>
     </item>
-    
   </channel>
 </rss>

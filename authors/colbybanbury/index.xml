@@ -7,42 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/colbybanbury/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/authors/colbybanbury/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/colbybanbury/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/colbybanbury/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Is TinyML Sustainable? Assessing the Environmental Impacts of Machine Learning on Microcontrollers</title>
       <link>https://a2r-lab.github.io/publication/sustainabletinyml/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/sustainabletinyml/</guid>
       <description>The sustained growth of carbon emissions and global waste elicits significant sustainability concerns for our environment&amp;rsquo;s future. The growing Internet of Things (IoT) has the potential to exacerbate this issue. However, an emerging area known as Tiny Machine Learning (TinyML) has the opportunity to help address these environmental challenges through sustainable computing practices. TinyML, the deployment of machine learning (ML) algorithms onto low-cost, low-power microcontroller systems, enables on-device sensor analytics that unlocks numerous always-on ML applications. This article discusses the potential of these TinyML applications to address critical sustainability challenges. Moreover, the footprint of this emerging technology is assessed through a complete life cycle analysis of TinyML systems. From this analysis, TinyML presents opportunities to offset its carbon emissions by enabling applications that reduce the emissions of other sectors. Nevertheless, when globally scaled, the carbon footprint of TinyML systems is not negligible, necessitating that designers factor in environmental impact when formulating new devices. Finally, research directions for enabling further opportunities for TinyML to contribute to a sustainable future are outlined.</description>
     </item>
-    
     <item>
       <title>Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms</title>
       <link>https://a2r-lab.github.io/publication/bittlesim2real/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/bittlesim2real/</guid>
       <description>As a step toward robust learning pipelines for these constrained robot platforms, we demonstrate how existing state-of-the-art imitation learning pipelines can be modified and augmented to support low-cost, limited hardware. By reducing our model’s observational space, leveraging TinyML to quantize our model, and adjusting the model outputs through post-processing, we are able to learn and deploy successful walking gaits on an 8-DoF, $299 (USD) toy quadruped robot that has reduced actuation and sensor feedback, as well as limited computing resources.</description>
     </item>
-    
     <item>
       <title>Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots</title>
       <link>https://a2r-lab.github.io/publication/tinyrobotlearning/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/tinyrobotlearning/</guid>
       <description>Tiny robot learning lies at the intersection of embedded systems, robotics, and ML, compounding the challenges of these domains. This paper gives a brief survey of the tiny robot learning space, elaborates on key challenges, and proposes promising opportunities for future work in ML system design.</description>
     </item>
-    
     <item>
       <title>Widening Access to Applied Machine Learning with TinyML</title>
       <link>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</guid>
       <description>In this paper, we describe our pedagogical approach to increasing access to applied ML through a four part massive open online course (MOOC) on Tiny Machine Learning (TinyML) produced in collaboration between academia (Harvard University) and industry (Google). We suggest that TinyML, ML on resource-constrained embedded devices, is an attractive means to widen access because TinyML both leverages low-cost and globally accessible hardware, and encourages the development of complete, self-contained applications, from data collection to deployment. We also released the course materials publicly, hoping they will inspire the next generation of ML practitioners and educators and further broaden access to cutting-edge ML technologies.</description>
     </item>
-    
   </channel>
 </rss>

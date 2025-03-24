@@ -7,42 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/trajectory-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/tags/trajectory-optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs</title>
       <link>https://a2r-lab.github.io/publication/optimizingatallscales/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/optimizingatallscales/</guid>
       <description>In our recent works, by leveraging a combination of parallelism, approximation, and structure exploitation, we have enabled and accelerated (nonlinear) trajectory optimization solvers for real-time performance on non-standard computational hardware, ranging from microcontrollers (MCUs) to graphical processing units (GPUs). This has led to real-time MPC onboard an MCU powered 27g quadrotor for dynamic obstacle avoidance, as well as simulated whole-body nonlinear MPC at kHz rates for a GPU powered manipulator for high speed trajectory tracking.</description>
     </item>
-    
     <item>
       <title>MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</title>
       <link>https://a2r-lab.github.io/publication/mpcgpu/</link>
       <pubDate>Mon, 13 May 2024 00:00:04 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/mpcgpu/</guid>
       <description>We introduce MPCGPU, a GPU-accelerated, real-time NMPC solver that leverages an accelerated preconditioned conjugate gradient (PCG) linear system solver at its core. We show that MPCGPU increases the scalability and real-time performance of NMPC, solving larger problems, at faster rates. In particular, for tracking tasks using the Kuka IIWA manipulator, MPCGPU is able to scale to kilohertz control rates with trajectories as long as 512 knot points. This is driven by a custom PCG solver which outperforms state-of-the-art, CPU-based, linear system solvers by at least 10x for a majority of solves and 3.6x on average.</description>
     </item>
-    
     <item>
       <title>Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization</title>
       <link>https://a2r-lab.github.io/publication/symstair/</link>
       <pubDate>Mon, 13 May 2024 00:00:03 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/symstair/</guid>
       <description>In this work we present a new parallel-friendly symmetric stair preconditioner. We prove that our preconditioner has advantageous theoretical properties when used in conjunction with iterative methods for trajectory optimization such as a more clustered eigenvalue spectrum. Numerical experiments with typical trajectory optimization problems reveal that as compared to the best alternative parallel preconditioner from the literature, our symmetric stair preconditioner provides up to a 34% reduction in condition number and up to a 25% reduction in the number of resulting linear system solver iterations.</description>
     </item>
-    
     <item>
       <title>GPU Acceleration for Real-time, Whole-body, Nonlinear Model Predictive Control</title>
       <link>https://a2r-lab.github.io/publication/dissertation/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/dissertation/</guid>
       <description>This dissertation address the computational challenges of whole-body, nonlinear model predictive control (MPC) by exposing, analyzing, and leveraging the structured sparsity and parallelism patterns found in the underlying numerical optimization and rigid body dynamics algorithms. Through careful algorithmic refactoring and re-design, this work exploits these patterns to enable real-time MPC performance through GPU-acceleration. It also validates the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU by deploying the resulting implementations onto a physical manipulator arm. Overall, this dissertation finds that GPU acceleration can provide nearly order-of-magnitude speedups, and open-sources its implementations to aid the wider robotics community in accelerating both robotics computations and application development timelines.</description>
     </item>
-    
   </channel>
 </rss>
