@@ -7,28 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a2r-lab.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Mar 2025 00:00:03 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Polynomial and Parallelizable Preconditioning for Block Tridiagonal Positive Definite Matrix</title>
+      <link>https://a2r-lab.github.io/publication/polynomialprecon/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/publication/polynomialprecon/</guid>
+      <description>The efficient solution of moderately large-scale linear systems arising from the KKT conditions in optimal control problems (OCPs) is a critical challenge in robotics. With the stagnation of Moore&amp;rsquo;s law, there is growing interest in leveraging GPU-accelerated iterative methods, and corresponding parallel preconditioners, to overcome these computational challenges. To improve the computational performance of such solvers, we introduce a parallel-friendly, parametrized multi-splitting polynomial preconditioner framework that leverages positive and negative factors. Our approach results in improved convergence of the linear systems solves needed in OCPs. We construct and prove the optimal parametrization of multi-splitting theoretically and demonstrate empirically a 76% reduction in condition number and 46% in iteration counts on a series of numerical benchmarks.</description>
+    </item>
+    
     <item>
       <title>pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning</title>
       <link>https://a2r-lab.github.io/publication/prrtc/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/prrtc/</guid>
       <description>In this work, we present pRRTC, a GPU-accelerated implementation of RRT-Connect that achieves parallelism across the entire algorithm through multithreaded expansion and connection, SIMT-optimized collision checking, and hierarchical parallelism optimization, improving efficiency, consistency, and initial solution cost. We evaluate the effectiveness of pRRTC on the MotionBenchMaker dataset using robots with 7, 8, and 14 degrees-of-freedom, demonstrating up to 6x average speedup on constrained reaching tasks at high collision checking resolution compared to state-of-the-art. pRRTC also demonstrates a 5x reduction in solution time variance and 1.5x improvement in initial path costs compared to state-of-the-art motion planners in complex environments across all robots.</description>
     </item>
+    
     <item>
       <title>Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC</title>
       <link>https://a2r-lab.github.io/publication/conictinympc/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/conictinympc/</guid>
       <description>We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to handle second-order cone constraints. We also present code-generation software to enable deployment of TinyMPC on a variety of microcontrollers. We benchmark our generated code against state-of-the-art embedded QP and SOCP solvers, demonstrating a two-order-of-magnitude speed increase over ECOS while consuming less memory. Finally, we demonstrate TinyMPC&amp;rsquo;s efficacy on the Crazyflie, a lightweight, resource-constrained quadrotor with fast dynamics. TinyMPC and its code-generation tools are publicly available at &lt;a href=&#34;https://tinympc.org/&#34;&gt;tinympc.org&lt;/a&gt;.</description>
     </item>
+    
     <item>
       <title>Datasheets for Machine Learning Sensors</title>
       <link>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</guid>
       <description>This paper introduces a standard datasheet template for ML sensors and discusses its essential components inluding: the system&amp;rsquo;s hardware, ML model and dataset attributes, end-to-end performance metrics, and environmental impact. We provide an example datasheet for our own ML sensor and discuss each section in detail. We highlight how these datasheets can facilitate better understanding and utilization of sensor data in ML applications, and we provide objective measures upon which system performance can be evaluated and compared.</description>
     </item>
+    
   </channel>
 </rss>

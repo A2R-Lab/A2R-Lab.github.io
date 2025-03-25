@@ -7,161 +7,195 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a2r-lab.github.io/authors/vijayjanapareddi/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/vijayjanapareddi/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/authors/vijayjanapareddi/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/vijayjanapareddi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Materiality and Risk in the Age of Pervasive AI Sensors</title>
       <link>https://a2r-lab.github.io/publication/materiality/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/materiality/</guid>
-      <description>Artificial intelligence (AI) systems connected to sensor-laden devicesare becoming pervasive, which has notable implications for a range of AIrisks, including to privacy, the environment, autonomy and more. Thereis therefore a growing need for increased accountability around theresponsible development and deployment of these technologies. Herewe highlight the dimensions of risk associated with AI systems that arisefrom the material affordances of sensors and their underlying calculativemodels. We propose a sensor-sensitive framework for diagnosing theserisks, complementing existing approaches such as the US National Instituteof Standards and Technology AI Risk Management Framework and theEuropean Union AI Act, and discuss its implementation. We concludeby advocating for increased attention to the materiality of algorithmicsystems, and of on-device AI sensors in particular, and highlight the needfor development of a sensor design paradigm that empowers users andcommunities and leads to a future of increased fairness, accountability andtransparency.</description>
+      <description>Artificial intelligence (AI) systems connected to sensor-laden devicesare becoming pervasive, which has notable implications for a range of AIrisks, including to privacy, the environment, autonomy and more. Thereis therefore a growing need for increased accountability around theresponsible development and deployment of these technologies. Herewe highlight the dimensions of risk associated with AI systems that arisefrom the material affordances of sensors and their underlying calculativemodels. We propose a sensor-sensitive framework for diagnosing theserisks, complementing existing approaches such as the US National Institute of Standards and Technology AI Risk Management Framework and the European Union AI Act, and discuss its implementation. We concludeby advocating for increased attention to the materiality of algorithmicsystems, and of on-device AI sensors in particular, and highlight the needfor development of a sensor design paradigm that empowers users andcommunities and leads to a future of increased fairness, accountability andtransparency.</description>
     </item>
+    
     <item>
       <title>Invited: The Magnificent Seven Challenges and Opportunities in Domain-Specific Accelerator Design for Autonomous Systems</title>
       <link>https://a2r-lab.github.io/publication/magnificentseven/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/magnificentseven/</guid>
       <description>In this work, we present the Magnificent Seven Challenges in domain-specific accelerator design that can guide adventurous architects to contribute meaningfully to novel application domains. Although these challenges appear across domains ranging from ML to genomics, we examine them through the lens of autonomous systems as a motivating example in this work. To that end, we identify opportunities for the path forward in a successful domain-specific accelerator design from these challenges.</description>
     </item>
+    
     <item>
       <title>RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance</title>
       <link>https://a2r-lab.github.io/publication/robotperf/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/robotperf/</guid>
       <description>We introduce RobotPerf, a vendor-agnostic benchmarking suite designed to evaluate robotics computing performance across a diverse range of hardware platforms using ROS 2 as its common baseline. The suite encompasses ROS 2 packages covering the full robotics pipeline and integrates two distinct benchmarking approaches: black-box testing, which measures performance by eliminating upper layers and replacing them with a test application, and grey-box testing, an application-specific measure that observes internal system states with minimal interference. Our benchmarking framework provides ready-to-use tools and is easily adaptable for the assessment of custom ROS 2 computational graphs. Drawing from the knowledge of leading robot architects and system architecture experts, RobotPerf establishes a standardized approach to robotics benchmarking. As an open-source initiative, RobotPerf remains committed to evolving with community input to advance the future of hardware-accelerated robotics.</description>
     </item>
+    
     <item>
       <title>TinyML4D: Scaling Embedded Machine Learning Education in the Developing World</title>
       <link>https://a2r-lab.github.io/publication/scalingtinyml4d/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/scalingtinyml4d/</guid>
       <description>Embedded machine learning (ML) on low-power devices, also known as &amp;ldquo;TinyML,&amp;rdquo; enables intelligent applications on accessible hardware and fosters collaboration across disciplines to solve real-world problems. Its interdisciplinary and practical nature makes embedded ML education appealing, but barriers remain that limit its accessibility, especially in developing countries. Challenges include limited open-source software, courseware, models, and datasets that can be used with globally accessible heterogeneous hardware. Our vision is that with concerted effort and partnerships between industry and academia, we can overcome such challenges and enable embedded ML education to empower developers and researchers worldwide to build locally relevant AI solutions on low-cost hardware, increasing diversity and sustainability in the field. Towards this aim, we document efforts made by the TinyML4D community to scale embedded ML education globally through open-source curricula and introductory workshops co-created by international educators. We conclude with calls to action to further develop modular and inclusive resources and transform embedded ML into a truly global gateway to embedded AI skills development.</description>
     </item>
+    
     <item>
       <title>AI in the Developing World: How ‘Tiny Machine Learning’ can have a Big Impact</title>
       <link>https://a2r-lab.github.io/publication/tinymltheconversation/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/tinymltheconversation/</guid>
       <description>The landscape of artificial intelligence (AI) applications has traditionally been dominated by the use of resource-intensive servers centralised in industrialised nations. However, recent years have witnessed the emergence of small, energy-efficient devices for AI applications, a concept known as tiny machine learning (TinyML). We’re most familiar with consumer-facing applications such as Siri, Alexa, and Google Assistant, but the limited cost and small size of such devices allow them to be deployed in the field. For example, the technology has been used to detect mosquito wingbeats and so help prevent the spread of malaria. It’s also been part of the development of low-power animal collars to support conservation efforts.</description>
     </item>
+    
     <item>
       <title>Datasheets for Machine Learning Sensors</title>
       <link>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</guid>
       <description>This paper introduces a standard datasheet template for ML sensors and discusses its essential components inluding: the system&amp;rsquo;s hardware, ML model and dataset attributes, end-to-end performance metrics, and environmental impact. We provide an example datasheet for our own ML sensor and discuss each section in detail. We highlight how these datasheets can facilitate better understanding and utilization of sensor data in ML applications, and we provide objective measures upon which system performance can be evaluated and compared.</description>
     </item>
+    
     <item>
       <title>RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots</title>
       <link>https://a2r-lab.github.io/publication/roboshape/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/roboshape/</guid>
       <description>We present RoboShape, an accelerator framework that leverages two topology-based computational patterns that scale with robot size: (1) topology traversals, and (2) large topology-based matrices. Using these patterns and building on prior work, we expose opportunities to directly use robot topology to inform architectural mechanisms including task scheduling and allocation, data placement, block matrix operations, and sparse I/O data. For the topologically-diverse iiwa manipulator, HyQ quadruped, and Baxter torso robots, RoboShape accelerators on an FPGA provide a 4.0x to 4.4x speedup in compute latency over CPU and a 8.0x to 15.1x speedup over GPU for the dynamics gradients, a key bottleneck preventing online execution of nonlinear optimal motion control for legged robots. Taking a broader view, for topology-based applications, RoboShape enables analysis of performance and resource utilization tradeoffs that will be critical to managing resources across accelerators in future full robotics domain-specific SoCs.</description>
     </item>
+    
     <item>
       <title>Bridging the Digital Divide: the Promising Impact of TinyML for Developing Countries</title>
       <link>https://a2r-lab.github.io/publication/tinymlunsti23/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/tinymlunsti23/</guid>
       <description>The rise of TinyML has opened up new opportunities for the development of smart, low-power devices in resource-constrained environments. A network of 40 universities has been established over the past two years with the goal of promoting the use of TinyML in developing regions. The members of this network have taught courses at their home institutions and have completed their first research projects covering topics ranging from the diagnosis of respiratory diseases in Rwanda to assistive technology development in Brazil, bee population monitoring in Kenya and estimating the lifespan of the date palm fruit in Saudi Arabia. We suggest three policy recommendations to increase the future impact: first, training and research activities in STI should focus on regional networks; second, the ethics of artificial intelligence must be covered in all activities; and third, we need to support local champions better.</description>
     </item>
+    
     <item>
       <title>Machine Learning Sensors: A Design Paradigm for the Future of Intelligent Sensors</title>
       <link>https://a2r-lab.github.io/publication/mlsensorscacm/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/mlsensorscacm/</guid>
       <description>In this viewpoint we propose the ML sensor: a logical framework for developing ML-enabled embedded systems which empowers end users through its privacy-by-design approach. By limiting the data interface, the ML sensor paradigm helps ensure that no user information can be extracted beyond the scope of the sensor’s functionality. Our proposed definition is as follows: An ML sensor is a self-contained, embedded system that utilizes machine learning to process sensor data on-device – logically decoupling data computation from the main application processor and limiting the data access of the wider system to high-level ML model outputs.</description>
     </item>
+    
     <item>
       <title>Is TinyML Sustainable? Assessing the Environmental Impacts of Machine Learning on Microcontrollers</title>
       <link>https://a2r-lab.github.io/publication/sustainabletinyml/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/sustainabletinyml/</guid>
       <description>The sustained growth of carbon emissions and global waste elicits significant sustainability concerns for our environment&amp;rsquo;s future. The growing Internet of Things (IoT) has the potential to exacerbate this issue. However, an emerging area known as Tiny Machine Learning (TinyML) has the opportunity to help address these environmental challenges through sustainable computing practices. TinyML, the deployment of machine learning (ML) algorithms onto low-cost, low-power microcontroller systems, enables on-device sensor analytics that unlocks numerous always-on ML applications. This article discusses the potential of these TinyML applications to address critical sustainability challenges. Moreover, the footprint of this emerging technology is assessed through a complete life cycle analysis of TinyML systems. From this analysis, TinyML presents opportunities to offset its carbon emissions by enabling applications that reduce the emissions of other sectors. Nevertheless, when globally scaled, the carbon footprint of TinyML systems is not negligible, necessitating that designers factor in environmental impact when formulating new devices. Finally, research directions for enabling further opportunities for TinyML to contribute to a sustainable future are outlined.</description>
     </item>
+    
     <item>
       <title>RobotCore: An Open Architecture for Hardware Acceleration in ROS 2</title>
       <link>https://a2r-lab.github.io/publication/robotcore/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/robotcore/</guid>
       <description>We introduce RobotCore, an architecture to integrate hardware acceleration in the widely-used ROS 2 robotics software framework. This architecture is target-agnostic (supports edge, workstation, data center, or cloud targets) and accelerator-agnostic (supports both FPGAs and GPUs). It builds on top of the common ROS 2 build system and tools and is easily portable across different research and commercial solutions through a new firmware layer. We also leverage the Linux Tracing Toolkit next generation (LTTng) for low-overhead real-time tracing and benchmarking. To demonstrate the acceleration enabled by this architecture, we design an intra-FPGA ROS 2 node communication queue to enable faster data flows, and use it in conjunction with FPGA-accelerated nodes to achieve a 24.42% speedup over a CPU.</description>
     </item>
+    
     <item>
       <title>Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms</title>
       <link>https://a2r-lab.github.io/publication/bittlesim2real/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/bittlesim2real/</guid>
       <description>As a step toward robust learning pipelines for these constrained robot platforms, we demonstrate how existing state-of-the-art imitation learning pipelines can be modified and augmented to support low-cost, limited hardware. By reducing our model’s observational space, leveraging TinyML to quantize our model, and adjusting the model outputs through post-processing, we are able to learn and deploy successful walking gaits on an 8-DoF, $299 (USD) toy quadruped robot that has reduced actuation and sensor feedback, as well as limited computing resources.</description>
     </item>
+    
     <item>
       <title>Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots</title>
       <link>https://a2r-lab.github.io/publication/tinyrobotlearning/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/tinyrobotlearning/</guid>
       <description>Tiny robot learning lies at the intersection of embedded systems, robotics, and ML, compounding the challenges of these domains. This paper gives a brief survey of the tiny robot learning space, elaborates on key challenges, and proposes promising opportunities for future work in ML system design.</description>
     </item>
+    
     <item>
       <title>TinyML: Applied AI for Development</title>
       <link>https://a2r-lab.github.io/publication/tinymlunsti22/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/tinymlunsti22/</guid>
       <description>We believe that TinyML has a significant role to play in achieving the SDGs and facilitating scientific research in areas such as environmental monitoring, physics of complex systems and energy management. To broaden access and participation and increase the impact of this new technology, we present an initiative that is creating and supporting a global network of academic institutions working on TinyML in developing countries. We suggest the development of additional open educational resources, South–South academic collaboration and pilot projects of at-scale TinyML solutions aimed at addressing the SDGs.</description>
     </item>
+    
     <item>
       <title>TinyMLedu: The Tiny Machine Learning Open Education Initiative</title>
       <link>https://a2r-lab.github.io/publication/tinymledu/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/tinymledu/</guid>
       <description>&lt;a href=&#34;https://tinymledu.org&#34;&gt;TinyMLedu&lt;/a&gt; is working to build an international coalition of researchers and practitioners advancing TinyML in the developing world, and to develop and share high-quality, open-access educational materials globally.</description>
     </item>
+    
     <item>
       <title>GRiD: GPU-Accelerated Rigid Body Dynamics with Analytical Gradients</title>
       <link>https://a2r-lab.github.io/publication/grid/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/grid/</guid>
       <description>We introduce and release GRiD, an open-source, GPU-accelerated library for computing rigid body dynamics with analytical gradients. GRiD was designed to accelerate nonlinear trajectory optimization through optimized code generation, GRiD provides as much as a 7.2x speedup over a state-of-the-art, multi-threaded CPU implementation and maintains as much as a 2.5x speedup when accounting for I/O overhead.</description>
     </item>
+    
     <item>
       <title>Widening Access to Applied Machine Learning with TinyML</title>
       <link>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</guid>
       <description>In this paper, we describe our pedagogical approach to increasing access to applied ML through a four part massive open online course (MOOC) on Tiny Machine Learning (TinyML) produced in collaboration between academia (Harvard University) and industry (Google). We suggest that TinyML, ML on resource-constrained embedded devices, is an attractive means to widen access because TinyML both leverages low-cost and globally accessible hardware, and encourages the development of complete, self-contained applications, from data collection to deployment. We also released the course materials publicly, hoping they will inspire the next generation of ML practitioners and educators and further broaden access to cutting-edge ML technologies.</description>
     </item>
+    
     <item>
       <title>RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity</title>
       <link>https://a2r-lab.github.io/publication/roborun/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/roborun/</guid>
       <description>This paper introduces RoboRun, a mobile-robot runtime that dynamically exploits the compute-environment synergy to improve performance and energy. We implement RoboRun in the Robot Operating System (ROS) and evaluate it on autonomous drones. We compare RoboRun against a state-of-the-art static design and show 4.5X and 4X improvements in mission time and energy, respectively, as well as a 36% reduction in CPU utilization.</description>
     </item>
+    
     <item>
       <title>The Role of Compute in Autonomous Aerial Vehicles</title>
       <link>https://a2r-lab.github.io/publication/roleofcompute/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/roleofcompute/</guid>
       <description>By combining MAVBench (our tool-set, which consists of (1) a closed-loop real-time feedback simulator and (2) an end-to-end benchmark suite comprised of state-of-the-art kernels), analytical modeling, and an understanding of various compute impacts, we show up to 2X and 1.8X improvements for mission time and mission energy for two optimization case studies. Our investigations, as well as our optimizations, show that cyber-physical co-design, a methodology with which both the cyber and physical processes/quantities of the robot are developed with consideration of one another, similar to hardware-software co-design, is necessary for arriving at the design of the optimal robot.</description>
     </item>
+    
     <item>
       <title>Robomorphic Computing: A Design Methodology for Domain-Specific Accelerators Parameterized by Robot Morphology</title>
       <link>https://a2r-lab.github.io/publication/robomorphic/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/robomorphic/</guid>
       <description>We introduce robomorphic computing; a methodology to transform robot morphology into a customized hardware accelerator morphology. In this work, we (i) present this design methodology; (ii) use the methodology to generate a parameterized accelerator design for the gradient of rigid body dynamics; (iii) evaluate FPGA and synthesized ASIC implementations; and (iv) describe how the design can be automatically customized for other robot models. Our FPGA accelerator achieves speedups of 8x and 86x over CPU and GPU latency, and maintains an overall speedup of 1.9x to 2.9x deployed in an end-to-end coprocessor system. ASIC synthesis indicates an additional factor of 7.2x.</description>
     </item>
+    
     <item>
       <title>Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA</title>
       <link>https://a2r-lab.github.io/publication/accellrbdgrad/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/accellrbdgrad/</guid>
       <description>In this paper, we detail the designs of three faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. Our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over our optimized CPU implementation by refactoring the algorithm to exploit its computational features, e.g., parallelism at different granularities.</description>
     </item>
+    
   </channel>
 </rss>

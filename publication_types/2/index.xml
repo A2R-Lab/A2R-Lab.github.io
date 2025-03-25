@@ -7,35 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a2r-lab.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Materiality and Risk in the Age of Pervasive AI Sensors</title>
       <link>https://a2r-lab.github.io/publication/materiality/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/materiality/</guid>
-      <description>Artificial intelligence (AI) systems connected to sensor-laden devicesare becoming pervasive, which has notable implications for a range of AIrisks, including to privacy, the environment, autonomy and more. Thereis therefore a growing need for increased accountability around theresponsible development and deployment of these technologies. Herewe highlight the dimensions of risk associated with AI systems that arisefrom the material affordances of sensors and their underlying calculativemodels. We propose a sensor-sensitive framework for diagnosing theserisks, complementing existing approaches such as the US National Instituteof Standards and Technology AI Risk Management Framework and theEuropean Union AI Act, and discuss its implementation. We concludeby advocating for increased attention to the materiality of algorithmicsystems, and of on-device AI sensors in particular, and highlight the needfor development of a sensor design paradigm that empowers users andcommunities and leads to a future of increased fairness, accountability andtransparency.</description>
+      <description>Artificial intelligence (AI) systems connected to sensor-laden devicesare becoming pervasive, which has notable implications for a range of AIrisks, including to privacy, the environment, autonomy and more. Thereis therefore a growing need for increased accountability around theresponsible development and deployment of these technologies. Herewe highlight the dimensions of risk associated with AI systems that arisefrom the material affordances of sensors and their underlying calculativemodels. We propose a sensor-sensitive framework for diagnosing theserisks, complementing existing approaches such as the US National Institute of Standards and Technology AI Risk Management Framework and the European Union AI Act, and discuss its implementation. We concludeby advocating for increased attention to the materiality of algorithmicsystems, and of on-device AI sensors in particular, and highlight the needfor development of a sensor design paradigm that empowers users andcommunities and leads to a future of increased fairness, accountability andtransparency.</description>
     </item>
+    
     <item>
       <title>Widening Access to Applied Machine Learning with TinyML</title>
       <link>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/wideningaccesswithtinyml/</guid>
       <description>In this paper, we describe our pedagogical approach to increasing access to applied ML through a four part massive open online course (MOOC) on Tiny Machine Learning (TinyML) produced in collaboration between academia (Harvard University) and industry (Google). We suggest that TinyML, ML on resource-constrained embedded devices, is an attractive means to widen access because TinyML both leverages low-cost and globally accessible hardware, and encourages the development of complete, self-contained applications, from data collection to deployment. We also released the course materials publicly, hoping they will inspire the next generation of ML practitioners and educators and further broaden access to cutting-edge ML technologies.</description>
     </item>
+    
     <item>
       <title>The Role of Compute in Autonomous Aerial Vehicles</title>
       <link>https://a2r-lab.github.io/publication/roleofcompute/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/roleofcompute/</guid>
       <description>By combining MAVBench (our tool-set, which consists of (1) a closed-loop real-time feedback simulator and (2) an end-to-end benchmark suite comprised of state-of-the-art kernels), analytical modeling, and an understanding of various compute impacts, we show up to 2X and 1.8X improvements for mission time and mission energy for two optimization case studies. Our investigations, as well as our optimizations, show that cyber-physical co-design, a methodology with which both the cyber and physical processes/quantities of the robot are developed with consideration of one another, similar to hardware-software co-design, is necessary for arriving at the design of the optimal robot.</description>
     </item>
+    
     <item>
       <title>Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA</title>
       <link>https://a2r-lab.github.io/publication/accellrbdgrad/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/accellrbdgrad/</guid>
       <description>In this paper, we detail the designs of three faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. Our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over our optimized CPU implementation by refactoring the algorithm to exploit its computational features, e.g., parallelism at different granularities.</description>
     </item>
+    
   </channel>
 </rss>
