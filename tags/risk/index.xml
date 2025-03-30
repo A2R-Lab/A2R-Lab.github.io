@@ -7,15 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/risk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/tags/risk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Materiality and Risk in the Age of Pervasive AI Sensors</title>
       <link>https://a2r-lab.github.io/publication/materiality/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/materiality/</guid>
       <description>Artificial intelligence (AI) systems connected to sensor-laden devicesare becoming pervasive, which has notable implications for a range of AIrisks, including to privacy, the environment, autonomy and more. Thereis therefore a growing need for increased accountability around theresponsible development and deployment of these technologies. Herewe highlight the dimensions of risk associated with AI systems that arisefrom the material affordances of sensors and their underlying calculativemodels. We propose a sensor-sensitive framework for diagnosing theserisks, complementing existing approaches such as the US National Institute of Standards and Technology AI Risk Management Framework and the European Union AI Act, and discuss its implementation. We concludeby advocating for increased attention to the materiality of algorithmicsystems, and of on-device AI sensors in particular, and highlight the needfor development of a sensor design paradigm that empowers users andcommunities and leads to a future of increased fairness, accountability andtransparency.</description>
     </item>
-    
   </channel>
 </rss>

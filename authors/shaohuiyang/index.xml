@@ -7,15 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 25 Mar 2025 00:00:03 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/shaohuiyang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Mar 2025 00:00:03 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/authors/shaohuiyang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/shaohuiyang/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/shaohuiyang/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Polynomial and Parallelizable Preconditioning for Block Tridiagonal Positive Definite Matrix</title>
       <link>https://a2r-lab.github.io/publication/polynomialprecon/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/polynomialprecon/</guid>
       <description>The efficient solution of moderately large-scale linear systems arising from the KKT conditions in optimal control problems (OCPs) is a critical challenge in robotics. With the stagnation of Moore&amp;rsquo;s law, there is growing interest in leveraging GPU-accelerated iterative methods, and corresponding parallel preconditioners, to overcome these computational challenges. To improve the computational performance of such solvers, we introduce a parallel-friendly, parametrized multi-splitting polynomial preconditioner framework that leverages positive and negative factors. Our approach results in improved convergence of the linear systems solves needed in OCPs. We construct and prove the optimal parametrization of multi-splitting theoretically and demonstrate empirically a 76% reduction in condition number and 46% in iteration counts on a series of numerical benchmarks.</description>
     </item>
-    
   </channel>
 </rss>
