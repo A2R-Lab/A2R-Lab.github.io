@@ -7,35 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 25 Mar 2025 00:00:03 +0000</lastBuildDate>
-    <atom:link href="https://a2r-lab.github.io/tags/iterative-methods/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Mar 2025 00:00:03 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/iterative-methods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Polynomial and Parallelizable Preconditioning for Block Tridiagonal Positive Definite Matrix</title>
       <link>https://a2r-lab.github.io/publication/polynomialprecon/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/polynomialprecon/</guid>
       <description>The efficient solution of moderately large-scale linear systems arising from the KKT conditions in optimal control problems (OCPs) is a critical challenge in robotics. With the stagnation of Moore&amp;rsquo;s law, there is growing interest in leveraging GPU-accelerated iterative methods, and corresponding parallel preconditioners, to overcome these computational challenges. To improve the computational performance of such solvers, we introduce a parallel-friendly, parametrized multi-splitting polynomial preconditioner framework that leverages positive and negative factors. Our approach results in improved convergence of the linear systems solves needed in OCPs. We construct and prove the optimal parametrization of multi-splitting theoretically and demonstrate empirically a 76% reduction in condition number and 46% in iteration counts on a series of numerical benchmarks.</description>
     </item>
+    
     <item>
       <title>Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs</title>
       <link>https://a2r-lab.github.io/publication/optimizingatallscales/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/optimizingatallscales/</guid>
       <description>In our recent works, by leveraging a combination of parallelism, approximation, and structure exploitation, we have enabled and accelerated (nonlinear) trajectory optimization solvers for real-time performance on non-standard computational hardware, ranging from microcontrollers (MCUs) to graphical processing units (GPUs). This has led to real-time MPC onboard an MCU powered 27g quadrotor for dynamic obstacle avoidance, as well as simulated whole-body nonlinear MPC at kHz rates for a GPU powered manipulator for high speed trajectory tracking.</description>
     </item>
+    
     <item>
       <title>MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</title>
       <link>https://a2r-lab.github.io/publication/mpcgpu/</link>
       <pubDate>Mon, 13 May 2024 00:00:04 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/mpcgpu/</guid>
       <description>We introduce MPCGPU, a GPU-accelerated, real-time NMPC solver that leverages an accelerated preconditioned conjugate gradient (PCG) linear system solver at its core. We show that MPCGPU increases the scalability and real-time performance of NMPC, solving larger problems, at faster rates. In particular, for tracking tasks using the Kuka IIWA manipulator, MPCGPU is able to scale to kilohertz control rates with trajectories as long as 512 knot points. This is driven by a custom PCG solver which outperforms state-of-the-art, CPU-based, linear system solvers by at least 10x for a majority of solves and 3.6x on average.</description>
     </item>
+    
     <item>
       <title>Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization</title>
       <link>https://a2r-lab.github.io/publication/symstair/</link>
       <pubDate>Mon, 13 May 2024 00:00:03 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/symstair/</guid>
       <description>In this work we present a new parallel-friendly symmetric stair preconditioner. We prove that our preconditioner has advantageous theoretical properties when used in conjunction with iterative methods for trajectory optimization such as a more clustered eigenvalue spectrum. Numerical experiments with typical trajectory optimization problems reveal that as compared to the best alternative parallel preconditioner from the literature, our symmetric stair preconditioner provides up to a 34% reduction in condition number and up to a 25% reduction in the number of resulting linear system solver iterations.</description>
     </item>
+    
   </channel>
 </rss>

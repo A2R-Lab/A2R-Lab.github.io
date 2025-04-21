@@ -7,21 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a2r-lab.github.io/tags/unscented-transform/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/unscented-transform/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parallel and Constrained Differential Dynamic Programming for Model Predictive Control</title>
       <link>https://a2r-lab.github.io/publication/mastersthesis/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/mastersthesis/</guid>
       <description>This thesis builds on recent work on Unscented Dynamic Programming (UDP)—which eliminates dynamics derivative computations in DDP—to support general nonlinear state and input constraints to high precision using an augmented Lagrangian. It then leverages parallel computations for increased throughput and systematically analyzes the insights, challenges, tradeoffs, and benefits of implementing a parallelized variant of DDP on both a multi-core CPU and a graphics processing unit (GPU).</description>
     </item>
+    
     <item>
       <title>Constrained Unscented Dynamic Programming</title>
       <link>https://a2r-lab.github.io/publication/cudp/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/cudp/</guid>
       <description>We build on recent work on Unscented Dynamic Programming (UDP) - which eliminates dynamics derivative computations in DDP - to support general nonlinear state and input constraints using an augmented Lagrangian. The resulting algorithm has the same computational cost as first-order penalty-based DDP variants, but can achieve constraint satisfaction to high precision without the numerical ill-conditioning associated with penalty methods.</description>
     </item>
+    
   </channel>
 </rss>

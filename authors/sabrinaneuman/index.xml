@@ -7,77 +7,87 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a2r-lab.github.io/authors/sabrinaneuman/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/sabrinaneuman/</link>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/authors/sabrinaneuman/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/sabrinaneuman/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Invited: The Magnificent Seven Challenges and Opportunities in Domain-Specific Accelerator Design for Autonomous Systems</title>
       <link>https://a2r-lab.github.io/publication/magnificentseven/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/magnificentseven/</guid>
       <description>In this work, we present the Magnificent Seven Challenges in domain-specific accelerator design that can guide adventurous architects to contribute meaningfully to novel application domains. Although these challenges appear across domains ranging from ML to genomics, we examine them through the lens of autonomous systems as a motivating example in this work. To that end, we identify opportunities for the path forward in a successful domain-specific accelerator design from these challenges.</description>
     </item>
+    
     <item>
       <title>RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance</title>
       <link>https://a2r-lab.github.io/publication/robotperf/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/robotperf/</guid>
       <description>We introduce RobotPerf, a vendor-agnostic benchmarking suite designed to evaluate robotics computing performance across a diverse range of hardware platforms using ROS 2 as its common baseline. The suite encompasses ROS 2 packages covering the full robotics pipeline and integrates two distinct benchmarking approaches: black-box testing, which measures performance by eliminating upper layers and replacing them with a test application, and grey-box testing, an application-specific measure that observes internal system states with minimal interference. Our benchmarking framework provides ready-to-use tools and is easily adaptable for the assessment of custom ROS 2 computational graphs. Drawing from the knowledge of leading robot architects and system architecture experts, RobotPerf establishes a standardized approach to robotics benchmarking. As an open-source initiative, RobotPerf remains committed to evolving with community input to advance the future of hardware-accelerated robotics.</description>
     </item>
+    
     <item>
       <title>RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots</title>
       <link>https://a2r-lab.github.io/publication/roboshape/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/roboshape/</guid>
       <description>We present RoboShape, an accelerator framework that leverages two topology-based computational patterns that scale with robot size: (1) topology traversals, and (2) large topology-based matrices. Using these patterns and building on prior work, we expose opportunities to directly use robot topology to inform architectural mechanisms including task scheduling and allocation, data placement, block matrix operations, and sparse I/O data. For the topologically-diverse iiwa manipulator, HyQ quadruped, and Baxter torso robots, RoboShape accelerators on an FPGA provide a 4.0x to 4.4x speedup in compute latency over CPU and a 8.0x to 15.1x speedup over GPU for the dynamics gradients, a key bottleneck preventing online execution of nonlinear optimal motion control for legged robots. Taking a broader view, for topology-based applications, RoboShape enables analysis of performance and resource utilization tradeoffs that will be critical to managing resources across accelerators in future full robotics domain-specific SoCs.</description>
     </item>
+    
     <item>
       <title>RobotCore: An Open Architecture for Hardware Acceleration in ROS 2</title>
       <link>https://a2r-lab.github.io/publication/robotcore/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/robotcore/</guid>
       <description>We introduce RobotCore, an architecture to integrate hardware acceleration in the widely-used ROS 2 robotics software framework. This architecture is target-agnostic (supports edge, workstation, data center, or cloud targets) and accelerator-agnostic (supports both FPGAs and GPUs). It builds on top of the common ROS 2 build system and tools and is easily portable across different research and commercial solutions through a new firmware layer. We also leverage the Linux Tracing Toolkit next generation (LTTng) for low-overhead real-time tracing and benchmarking. To demonstrate the acceleration enabled by this architecture, we design an intra-FPGA ROS 2 node communication queue to enable faster data flows, and use it in conjunction with FPGA-accelerated nodes to achieve a 24.42% speedup over a CPU.</description>
     </item>
+    
     <item>
       <title>Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms</title>
       <link>https://a2r-lab.github.io/publication/bittlesim2real/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/bittlesim2real/</guid>
       <description>As a step toward robust learning pipelines for these constrained robot platforms, we demonstrate how existing state-of-the-art imitation learning pipelines can be modified and augmented to support low-cost, limited hardware. By reducing our model’s observational space, leveraging TinyML to quantize our model, and adjusting the model outputs through post-processing, we are able to learn and deploy successful walking gaits on an 8-DoF, $299 (USD) toy quadruped robot that has reduced actuation and sensor feedback, as well as limited computing resources.</description>
     </item>
+    
     <item>
       <title>Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots</title>
       <link>https://a2r-lab.github.io/publication/tinyrobotlearning/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/tinyrobotlearning/</guid>
       <description>Tiny robot learning lies at the intersection of embedded systems, robotics, and ML, compounding the challenges of these domains. This paper gives a brief survey of the tiny robot learning space, elaborates on key challenges, and proposes promising opportunities for future work in ML system design.</description>
     </item>
+    
     <item>
       <title>GRiD: GPU-Accelerated Rigid Body Dynamics with Analytical Gradients</title>
       <link>https://a2r-lab.github.io/publication/grid/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/grid/</guid>
       <description>We introduce and release GRiD, an open-source, GPU-accelerated library for computing rigid body dynamics with analytical gradients. GRiD was designed to accelerate nonlinear trajectory optimization through optimized code generation, GRiD provides as much as a 7.2x speedup over a state-of-the-art, multi-threaded CPU implementation and maintains as much as a 2.5x speedup when accounting for I/O overhead.</description>
     </item>
+    
     <item>
       <title>Robomorphic Computing: A Design Methodology for Domain-Specific Accelerators Parameterized by Robot Morphology</title>
       <link>https://a2r-lab.github.io/publication/robomorphic/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/robomorphic/</guid>
       <description>We introduce robomorphic computing; a methodology to transform robot morphology into a customized hardware accelerator morphology. In this work, we (i) present this design methodology; (ii) use the methodology to generate a parameterized accelerator design for the gradient of rigid body dynamics; (iii) evaluate FPGA and synthesized ASIC implementations; and (iv) describe how the design can be automatically customized for other robot models. Our FPGA accelerator achieves speedups of 8x and 86x over CPU and GPU latency, and maintains an overall speedup of 1.9x to 2.9x deployed in an end-to-end coprocessor system. ASIC synthesis indicates an additional factor of 7.2x.</description>
     </item>
+    
     <item>
       <title>Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA</title>
       <link>https://a2r-lab.github.io/publication/accellrbdgrad/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://a2r-lab.github.io/publication/accellrbdgrad/</guid>
       <description>In this paper, we detail the designs of three faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. Our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over our optimized CPU implementation by refactoring the algorithm to exploit its computational features, e.g., parallelism at different granularities.</description>
     </item>
+    
   </channel>
 </rss>
