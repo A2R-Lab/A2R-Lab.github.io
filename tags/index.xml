@@ -7,8 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 25 Mar 2025 00:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lasers</title>
+      <link>https://a2r-lab.github.io/tags/lasers/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/lasers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tiny Robots</title>
+      <link>https://a2r-lab.github.io/tags/tiny-robots/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/tiny-robots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wireless Power</title>
+      <link>https://a2r-lab.github.io/tags/wireless-power/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/wireless-power/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Iterative Methods</title>
       <link>https://a2r-lab.github.io/tags/iterative-methods/</link>

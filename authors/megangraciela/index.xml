@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A²R Lab</title>
+    <link>https://a2r-lab.github.io/authors/megangraciela/</link>
+    <description>Recent content on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/authors/megangraciela/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/megangraciela/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/megangraciela/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Set Phasers to Stun: Beaming Power and Control to Mobile Robots with Laser Light</title>
+      <link>https://a2r-lab.github.io/publication/phaser/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/phaser/</guid>
+      <description>We present Phaser, a flexible system that directs narrow-beam laser light to moving robots for concurrent wireless power delivery and communication. We design a semi-automatic calibration procedure to enable fusion of stereo-vision-based 3D robot tracking with high-power beam steering, and a low-power optical communication scheme that reuses the laser light as a data channel. We fabricate a Phaser prototype using off-the-shelf hardware and evaluate its performance with battery-free autonomous robots.</description>
+    </item>
+  </channel>
+</rss>
