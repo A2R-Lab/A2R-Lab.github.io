@@ -6,6 +6,7 @@
     <description>Recent content in A²R Lab at ICRA 2024 on A²R Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; {year} Brian Plancher</copyright><atom:link href="https://a2r-lab.github.io/icra-24/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <atom:link href="https://a2r-lab.github.io/icra-24/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

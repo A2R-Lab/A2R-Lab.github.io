@@ -7,15 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/authors/solomongizaw/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/authors/solomongizaw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/solomongizaw/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/solomongizaw/</guid>
+      <description></description>
+    </item>
     <item>
       <title>TinyML4D: Scaling Embedded Machine Learning Education in the Developing World</title>
       <link>https://a2r-lab.github.io/publication/scalingtinyml4d/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/scalingtinyml4d/</guid>
       <description>Embedded machine learning (ML) on low-power devices, also known as &amp;ldquo;TinyML,&amp;rdquo; enables intelligent applications on accessible hardware and fosters collaboration across disciplines to solve real-world problems. Its interdisciplinary and practical nature makes embedded ML education appealing, but barriers remain that limit its accessibility, especially in developing countries. Challenges include limited open-source software, courseware, models, and datasets that can be used with globally accessible heterogeneous hardware. Our vision is that with concerted effort and partnerships between industry and academia, we can overcome such challenges and enable embedded ML education to empower developers and researchers worldwide to build locally relevant AI solutions on low-cost hardware, increasing diversity and sustainability in the field. Towards this aim, we document efforts made by the TinyML4D community to scale embedded ML education globally through open-source curricula and introductory workshops co-created by international educators. We conclude with calls to action to further develop modular and inclusive resources and transform embedded ML into a truly global gateway to embedded AI skills development.</description>
     </item>
-    
   </channel>
 </rss>

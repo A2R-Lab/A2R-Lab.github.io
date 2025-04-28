@@ -7,15 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://a2r-lab.github.io/tags/autonomous-systems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/tags/autonomous-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Invited: The Magnificent Seven Challenges and Opportunities in Domain-Specific Accelerator Design for Autonomous Systems</title>
       <link>https://a2r-lab.github.io/publication/magnificentseven/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://a2r-lab.github.io/publication/magnificentseven/</guid>
       <description>In this work, we present the Magnificent Seven Challenges in domain-specific accelerator design that can guide adventurous architects to contribute meaningfully to novel application domains. Although these challenges appear across domains ranging from ML to genomics, we examine them through the lens of autonomous systems as a motivating example in this work. To that end, we identify opportunities for the path forward in a successful domain-specific accelerator design from these challenges.</description>
     </item>
-    
   </channel>
 </rss>
