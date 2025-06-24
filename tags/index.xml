@@ -7,8 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adaptive Updates</title>
+      <link>https://a2r-lab.github.io/tags/adaptive-updates/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/adaptive-updates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edge Computing</title>
+      <link>https://a2r-lab.github.io/tags/edge-computing/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/edge-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Embedded Systems</title>
+      <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Model Predictive Control</title>
+      <link>https://a2r-lab.github.io/tags/model-predictive-control/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/model-predictive-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Numerical Optimziation</title>
+      <link>https://a2r-lab.github.io/tags/numerical-optimziation/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/numerical-optimziation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quadrotor</title>
+      <link>https://a2r-lab.github.io/tags/quadrotor/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/quadrotor/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Lasers</title>
       <link>https://a2r-lab.github.io/tags/lasers/</link>
@@ -70,13 +112,6 @@
       <link>https://a2r-lab.github.io/tags/edge-ml/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/edge-ml/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Embedded Systems</title>
-      <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
       <description></description>
     </item>
     <item>
@@ -171,24 +206,10 @@
       <description></description>
     </item>
     <item>
-      <title>Edge Computing</title>
-      <link>https://a2r-lab.github.io/tags/edge-computing/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/edge-computing/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>MCU</title>
       <link>https://a2r-lab.github.io/tags/mcu/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/mcu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Model Predictive Control</title>
-      <link>https://a2r-lab.github.io/tags/model-predictive-control/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/model-predictive-control/</guid>
       <description></description>
     </item>
     <item>
@@ -245,13 +266,6 @@
       <link>https://a2r-lab.github.io/tags/numerical-optimizaiton/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/numerical-optimizaiton/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Quadrotor</title>
-      <link>https://a2r-lab.github.io/tags/quadrotor/</link>
-      <pubDate>Mon, 13 May 2024 00:00:05 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/quadrotor/</guid>
       <description></description>
     </item>
     <item>

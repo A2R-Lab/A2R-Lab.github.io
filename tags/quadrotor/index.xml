@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 13 May 2024 00:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/tags/quadrotor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robust and Efficient Embedded Convex Optimization through First-Order Adaptive Caching</title>
+      <link>https://a2r-lab.github.io/publication/adaptivetinympc/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/adaptivetinympc/</guid>
+      <description>In this work, we introduce First-Order Adaptive Caching, which precomputes not only select matrix operations but also their sensitivities to hyperparameter variations, enabling online hyperparameter updates without full recomputation of the cache. We demonstrate the effectiveness of our approach on a number of dynamic quadrotor tasks, achieving up to a 63.4% reduction in ADMM iterations over the use of optimized fixed hyperparameters and approaching 70% of the performance of a full cache recomputation, while reducing the computational cost from O(n^3) to O(n^2) complexity. This performance enables us to perform figure-eight trajectories on a 27g tiny quadrotor under wind disturbances.</description>
+    </item>
     <item>
       <title>TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers</title>
       <link>https://a2r-lab.github.io/publication/tinympc/</link>

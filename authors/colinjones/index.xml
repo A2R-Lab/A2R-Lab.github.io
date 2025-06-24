@@ -17,11 +17,11 @@
       <description></description>
     </item>
     <item>
-      <title>Polynomial and Parallelizable Preconditioning for Block Tridiagonal Positive Definite Matrix</title>
+      <title>Polynomial and Parallelizable Preconditioning for Block Tridiagonal Positive Definite Matrices</title>
       <link>https://a2r-lab.github.io/publication/polynomialprecon/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
       <guid>https://a2r-lab.github.io/publication/polynomialprecon/</guid>
-      <description>The efficient solution of moderately large-scale linear systems arising from the KKT conditions in optimal control problems (OCPs) is a critical challenge in robotics. With the stagnation of Moore&amp;rsquo;s law, there is growing interest in leveraging GPU-accelerated iterative methods, and corresponding parallel preconditioners, to overcome these computational challenges. To improve the computational performance of such solvers, we introduce a parallel-friendly, parametrized multi-splitting polynomial preconditioner framework that leverages positive and negative factors. Our approach results in improved convergence of the linear systems solves needed in OCPs. We construct and prove the optimal parametrization of multi-splitting theoretically and demonstrate empirically a 76% reduction in condition number and 46% in iteration counts on a series of numerical benchmarks.</description>
+      <description>The efficient solution of moderately large-scale linear systems arising from the KKT conditions in optimal control problems (OCPs) is a critical challenge in robotics. With the stagnation of Moore’s law, there is growing interest in leveraging GPU-accelerated iterative methods, and corresponding parallel preconditioners, to overcome these computational challenges. To improve the performance of such solvers, we introduce a parallel-friendly, parametrized multi-splitting polynomial preconditioner framework. We first construct and prove the optimal parametrization theoretically in terms of the least amount of distinct eigenvalues and the narrowest spectrum range. We then compare the theoretical time complexity of solving the linear system directly or iteratively. We finally show through numerical experiments how much the preconditioning improves the convergence of OCP linear systems solves.</description>
     </item>
   </channel>
 </rss>
