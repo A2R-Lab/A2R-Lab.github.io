@@ -7,8 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Generation</title>
+      <link>https://a2r-lab.github.io/tags/code-generation/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/code-generation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conic Constraints</title>
+      <link>https://a2r-lab.github.io/tags/conic-constraints/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/conic-constraints/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edge Computing</title>
+      <link>https://a2r-lab.github.io/tags/edge-computing/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/edge-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Embedded Systems</title>
+      <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Model Predictive Control</title>
+      <link>https://a2r-lab.github.io/tags/model-predictive-control/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/model-predictive-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parameter Estimation</title>
+      <link>https://a2r-lab.github.io/tags/parameter-estimation/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/parameter-estimation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quadrotor</title>
+      <link>https://a2r-lab.github.io/tags/quadrotor/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/quadrotor/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Adaptive Updates</title>
       <link>https://a2r-lab.github.io/tags/adaptive-updates/</link>
@@ -17,38 +66,10 @@
       <description></description>
     </item>
     <item>
-      <title>Edge Computing</title>
-      <link>https://a2r-lab.github.io/tags/edge-computing/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/edge-computing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Embedded Systems</title>
-      <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Model Predictive Control</title>
-      <link>https://a2r-lab.github.io/tags/model-predictive-control/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/model-predictive-control/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Numerical Optimziation</title>
       <link>https://a2r-lab.github.io/tags/numerical-optimziation/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/numerical-optimziation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Quadrotor</title>
-      <link>https://a2r-lab.github.io/tags/quadrotor/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/quadrotor/</guid>
       <description></description>
     </item>
     <item>
@@ -308,20 +329,6 @@
       <link>https://a2r-lab.github.io/tags/ros2/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/ros2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Code Generation</title>
-      <link>https://a2r-lab.github.io/tags/code-generation/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/code-generation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Conic Constraints</title>
-      <link>https://a2r-lab.github.io/tags/conic-constraints/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/conic-constraints/</guid>
       <description></description>
     </item>
     <item>

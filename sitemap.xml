@@ -2,49 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://a2r-lab.github.io/authors/anupambhakta/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/authors/brianplancher/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/elakhyanedumaran/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/gabrielbravo/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/ishaanmahajan/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/1/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+    <loc>https://a2r-lab.github.io/authors/justinjiang/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/kevinqiu/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/khainguyen/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/moisesmata/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/samschoedel/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/shuosha/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/zacharymanchester/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/3/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/code-generation/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/conictinympc/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/conic-constraints/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/edge-computing/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/embedded-systems/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/model-predictive-control/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/parameter-estimation/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/quadrotor/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/kaczmarz/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/1/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/adaptive-updates/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/edge-computing/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/embedded-systems/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/model-predictive-control/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/numerical-optimziation/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/quadrotor/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication/adaptivetinympc/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/charlescarver/</loc>
@@ -93,9 +141,6 @@
     <lastmod>2025-03-25T00:00:03+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/toshiyukiohtsuka/</loc>
-    <lastmod>2025-03-25T00:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/3/</loc>
     <lastmod>2025-03-25T00:00:03+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/iterative-methods/</loc>
@@ -203,28 +248,16 @@
     <loc>https://a2r-lab.github.io/authors/anoushkaalavilli/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/elakhyanedumaran/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/emreadabag/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/khainguyen/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/milonidipakatal/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/samschoedel/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/williamgerard/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/xueyibu/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/zacharymanchester/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication_types/9/</loc>
@@ -349,15 +382,6 @@
   </url><url>
     <loc>https://a2r-lab.github.io/tags/ros2/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/code-generation/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication/conictinympc/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/conic-constraints/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/alessandrogrande/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
@@ -898,8 +922,6 @@
   </url><url>
     <loc>https://a2r-lab.github.io/authors/antonioaranda/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/anupambhakta/</loc>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/barathkumarjk/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/barkhaseth/</loc>
@@ -940,8 +962,6 @@
   </url><url>
     <loc>https://a2r-lab.github.io/authors/erisgao/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/gabrielbravo/</loc>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/ginozhang/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/habeebamansour/</loc>
@@ -964,13 +984,9 @@
   </url><url>
     <loc>https://a2r-lab.github.io/authors/justinhaddad/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/justinjiang/</loc>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/kaizhang/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/kevinluo/</loc>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/kevinqiu/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/khadijasiddiqui/</loc>
   </url><url>
@@ -991,8 +1007,6 @@
     <loc>https://a2r-lab.github.io/authors/merrickwolfley/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/mikulsaravanan/</loc>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/moisesmata/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/nadimkanazi/</loc>
   </url><url>
@@ -1019,8 +1033,6 @@
     <loc>https://a2r-lab.github.io/authors/seyoungree/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/shobiniiyer/</loc>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/shuosha/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/skylacui/</loc>
   </url><url>

@@ -31,7 +31,7 @@
   
     
   
-  <meta name="description" content="We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to handle second-order cone constraints. We also present code-generation software to enable deployment of TinyMPC on a variety of microcontrollers. We benchmark our generated code against state-of-the-art embedded QP and SOCP solvers, demonstrating a two-order-of-magnitude speed increase over ECOS while consuming less memory. Finally, we demonstrate TinyMPC&#39;s efficacy on the Crazyflie, a lightweight, resource-constrained quadrotor with fast dynamics. TinyMPC and its code-generation tools are publicly available at [tinympc.org](https://tinympc.org/).">
+  <meta name="description" content="We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to provide support for second-order cones, as well as `C&#43;&#43;` code generation from `Python`, `MATLAB`, and `Julia` for easy deployment. Microcontroller benchmarks show that our solver provides up to a two-order-of-magnitude speedup, ranging from 10.6x to 142.7x, over state-of-the-art embedded solvers on QP and SOCP problems, and enables us to fit order-of-magnitude larger problems in memory. We validate our solver&#39;s deployed performance through simulation and hardware experiments, including conically-constrained trajectory tracking on a 27g Crazyflie quadrotor. To get started with Conic-TinyMPC, visit our documentation, examples, and the open-source codebase at [tinympc.org](https://tinympc.org/).">
 
   
   <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/publication/conictinympc/">
@@ -113,13 +113,13 @@
   
   <meta property="og:site_name" content="A²R Lab">
   <meta property="og:url" content="https://a2r-lab.github.io/publication/conictinympc/">
-  <meta property="og:title" content="Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC | A²R Lab">
-  <meta property="og:description" content="We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to handle second-order cone constraints. We also present code-generation software to enable deployment of TinyMPC on a variety of microcontrollers. We benchmark our generated code against state-of-the-art embedded QP and SOCP solvers, demonstrating a two-order-of-magnitude speed increase over ECOS while consuming less memory. Finally, we demonstrate TinyMPC&#39;s efficacy on the Crazyflie, a lightweight, resource-constrained quadrotor with fast dynamics. TinyMPC and its code-generation tools are publicly available at [tinympc.org](https://tinympc.org/)."><meta property="og:image" content="https://a2r-lab.github.io/publication/conictinympc/featured.png">
+  <meta property="og:title" content="Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC | A²R Lab">
+  <meta property="og:description" content="We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to provide support for second-order cones, as well as `C&#43;&#43;` code generation from `Python`, `MATLAB`, and `Julia` for easy deployment. Microcontroller benchmarks show that our solver provides up to a two-order-of-magnitude speedup, ranging from 10.6x to 142.7x, over state-of-the-art embedded solvers on QP and SOCP problems, and enables us to fit order-of-magnitude larger problems in memory. We validate our solver&#39;s deployed performance through simulation and hardware experiments, including conically-constrained trajectory tracking on a 27g Crazyflie quadrotor. To get started with Conic-TinyMPC, visit our documentation, examples, and the open-source codebase at [tinympc.org](https://tinympc.org/)."><meta property="og:image" content="https://a2r-lab.github.io/publication/conictinympc/featured.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2024-03-26T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2024-03-26T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2025-10-06T00:00:00&#43;00:00">
   
 
   
@@ -134,7 +134,7 @@
   gtag('config', 'G-BWMRJXPX7Z');
 </script>
 
-  <title>Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC | A²R Lab</title>
+  <title>Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC | A²R Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -431,7 +431,7 @@
   <div class="row">
     <div class="col-6">
       <div class="split-header-content">
-        <h1 itemprop="name">Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC</h1>
+        <h1 itemprop="name">Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC</h1>
 
         
 
@@ -446,8 +446,8 @@
 
 
 
-<meta content="2024-03-26 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2024-03-26 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2025-10-06 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2025-10-06 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -461,11 +461,15 @@
 
 
   <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://samschoedel.com/" target="_blank">Sam Schoedel</a>
+          <a href="https://scholar.google.com/citations?user=HMDSXuMAAAAJ" target="_blank">Ishaan Mahajan</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://xkhainguyen.github.io/" target="_blank">Khai Nguyen</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://samschoedel.com/" target="_blank">Sam Schoedel</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://www.linkedin.com/in/elakhya-nedumaran/" target="_blank">Elakhya Nedumaran</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/moises-mata-cu" target="_blank">Moises Mata</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
@@ -482,7 +486,7 @@
     
       
     
-    <time>March 2024</time>
+    <time>October 2025</time>
   </span>
   
 
@@ -605,7 +609,7 @@
 </div>
 
 <div class="article-container d-xl-none">
-  <h1 itemprop="name">Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC</h1>
+  <h1 itemprop="name">Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC</h1>
 
   
 
@@ -620,8 +624,8 @@
 
 
 
-<meta content="2024-03-26 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2024-03-26 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2025-10-06 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2025-10-06 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -635,11 +639,15 @@
 
 
   <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://samschoedel.com/" target="_blank">Sam Schoedel</a>
+          <a href="https://scholar.google.com/citations?user=HMDSXuMAAAAJ" target="_blank">Ishaan Mahajan</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://xkhainguyen.github.io/" target="_blank">Khai Nguyen</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://samschoedel.com/" target="_blank">Sam Schoedel</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://www.linkedin.com/in/elakhya-nedumaran/" target="_blank">Elakhya Nedumaran</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/moises-mata-cu" target="_blank">Moises Mata</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
@@ -656,7 +664,7 @@
     
       
     
-    <time>March 2024</time>
+    <time>October 2025</time>
   </span>
   
 
@@ -774,7 +782,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract" itemprop="text">Conic constraints appear in many important control applications like legged locomotion, robotic manipulation, and autonomous rocket landing. However, current solvers for conic optimization problems have relatively heavy computational demands in terms of both floating-point operations and memory footprint, making them impractical for use on small embedded devices. We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to handle second-order cone constraints. We also present code-generation software to enable deployment of TinyMPC on a variety of microcontrollers. We benchmark our generated code against state-of-the-art embedded QP and SOCP solvers, demonstrating a two-order-of-magnitude speed increase over ECOS while consuming less memory. Finally, we demonstrate TinyMPC&rsquo;s efficacy on the Crazyflie, a lightweight, resource-constrained quadrotor with fast dynamics. TinyMPC and its code-generation tools are publicly available at <a href="https://tinympc.org/">tinympc.org</a>.</p>
+      <p class="pub-abstract" itemprop="text">Model-predictive control (MPC) is a powerful framework for controlling dynamic systems under constraints, but it remains challenging to deploy on resource-constrained platforms, especially for problems involving conic constraints. To address this, we extend recent work developing fast, structure-exploiting, cached ADMM solvers for embedded applications, to provide support for second-order cones, as well as <code>C++</code> code generation from <code>Python</code>, <code>MATLAB</code>, and <code>Julia</code> for easy deployment. Microcontroller benchmarks show that our solver provides up to a two-order-of-magnitude speedup, ranging from 10.6x to 142.7x, over state-of-the-art embedded solvers on QP and SOCP problems, and enables us to fit order-of-magnitude larger problems in memory. We validate our solver&rsquo;s deployed performance through simulation and hardware experiments, including conically-constrained trajectory tracking on a 27g Crazyflie quadrotor. To get started with Conic-TinyMPC, visit our documentation, examples, and the open-source codebase at <a href="https://tinympc.org/">tinympc.org</a>.</p>
     
 
     
@@ -848,16 +856,83 @@
   
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
+      
+      <img class="portrait mr-3" src="/authors/ishaanmahajan/avatar_hu7c526fbbc39f92325da01c9adf49b6c4_7717_250x250_fill_q90_lanczos_center.jpeg" itemprop="image" alt="Avatar">
+    
 
     <div class="media-body">
       
       
         
       
-      <h5 class="card-title" itemprop="name"><a href="https://samschoedel.com/">Sam Schoedel</a></h5>
-      
+      <h5 class="card-title" itemprop="name"><a href="https://scholar.google.com/citations?user=HMDSXuMAAAAJ">Ishaan Mahajan</a></h5>
+      <h6 class="card-subtitle">Masters Thesis Researcher</h6>
       
       <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+          <li>
+            <a itemprop="sameAs" href="mailto:iam2141@columbia.edu" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/ishaanamahajan" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=HMDSXuMAAAAJ" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://www.linkedin.com/in/ishaan-mahajan15" target="_blank" rel="noopener">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </li>
         
       </ul>
     </div>
