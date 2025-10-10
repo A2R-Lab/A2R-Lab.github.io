@@ -7,14 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/authors/brianplancher/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://a2r-lab.github.io/authors/brianplancher/</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/authors/brianplancher/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>GATO: GPU-Accelerated and Batched Trajectory Optimization for Scalable Edge Model Predictive Control</title>
+      <link>https://a2r-lab.github.io/publication/gato/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/gato/</guid>
+      <description>We present GATO, an open source, GPU-accelerated, batched TO solver co-designed across algorithm, software, and computational hardware to deliver real-time throughput for these moderate batch size regimes. Our approach leverages a combination of block-, warp-, and thread-level parallelism within and across solves for ultra-high performance. We demonstrate the effectiveness of our approach through a combination of: simulated benchmarks showing speedups of 18-21x over CPU baselines and 1.4-16x over GPU baselines as batch size increases; case studies highlighting improved disturbance rejection and convergence behavior; and finally a validation on hardware using an industrial manipulator. We open source GATO to support reproducibility and adoption.</description>
+    </item>
+    <item>
+      <title>HJCD-IK: GPU-Accelerated Inverse Kinematics through Batched Hybrid Jacobian Coordinate Descent</title>
+      <link>https://a2r-lab.github.io/publication/hjcdik/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/hjcdik/</guid>
+      <description>We introduce HJCD-IK, a GPU-accelerated, sampling-based hybrid Inverse Kinematics (IK) solver that combines an orientation-aware greedy coordinate descent initialization scheme with a Jacobian-based polishing routine. This design enables our solver to improve both convergence speed and overall accuracy as compared to the state-of-the-art, consistently finding solutions along the accuracy-latency Pareto frontier and often achieving order-of-magnitude gains. In addition, our method produces a broad distribution of high-quality samples, yielding the lowest maximum mean discrepancy. We release our code open-source for the benefit of the community.</description>
+    </item>
+    <item>
+      <title>pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning</title>
+      <link>https://a2r-lab.github.io/publication/prrtc/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/prrtc/</guid>
+      <description>In this work we present pRRTC, a RRT-Connect based planner co-designed for GPU acceleration across the entire algorithm through parallel expansion and SIMT-optimized collision checking. We evaluate the effectiveness of pRRTC on the MotionBenchMaker dataset using robots with 7, 8, and 14 degrees of freedom (DoF). Compared to the state-of-the-art, pRRTC achieves as much as a 10× speedup on constrained reaching tasks with a 5.4× reduction in standard deviation. pRRTC also achieves a 1.4× reduction in average initial path cost. Finally, we deploy pRRTC on a 14-DoF dual Franka Panda arm setup and demonstrate real-time, collision-free motion planning with dynamic obstacles. We open-source our planner to support the wider community.</description>
     </item>
     <item>
       <title>Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC</title>
@@ -57,13 +78,6 @@
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/publication/materiality/</guid>
       <description>Artificial intelligence (AI) systems connected to sensor-laden devicesare becoming pervasive, which has notable implications for a range of AIrisks, including to privacy, the environment, autonomy and more. Thereis therefore a growing need for increased accountability around theresponsible development and deployment of these technologies. Herewe highlight the dimensions of risk associated with AI systems that arisefrom the material affordances of sensors and their underlying calculativemodels. We propose a sensor-sensitive framework for diagnosing theserisks, complementing existing approaches such as the US National Institute of Standards and Technology AI Risk Management Framework and the European Union AI Act, and discuss its implementation. We concludeby advocating for increased attention to the materiality of algorithmicsystems, and of on-device AI sensors in particular, and highlight the needfor development of a sensor design paradigm that empowers users andcommunities and leads to a future of increased fairness, accountability andtransparency.</description>
-    </item>
-    <item>
-      <title>pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning</title>
-      <link>https://a2r-lab.github.io/publication/prrtc/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/publication/prrtc/</guid>
-      <description>In this work we present pRRTC, a RRT-Connect based planner co-designed for GPU acceleration across the entire algorithm through parallel expansion and SIMT-optimized collision checking. We evaluate the effectiveness of pRRTC on the MotionBenchMaker dataset using robots with 7, 8, and 14 degrees of freedom (DoF). Compared to the state-of-the-art, pRRTC achieves as much as a 10× speedup on constrained reaching tasks with a 5.4× reduction in standard deviation. pRRTC also achieves a 1.4× reduction in average initial path cost. Finally, we deploy pRRTC on a 14-DoF dual Franka Panda arm setup and demonstrate real-time, collision-free motion planning with dynamic obstacles. We open-source our planner to support the wider community.</description>
     </item>
     <item>
       <title>Improving the Representation of Undergraduate Women in Cybersecurity: A Literature Review</title>

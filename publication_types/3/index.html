@@ -121,7 +121,7 @@
   <meta property="og:description" content="The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. We also want to improve the accessibility of STEM education. We therefore undertake research to understand and improve diversity, equity, inclusion, and belonging in STEM education globally and explore ways to design new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning."><meta property="og:image" content="https://a2r-lab.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2025-10-06T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2025-10-09T10:00:00&#43;00:00">
   
 
   
@@ -449,6 +449,33 @@
   
   
   <div>
+    <h2><a href="/publication/gato/">GATO: GPU-Accelerated and Batched Trajectory Optimization for Scalable Edge Model Predictive Control</a></h2>
+    <div class="article-style">
+      
+      We present GATO, an open source, GPU-accelerated, batched TO solver co-designed across algorithm, software, and computational hardware to deliver real-time throughput for these moderate batch size regimes. Our approach leverages a combination of block-, warp-, and thread-level parallelism within and across solves for ultra-high performance. We demonstrate the effectiveness of our approach through a combination of: simulated benchmarks showing speedups of 18-21x over CPU baselines and 1.4-16x over GPU baselines as batch size increases; case studies highlighting improved disturbance rejection and convergence behavior; and finally a validation on hardware using an industrial manipulator. We open source GATO to support reproducibility and adoption.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/hjcdik/">HJCD-IK: GPU-Accelerated Inverse Kinematics through Batched Hybrid Jacobian Coordinate Descent</a></h2>
+    <div class="article-style">
+      
+      We introduce HJCD-IK, a GPU-accelerated, sampling-based hybrid Inverse Kinematics (IK) solver that combines an orientation-aware greedy coordinate descent initialization scheme with a Jacobian-based polishing routine. This design enables our solver to improve both convergence speed and overall accuracy as compared to the state-of-the-art, consistently finding solutions along the accuracy-latency Pareto frontier and often achieving order-of-magnitude gains. In addition, our method produces a broad distribution of high-quality samples, yielding the lowest maximum mean discrepancy. We release our code open-source for the benefit of the community.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/prrtc/">pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning</a></h2>
+    <div class="article-style">
+      
+      In this work we present pRRTC, a RRT-Connect based planner co-designed for GPU acceleration across the entire algorithm through parallel expansion and SIMT-optimized collision checking. We evaluate the effectiveness of pRRTC on the MotionBenchMaker dataset using robots with 7, 8, and 14 degrees of freedom (DoF). Compared to the state-of-the-art, pRRTC achieves as much as a 10× speedup on constrained reaching tasks with a 5.4× reduction in standard deviation. pRRTC also achieves a 1.4× reduction in average initial path cost. Finally, we deploy pRRTC on a 14-DoF dual Franka Panda arm setup and demonstrate real-time, collision-free motion planning with dynamic obstacles. We open-source our planner to support the wider community.
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="/publication/conictinympc/">Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC</a></h2>
     <div class="article-style">
       
@@ -471,15 +498,6 @@
     <div class="article-style">
       
       The efficient solution of moderately large-scale linear systems arising from the KKT conditions in optimal control problems (OCPs) is a critical challenge in robotics. With the stagnation of Moore’s law, there is growing interest in leveraging GPU-accelerated iterative methods, and corresponding parallel preconditioners, to overcome these computational challenges. To improve the performance of such solvers, we introduce a parallel-friendly, parametrized multi-splitting polynomial preconditioner framework. We first construct and prove the optimal parametrization theoretically in terms of the least amount of distinct eigenvalues and the narrowest spectrum range. We then compare the theoretical time complexity of solving the linear system directly or iteratively. We finally show through numerical experiments how much the preconditioning improves the convergence of OCP linear systems solves.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/prrtc/">pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning</a></h2>
-    <div class="article-style">
-      
-      In this work we present pRRTC, a RRT-Connect based planner co-designed for GPU acceleration across the entire algorithm through parallel expansion and SIMT-optimized collision checking. We evaluate the effectiveness of pRRTC on the MotionBenchMaker dataset using robots with 7, 8, and 14 degrees of freedom (DoF). Compared to the state-of-the-art, pRRTC achieves as much as a 10× speedup on constrained reaching tasks with a 5.4× reduction in standard deviation. pRRTC also achieves a 1.4× reduction in average initial path cost. Finally, we deploy pRRTC on a 14-DoF dual Franka Panda arm setup and demonstrate real-time, collision-free motion planning with dynamic obstacles. We open-source our planner to support the wider community.
       
     </div>
   </div>

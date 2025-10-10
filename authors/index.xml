@@ -7,8 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/alexdu/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/alexdu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/brianplancher/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/brianplancher/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/emreadabag/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/emreadabag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/gabrielbravo/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/gabrielbravo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/caelyasutake/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/caelyasutake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/zacharykingston/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/zacharykingston/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/chihhuang/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/chihhuang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/pranavjadhav/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/pranavjadhav/</guid>
+      <description></description>
+    </item>
     <item>
       <title></title>
       <link>https://a2r-lab.github.io/authors/anupambhakta/</link>
@@ -18,23 +74,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://a2r-lab.github.io/authors/brianplancher/</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/authors/brianplancher/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
       <link>https://a2r-lab.github.io/authors/elakhyanedumaran/</link>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/authors/elakhyanedumaran/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/gabrielbravo/</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/authors/gabrielbravo/</guid>
       <description></description>
     </item>
     <item>
@@ -221,27 +263,6 @@
     </item>
     <item>
       <title></title>
-      <link>https://a2r-lab.github.io/authors/chihhuang/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/authors/chihhuang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/pranavjadhav/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/authors/pranavjadhav/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/zacharykingston/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/authors/zacharykingston/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
       <link>https://a2r-lab.github.io/authors/enaselmanhousein/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/authors/enaselmanhousein/</guid>
@@ -252,13 +273,6 @@
       <link>https://a2r-lab.github.io/authors/anoushkaalavilli/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/authors/anoushkaalavilli/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/emreadabag/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/authors/emreadabag/</guid>
       <description></description>
     </item>
     <item>
@@ -1173,13 +1187,6 @@
     </item>
     <item>
       <title></title>
-      <link>https://a2r-lab.github.io/authors/alexdu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/authors/alexdu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
       <link>https://a2r-lab.github.io/authors/alicediakova/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/authors/alicediakova/</guid>
@@ -1281,13 +1288,6 @@
       <link>https://a2r-lab.github.io/authors/britneyaparicio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/authors/britneyaparicio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/caelyasutake/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/authors/caelyasutake/</guid>
       <description></description>
     </item>
     <item>

@@ -7,19 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/authors/pranavjadhav/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://a2r-lab.github.io/authors/pranavjadhav/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/authors/pranavjadhav/</guid>
       <description></description>
     </item>
     <item>
       <title>pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning</title>
       <link>https://a2r-lab.github.io/publication/prrtc/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/publication/prrtc/</guid>
       <description>In this work we present pRRTC, a RRT-Connect based planner co-designed for GPU acceleration across the entire algorithm through parallel expansion and SIMT-optimized collision checking. We evaluate the effectiveness of pRRTC on the MotionBenchMaker dataset using robots with 7, 8, and 14 degrees of freedom (DoF). Compared to the state-of-the-art, pRRTC achieves as much as a 10× speedup on constrained reaching tasks with a 5.4× reduction in standard deviation. pRRTC also achieves a 1.4× reduction in average initial path cost. Finally, we deploy pRRTC on a 14-DoF dual Franka Panda arm setup and demonstrate real-time, collision-free motion planning with dynamic obstacles. We open-source our planner to support the wider community.</description>
     </item>

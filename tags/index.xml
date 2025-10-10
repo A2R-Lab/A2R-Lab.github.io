@@ -7,8 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPU</title>
+      <link>https://a2r-lab.github.io/tags/gpu/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/gpu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iterative Methods</title>
+      <link>https://a2r-lab.github.io/tags/iterative-methods/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/iterative-methods/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linear Systems</title>
+      <link>https://a2r-lab.github.io/tags/linear-systems/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/linear-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Model Predictive Control</title>
+      <link>https://a2r-lab.github.io/tags/model-predictive-control/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/model-predictive-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parallel Computing</title>
+      <link>https://a2r-lab.github.io/tags/parallel-computing/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trajectory Optimization</title>
+      <link>https://a2r-lab.github.io/tags/trajectory-optimization/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/trajectory-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Motion Planning</title>
+      <link>https://a2r-lab.github.io/tags/motion-planning/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/motion-planning/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Code Generation</title>
       <link>https://a2r-lab.github.io/tags/code-generation/</link>
@@ -35,13 +84,6 @@
       <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Model Predictive Control</title>
-      <link>https://a2r-lab.github.io/tags/model-predictive-control/</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/model-predictive-control/</guid>
       <description></description>
     </item>
     <item>
@@ -94,31 +136,10 @@
       <description></description>
     </item>
     <item>
-      <title>Iterative Methods</title>
-      <link>https://a2r-lab.github.io/tags/iterative-methods/</link>
-      <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/iterative-methods/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linear Systems</title>
-      <link>https://a2r-lab.github.io/tags/linear-systems/</link>
-      <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/linear-systems/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Preconditioning</title>
       <link>https://a2r-lab.github.io/tags/preconditioning/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/preconditioning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Trajectory Optimization</title>
-      <link>https://a2r-lab.github.io/tags/trajectory-optimization/</link>
-      <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/trajectory-optimization/</guid>
       <description></description>
     </item>
     <item>
@@ -175,27 +196,6 @@
       <link>https://a2r-lab.github.io/tags/tinyml/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/tinyml/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GPU</title>
-      <link>https://a2r-lab.github.io/tags/gpu/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/gpu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Motion Planning</title>
-      <link>https://a2r-lab.github.io/tags/motion-planning/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/motion-planning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Parallel Computing</title>
-      <link>https://a2r-lab.github.io/tags/parallel-computing/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/parallel-computing/</guid>
       <description></description>
     </item>
     <item>
