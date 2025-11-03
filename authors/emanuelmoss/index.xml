@@ -23,5 +23,12 @@
       <guid>https://a2r-lab.github.io/publication/materiality/</guid>
       <description>Artificial intelligence (AI) systems connected to sensor-laden devicesare becoming pervasive, which has notable implications for a range of AIrisks, including to privacy, the environment, autonomy and more. Thereis therefore a growing need for increased accountability around theresponsible development and deployment of these technologies. Herewe highlight the dimensions of risk associated with AI systems that arisefrom the material affordances of sensors and their underlying calculativemodels. We propose a sensor-sensitive framework for diagnosing theserisks, complementing existing approaches such as the US National Institute of Standards and Technology AI Risk Management Framework and the European Union AI Act, and discuss its implementation. We concludeby advocating for increased attention to the materiality of algorithmicsystems, and of on-device AI sensors in particular, and highlight the needfor development of a sensor design paradigm that empowers users andcommunities and leads to a future of increased fairness, accountability andtransparency.</description>
     </item>
+    <item>
+      <title>Datasheets for Machine Learning Sensors</title>
+      <link>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</guid>
+      <description>We introduce the datasheet for ML sensors framework. We provide a comprehensive template, collaboratively developed in academia-industry partnerships, that captures the distinct attributes of ML sensors, including hardware specifications, ML model and dataset characteristics, end-to-end performance metrics, and environmental impacts. Our framework addresses the continuous streaming nature of sensor data, real-time processing requirements, and embeds benchmarking methodologies that reflect real-world deployment conditions, ensuring practical viability.</description>
+    </item>
   </channel>
 </rss>

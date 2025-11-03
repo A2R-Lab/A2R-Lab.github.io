@@ -14,7 +14,7 @@
       <link>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</guid>
-      <description>This paper introduces a standard datasheet template for ML sensors and discusses its essential components inluding: the system&amp;rsquo;s hardware, ML model and dataset attributes, end-to-end performance metrics, and environmental impact. We provide an example datasheet for our own ML sensor and discuss each section in detail. We highlight how these datasheets can facilitate better understanding and utilization of sensor data in ML applications, and we provide objective measures upon which system performance can be evaluated and compared.</description>
+      <description>We introduce the datasheet for ML sensors framework. We provide a comprehensive template, collaboratively developed in academia-industry partnerships, that captures the distinct attributes of ML sensors, including hardware specifications, ML model and dataset characteristics, end-to-end performance metrics, and environmental impacts. Our framework addresses the continuous streaming nature of sensor data, real-time processing requirements, and embeds benchmarking methodologies that reflect real-world deployment conditions, ensuring practical viability.</description>
     </item>
     <item>
       <title>Bridging the Digital Divide: the Promising Impact of TinyML for Developing Countries</title>
