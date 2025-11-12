@@ -2,25 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://a2r-lab.github.io/authors/alexdu/</loc>
-    <lastmod>2025-10-09T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/brianplancher/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/johnsubosits/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/marcusgreiff/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/thomaslew/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/3/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/admm/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/optimal-control/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/admmslack/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/alexdu/</loc>
     <lastmod>2025-10-09T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/emreadabag/</loc>
     <lastmod>2025-10-09T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/gabrielbravo/</loc>
-    <lastmod>2025-10-09T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/3/</loc>
-    <lastmod>2025-10-09T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/</loc>
-    <lastmod>2025-10-09T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/</loc>
     <lastmod>2025-10-09T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/gato/</loc>
@@ -39,15 +66,6 @@
     <lastmod>2025-10-09T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/parallel-computing/</loc>
-    <lastmod>2025-10-09T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/</loc>
-    <lastmod>2025-10-09T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication/</loc>
-    <lastmod>2025-10-09T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/</loc>
     <lastmod>2025-10-09T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/trajectory-optimization/</loc>

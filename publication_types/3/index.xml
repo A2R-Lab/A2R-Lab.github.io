@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 09 Oct 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solving Quadratic Programs with Slack Variables via ADMM without Increasing the Problem Size</title>
+      <link>https://a2r-lab.github.io/publication/admmslack/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/admmslack/</guid>
+      <description>We propose a simple ADMM scheme to tackle QPs with slack variables without increasing the size of the original problem. The only modification is a slightly different projection in the z-update, while the rest of the algorithm remains standard. We prove that the method is equivalent to applying ADMM to the QP with additional slack variables, even though slack variables are not added. Numerical experiments show speedups of the approach.</description>
+    </item>
     <item>
       <title>GATO: GPU-Accelerated and Batched Trajectory Optimization for Scalable Edge Model Predictive Control</title>
       <link>https://a2r-lab.github.io/publication/gato/</link>
