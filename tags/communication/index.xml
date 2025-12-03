@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/communication/</link>
+    <description>Recent content in Communication on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robust Geospatial Coordination of Multi-Agent Communications Networks Under Attrition</title>
+      <link>https://a2r-lab.github.io/publication/phireman/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/phireman/</guid>
+      <description>This paper introduces and formalizes the problem of Robust Task Networking Under Attrition (RTNUA), which extends connectivity maintenance in multi-robot systems to explicitly address proactive redundancy and attrition recovery. We introduce Physics-Informed Robust Employment of Multi-Agent Networks (ΦIREMAN), a topological algorithm leveraging physics-inspired potential fields to solve this problem. Through simulation across 25 problem configurations, ΦIREMAN consistently outperforms the DCCRS baseline, and on large-scale problems with up to 100 tasks and 500 drones, maintains &amp;gt;99.9% task uptime despite substantial attrition, demonstrating both effectiveness and scalability.</description>
+    </item>
+  </channel>
+</rss>
