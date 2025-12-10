@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transpiler on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/transpiler/</link>
+    <description>Recent content in Transpiler on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/tags/transpiler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RoboPrec: Enabling Reliable Embedded Computing for Robotics by Providing Accuracy Guarantees Across Mixed-Precision Datatypes</title>
+      <link>https://a2r-lab.github.io/publication/roboprec/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/roboprec/</guid>
+      <description>We introduce the RoboPrec framework, where we: (i) develop a transpiler that integrates code transformations and robot-specific code generation with traditional numerical stability analysis methods (which calculate error bounds), and adapts them to be practical for robotics software; and then leverage this to (ii) generate guaranteed-accuracy fixed-point code that is deployable to embedded computing platforms. We use rigid body dynamics, a fundamental robotics workload, as a motivating case study. We find that RoboPrec-generated 32-bit fixed-point code can be up to 8x faster than float and 122x faster than double on embedded processors while, critically, also providing guaranteed accuracy bounds with lower worst-case error than float.</description>
+    </item>
+  </channel>
+</rss>
