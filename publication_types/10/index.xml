@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/publication_types/10/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 2025 Summer School on Optimization for Robotics</title>
+      <link>https://a2r-lab.github.io/publication/optrobsummerschool2025ram/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/optrobsummerschool2025ram/</guid>
+      <description>The 2025 Summer School on Optimization for Robotics took place on 14–18 July 2025 at the University of Patras in Patras, Greece. The event brought together researchers, students, and practitioners from across the world to learn, exchange ideas, and gain hands-on experience at the forefront of optimization methods for robotics. Overall, we had 89 total participants (∼7% undergraduate, ∼8% industry/engineer/faculty, ∼18% masters, and ∼66% Ph.D.) from more than 20 countries spanning four continents. The weeklong program featured a balanced mix of lectures, plenary talks, daily practical sessions, live demos, and social activities. The lectures covered foundational and advanced topics in optimization for planning, control, and learning in robotics, while the plenary speakers provided broad perspectives on emerging research directions and industrial applications.</description>
+    </item>
     <item>
       <title>Underrepresentation of Women in Robotics Research</title>
       <link>https://a2r-lab.github.io/publication/underrepresentationwomenram/</link>

@@ -2,10 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://a2r-lab.github.io/authors/alpyilmaz/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/brianplancher/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/enricomingohoffman/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/konstantinoschatzilygeroudis/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/patrickwensing/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/shiveshkumar/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/zacharymanchester/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/10/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/education/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/optimization/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/robotics/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/optrobsummerschool2025ram/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/alpyilmaz/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/lillianpentecost/</loc>
@@ -20,28 +65,13 @@
     <loc>https://a2r-lab.github.io/publication_types/2/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/mixed-precision/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/numerical-stability/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication/roboprec/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/transpiler/</loc>
@@ -159,9 +189,6 @@
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/shuosha/</loc>
-    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/zacharymanchester/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/code-generation/</loc>
@@ -351,9 +378,6 @@
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/magnificentseven/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/robotics/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/cs-education/</loc>
@@ -585,9 +609,6 @@
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/zixuanwu/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/10/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/research/</loc>
