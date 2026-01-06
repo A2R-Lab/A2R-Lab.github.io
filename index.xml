@@ -86,9 +86,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/join/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;We are recruiting for PhD researchers for &lt;strong&gt;Fall 2026 starts&lt;/strong&gt;. Please apply to the &lt;strong&gt;&lt;a href=&#34;https://graduate.dartmouth.edu/academics/programs/computer-science&#34;&gt;Dartmouth CS PhD program&lt;/a&gt;&lt;/strong&gt; at the Guarini School of Graduate and Advanced Studies and mention your interest in our lab to ensure full consideration. Applications are due December 15, 2025.&lt;/li&gt;
-&lt;li&gt;Dartmouth Undergraduates, Masters, and PhD Students interested in joining the lab, or collaborating with us, should consider taking &lt;strong&gt;&lt;a href=&#34;https://brianplancher.com/courses/169.23-f25&#34;&gt;Parallel Optimization for Robotics&lt;/a&gt;&lt;/strong&gt; in the Fall 2025 Term.&lt;/li&gt;
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Dartmouth Undergraduates, Masters, and PhD Students interested in joining the lab, or collaborating with us, should consider taking &lt;strong&gt;&lt;a href=&#34;https://brianplancher.com/courses/169.23-f25&#34;&gt;Parallel Optimization for Robotics&lt;/a&gt;&lt;/strong&gt; which will next be taught in the Winter 2026 Term.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -125,10 +125,38 @@
 &lt;p&gt;If you are doing research through a funded research program you will be funded and Dartmouth has many different programs that can provide funding for summer research &amp;ndash; for example, &lt;a href=&#34;https://graduate.dartmouth.edu/diversity/research-and-education/asure&#34;&gt;Dartmouth&amp;rsquo;s Academic Summer Undergraduate Research Experience (ASURE)&lt;/a&gt;!&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;We will also be constantly applying for grants to support additional student researchers, however, depending on timing, we may only be able to offer research as an independent study for credit. &lt;em&gt;Note: We do not expect you to be funded to join the lab! We can work to help you get funded AFTER you join! Also if you reach out ahead of time we can work together to get you funded BEFORE you start doing research.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Does research happen all the time?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Yes, in fact, the summer is often the busiest time of the year for research! So whether you have interest and time in the sping, summer, winter, or fall, there will always be opportunities for research!&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Why should I consider doing research?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Research is a great way to learn more about a field of interest and develop both your technical and communication skills. Also, whether you are considering graduate school or industry positions, spending a few semesters doing research and publishing a peer-reviewed paper and/or presenting at regional and national conferences looks great on your resume!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral Researcher: GPU-Accelerated Uncertainty-Aware Optimal Control (Dartmouth x Toyota Research Institute)</title>
+      <link>https://a2r-lab.github.io/triuniversity3postdocadd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/triuniversity3postdocadd/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://a2r-lab.org&#34;&gt;Accessible and Accelerated Robotics (A2R) Lab&lt;/a&gt; at Dartmouth College is hiring a Postdoctoral Researcher to work jointly with &lt;a href=&#34;https://thomasjlew.github.io/&#34;&gt;Thomas Lew&lt;/a&gt; and the rest of the &lt;a href=&#34;https://www.tri.global/our-work/human-interactive-driving&#34;&gt;Human Interactive Driving&lt;/a&gt; team at the Toyota Research Institute (TRI) on &lt;strong&gt;real-time, uncertainty-aware optimal control, targeting autonomous driving at the limits of handling, with validation on high-performance vehicles&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research topics may include (but are not limited to):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Novel (stochastic) optimal control algorithms and methods&lt;/li&gt;
+&lt;li&gt;Structure-exploiting numerical optimization solvers&lt;/li&gt;
+&lt;li&gt;Differentiable optimization&lt;/li&gt;
+&lt;li&gt;High-performance GPU implementations&lt;/li&gt;
+&lt;li&gt;Hybrid gradient-, sampling-, and learning-based methods&lt;/li&gt;
+&lt;li&gt;System integration and design for real-world deployments in dynamic environments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ph.D. in CS, EE, Robotics, Controls, or related field&lt;/li&gt;
+&lt;li&gt;Strong foundations in optimal control/optimization and software engineering&lt;/li&gt;
+&lt;li&gt;GPU acceleration experience strongly preferred&lt;/li&gt;
+&lt;li&gt;Real-world robotics/autonomy experience and robot learning are a plus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Details:&lt;/strong&gt; Position starts as early as April 2026; 1-year appointment with potential extension up to 3 years total. Based at Dartmouth (Hanover, NH) with hybrid collaboration with TRI (Los Altos, CA) and opportunities for trips to validate algorithms on high-performance vehicles on a racetrack in California.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Apply:&lt;/strong&gt; Email &lt;a href=&#34;https://brianplancher.com/&#34;&gt;Brian Plancher&lt;/a&gt; (&lt;a href=&#34;mailto:plancher@dartmouth.edu&#34;&gt;plancher@dartmouth.edu&lt;/a&gt;) with (i) CV, (ii) brief cover letter, (iii) 2–3 references. A formal job posting will be available shortly.&lt;/p&gt;
 </description>
     </item>
     
