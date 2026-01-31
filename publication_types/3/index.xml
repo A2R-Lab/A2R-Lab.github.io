@@ -65,12 +65,5 @@
       <guid>https://a2r-lab.github.io/publication/polynomialprecon/</guid>
       <description>The efficient solution of moderately large-scale linear systems arising from the KKT conditions in optimal control problems (OCPs) is a critical challenge in robotics. With the stagnation of Moore’s law, there is growing interest in leveraging GPU-accelerated iterative methods, and corresponding parallel preconditioners, to overcome these computational challenges. To improve the performance of such solvers, we introduce a parallel-friendly, parametrized multi-splitting polynomial preconditioner framework. We first construct and prove the optimal parametrization theoretically in terms of the least amount of distinct eigenvalues and the narrowest spectrum range. We then compare the theoretical time complexity of solving the linear system directly or iteratively. We finally show through numerical experiments how much the preconditioning improves the convergence of OCP linear systems solves.</description>
     </item>
-    <item>
-      <title>Datasheets for Machine Learning Sensors</title>
-      <link>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</guid>
-      <description>We introduce the datasheet for ML sensors framework. We provide a comprehensive template, collaboratively developed in academia-industry partnerships, that captures the distinct attributes of ML sensors, including hardware specifications, ML model and dataset characteristics, end-to-end performance metrics, and environmental impacts. Our framework addresses the continuous streaming nature of sensor data, real-time processing requirements, and embeds benchmarking methodologies that reflect real-world deployment conditions, ensuring practical viability.</description>
-    </item>
   </channel>
 </rss>

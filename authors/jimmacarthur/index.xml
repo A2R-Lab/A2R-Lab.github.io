@@ -7,21 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/authors/jimmacarthur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://a2r-lab.github.io/authors/jimmacarthur/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/authors/jimmacarthur/</guid>
       <description></description>
     </item>
     <item>
       <title>Datasheets for Machine Learning Sensors</title>
       <link>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</guid>
-      <description>We introduce the datasheet for ML sensors framework. We provide a comprehensive template, collaboratively developed in academia-industry partnerships, that captures the distinct attributes of ML sensors, including hardware specifications, ML model and dataset characteristics, end-to-end performance metrics, and environmental impacts. Our framework addresses the continuous streaming nature of sensor data, real-time processing requirements, and embeds benchmarking methodologies that reflect real-world deployment conditions, ensuring practical viability.</description>
+      <description>We introduce the datasheet for ML sensors framework. We provide a comprehensive template, collaboratively developed in academia—industry partnerships, that captures the distinct attributes of ML sensors, including hardware specifications, ML model and dataset characteristics, end-to-end performance metrics, and environmental impacts. Our framework addresses the continuous streaming nature of sensor data, real-time processing requirements, and embeds benchmarking methodologies that reflect real-world deployment conditions, ensuring practical viability. Aligned with the FAIR principles (Findability, Accessibility, Interoperability, and Reusability), our approach enhances the transparency and reusability of ML sensor documentation across academic, industrial, and regulatory domains.</description>
     </item>
   </channel>
 </rss>
