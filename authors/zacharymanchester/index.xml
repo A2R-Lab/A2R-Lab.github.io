@@ -7,14 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/authors/zacharymanchester/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://a2r-lab.github.io/authors/zacharymanchester/</link>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/authors/zacharymanchester/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC</title>
+      <link>https://a2r-lab.github.io/publication/conictinympc/</link>
+      <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/conictinympc/</guid>
+      <description>We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to provide support for second-order cones, as well as &lt;code&gt;C++&lt;/code&gt; code generation from &lt;code&gt;Python&lt;/code&gt;, &lt;code&gt;MATLAB&lt;/code&gt;, and &lt;code&gt;Julia&lt;/code&gt; for easy deployment. Microcontroller benchmarks show that our solver provides up to a two-order-of-magnitude speedup, ranging from 10.6x to 142.7x, over state-of-the-art embedded solvers on QP and SOCP problems, and enables us to fit order-of-magnitude larger problems in memory. We validate our solver&amp;rsquo;s deployed performance through simulation and hardware experiments, including conically-constrained trajectory tracking on a 27g Crazyflie quadrotor. To get started with Conic-TinyMPC, visit our documentation, examples, and the open-source codebase at &lt;a href=&#34;https://tinympc.org/&#34;&gt;tinympc.org&lt;/a&gt;.</description>
     </item>
     <item>
       <title>The 2025 Summer School on Optimization for Robotics</title>
@@ -22,13 +29,6 @@
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/publication/optrobsummerschool2025ram/</guid>
       <description>The 2025 Summer School on Optimization for Robotics took place on 14–18 July 2025 at the University of Patras in Patras, Greece. The event brought together researchers, students, and practitioners from across the world to learn, exchange ideas, and gain hands-on experience at the forefront of optimization methods for robotics. Overall, we had 89 total participants (∼7% undergraduate, ∼8% industry/engineer/faculty, ∼18% masters, and ∼66% Ph.D.) from more than 20 countries spanning four continents. The weeklong program featured a balanced mix of lectures, plenary talks, daily practical sessions, live demos, and social activities. The lectures covered foundational and advanced topics in optimization for planning, control, and learning in robotics, while the plenary speakers provided broad perspectives on emerging research directions and industrial applications.</description>
-    </item>
-    <item>
-      <title>Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC</title>
-      <link>https://a2r-lab.github.io/publication/conictinympc/</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/publication/conictinympc/</guid>
-      <description>We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to provide support for second-order cones, as well as &lt;code&gt;C++&lt;/code&gt; code generation from &lt;code&gt;Python&lt;/code&gt;, &lt;code&gt;MATLAB&lt;/code&gt;, and &lt;code&gt;Julia&lt;/code&gt; for easy deployment. Microcontroller benchmarks show that our solver provides up to a two-order-of-magnitude speedup, ranging from 10.6x to 142.7x, over state-of-the-art embedded solvers on QP and SOCP problems, and enables us to fit order-of-magnitude larger problems in memory. We validate our solver&amp;rsquo;s deployed performance through simulation and hardware experiments, including conically-constrained trajectory tracking on a 27g Crazyflie quadrotor. To get started with Conic-TinyMPC, visit our documentation, examples, and the open-source codebase at &lt;a href=&#34;https://tinympc.org/&#34;&gt;tinympc.org&lt;/a&gt;.</description>
     </item>
     <item>
       <title>Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs</title>

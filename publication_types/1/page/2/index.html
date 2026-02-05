@@ -121,7 +121,7 @@
   <meta property="og:description" content="The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. We also want to improve the accessibility of STEM education. We therefore undertake research to understand and improve diversity, equity, inclusion, and belonging in STEM education globally and explore ways to design new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning."><meta property="og:image" content="https://a2r-lab.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2025-06-20T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2026-06-01T10:00:01&#43;00:00">
   
 
   
@@ -475,6 +475,42 @@
   
 
   
+  
+  <div>
+    <h2><a href="/publication/roborun/">RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity</a></h2>
+    <div class="article-style">
+      
+      This paper introduces RoboRun, a mobile-robot runtime that dynamically exploits the compute-environment synergy to improve performance and energy. We implement RoboRun in the Robot Operating System (ROS) and evaluate it on autonomous drones. We compare RoboRun against a state-of-the-art static design and show 4.5X and 4X improvements in mission time and energy, respectively, as well as a 36% reduction in CPU utilization.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/robomorphic/">Robomorphic Computing: A Design Methodology for Domain-Specific Accelerators Parameterized by Robot Morphology</a></h2>
+    <div class="article-style">
+      
+      We introduce robomorphic computing; a methodology to transform robot morphology into a customized hardware accelerator morphology. In this work, we (i) present this design methodology; (ii) use the methodology to generate a parameterized accelerator design for the gradient of rigid body dynamics; (iii) evaluate FPGA and synthesized ASIC implementations; and (iv) describe how the design can be automatically customized for other robot models. Our FPGA accelerator achieves speedups of 8x and 86x over CPU and GPU latency, and maintains an overall speedup of 1.9x to 2.9x deployed in an end-to-end coprocessor system. ASIC synthesis indicates an additional factor of 7.2x.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/appliedapproxmm/">Application of Approximate Matrix Multiplication to Neural Networks and Distributed SLAM</a></h2>
+    <div class="article-style">
+      
+      We apply approximate matrix multiplication to artificial Neural Networks for image classification and to the robotics problem of Distributed Simultaneous Localization and Mapping increasing the speed of both applications by 15-20% while maintaining a 97% classification accuracy for NNs running on the MNIST dataset and keeping the average robot position error under 1 meter (vs 0.32 meters for the exact solution). However, both applications experience variance in their results.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/parallelddp/">A Performance Analysis of Parallel Differential Dynamic Programming on a GPU</a></h2>
+    <div class="article-style">
+      
+      We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism. This work was [extended](/publication/parallelddp_icra) and used for MPC on a physical Kuka arm.
+      
+    </div>
+  </div>
   
   <div>
     <h2><a href="/publication/cudp/">Constrained Unscented Dynamic Programming</a></h2>

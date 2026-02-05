@@ -24,39 +24,11 @@
       <description>We propose a simple ADMM scheme to tackle QPs with slack variables without increasing the size of the original problem. The only modification is a slightly different projection in the z-update, while the rest of the algorithm remains standard. We prove that the method is equivalent to applying ADMM to the QP with additional slack variables, even though slack variables are not added. Numerical experiments show speedups of the approach.</description>
     </item>
     <item>
-      <title>GATO: GPU-Accelerated and Batched Trajectory Optimization for Scalable Edge Model Predictive Control</title>
-      <link>https://a2r-lab.github.io/publication/gato/</link>
-      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/publication/gato/</guid>
-      <description>We present GATO, an open source, GPU-accelerated, batched TO solver co-designed across algorithm, software, and computational hardware to deliver real-time throughput for these moderate batch size regimes. Our approach leverages a combination of block-, warp-, and thread-level parallelism within and across solves for ultra-high performance. We demonstrate the effectiveness of our approach through a combination of: simulated benchmarks showing speedups of 18-21x over CPU baselines and 1.4-16x over GPU baselines as batch size increases; case studies highlighting improved disturbance rejection and convergence behavior; and finally a validation on hardware using an industrial manipulator. We open source GATO to support reproducibility and adoption.</description>
-    </item>
-    <item>
       <title>HJCD-IK: GPU-Accelerated Inverse Kinematics through Batched Hybrid Jacobian Coordinate Descent</title>
       <link>https://a2r-lab.github.io/publication/hjcdik/</link>
       <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/publication/hjcdik/</guid>
       <description>We introduce HJCD-IK, a GPU-accelerated, sampling-based hybrid Inverse Kinematics (IK) solver that combines an orientation-aware greedy coordinate descent initialization scheme with a Jacobian-based polishing routine. This design enables our solver to improve both convergence speed and overall accuracy as compared to the state-of-the-art, consistently finding solutions along the accuracy-latency Pareto frontier and often achieving order-of-magnitude gains. In addition, our method produces a broad distribution of high-quality samples, yielding the lowest maximum mean discrepancy. We release our code open-source for the benefit of the community.</description>
-    </item>
-    <item>
-      <title>pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning</title>
-      <link>https://a2r-lab.github.io/publication/prrtc/</link>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/publication/prrtc/</guid>
-      <description>In this work we present pRRTC, a RRT-Connect based planner co-designed for GPU acceleration across the entire algorithm through parallel expansion and SIMT-optimized collision checking. We evaluate the effectiveness of pRRTC on the MotionBenchMaker dataset using robots with 7, 8, and 14 degrees of freedom (DoF). Compared to the state-of-the-art, pRRTC achieves as much as a 10× speedup on constrained reaching tasks with a 5.4× reduction in standard deviation. pRRTC also achieves a 1.4× reduction in average initial path cost. Finally, we deploy pRRTC on a 14-DoF dual Franka Panda arm setup and demonstrate real-time, collision-free motion planning with dynamic obstacles. We open-source our planner to support the wider community.</description>
-    </item>
-    <item>
-      <title>Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC</title>
-      <link>https://a2r-lab.github.io/publication/conictinympc/</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/publication/conictinympc/</guid>
-      <description>We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to provide support for second-order cones, as well as &lt;code&gt;C++&lt;/code&gt; code generation from &lt;code&gt;Python&lt;/code&gt;, &lt;code&gt;MATLAB&lt;/code&gt;, and &lt;code&gt;Julia&lt;/code&gt; for easy deployment. Microcontroller benchmarks show that our solver provides up to a two-order-of-magnitude speedup, ranging from 10.6x to 142.7x, over state-of-the-art embedded solvers on QP and SOCP problems, and enables us to fit order-of-magnitude larger problems in memory. We validate our solver&amp;rsquo;s deployed performance through simulation and hardware experiments, including conically-constrained trajectory tracking on a 27g Crazyflie quadrotor. To get started with Conic-TinyMPC, visit our documentation, examples, and the open-source codebase at &lt;a href=&#34;https://tinympc.org/&#34;&gt;tinympc.org&lt;/a&gt;.</description>
-    </item>
-    <item>
-      <title>TAG-K: Tail-Averaged Greedy Kaczmarz for Computationally Efficient and Performant Online Inertial Parameter Estimation</title>
-      <link>https://a2r-lab.github.io/publication/kaczmarz/</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/publication/kaczmarz/</guid>
-      <description>We introduce TAG-K, a lightweight extension of the Kaczmarz method that combines greedy randomized row selection for rapid convergence with tail averaging for robustness under noise and inconsistency. This design enables fast, stable parameter adaptation while retaining the low per-iteration complexity inherent to the Kaczmarz framework. We evaluate TAG-K in synthetic benchmarks and quadrotor tracking tasks against RLS, KF, and other Kaczmarz variants. TAG-K achieves 1.5x-1.9x faster solve times on laptop-class CPUs and 4.8x-20.7x faster solve times on embedded microcontrollers. More importantly, these speedups are paired with improved resilience to measurement noise and a 25% reduction in estimation error, leading to nearly 2x better end-to-end tracking performance.</description>
     </item>
     <item>
       <title>Polynomial and Parallelizable Preconditioning for Block Tridiagonal Positive Definite Matrices</title>
