@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A²R Lab</title>
+    <link>https://a2r-lab.github.io/authors/maolinwang/</link>
+    <description>Recent content on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/authors/maolinwang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://a2r-lab.github.io/authors/maolinwang/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/authors/maolinwang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MPC Solver Hardware Generation Framework with Model-Specific Operation Fusion and Pruning</title>
+      <link>https://a2r-lab.github.io/publication/fpgatinympc/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/fpgatinympc/</guid>
+      <description>We developed a flexible MPC solver hardware generation framework which includes a parameterized and programmable vector architecture template that accommodates instruction-level and data-level parallelism in vector and matrix functional units, and a model-specific fused architecture. Implementation of the proposed processor on the Ultra96 platform achieves up to a 9.73x speedup compared to existing generic solutions on MCUs. Moreover, end-to-end performance tests reveal that this speedup reduces the overall control error by 25.96%.</description>
+    </item>
+  </channel>
+</rss>

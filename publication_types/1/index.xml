@@ -38,6 +38,13 @@
       <description>We introduce TAG-K, a lightweight extension of the Kaczmarz method that combines greedy randomized row selection for rapid convergence with tail averaging for robustness under noise and inconsistency. This design enables fast, stable parameter adaptation while retaining the low per-iteration complexity inherent to the Kaczmarz framework. We evaluate TAG-K in synthetic benchmarks and quadrotor tracking tasks against RLS, KF, and other Kaczmarz variants. TAG-K achieves 1.5x-1.9x faster solve times on laptop-class CPUs and 4.8x-20.7x faster solve times on embedded microcontrollers. More importantly, these speedups are paired with improved resilience to measurement noise and a 25% reduction in estimation error, leading to nearly 2x better end-to-end tracking performance.</description>
     </item>
     <item>
+      <title>MPC Solver Hardware Generation Framework with Model-Specific Operation Fusion and Pruning</title>
+      <link>https://a2r-lab.github.io/publication/fpgatinympc/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/fpgatinympc/</guid>
+      <description>We developed a flexible MPC solver hardware generation framework which includes a parameterized and programmable vector architecture template that accommodates instruction-level and data-level parallelism in vector and matrix functional units, and a model-specific fused architecture. Implementation of the proposed processor on the Ultra96 platform achieves up to a 9.73x speedup compared to existing generic solutions on MCUs. Moreover, end-to-end performance tests reveal that this speedup reduces the overall control error by 25.96%.</description>
+    </item>
+    <item>
       <title>Robust and Efficient Embedded Convex Optimization through First-Order Adaptive Caching</title>
       <link>https://a2r-lab.github.io/publication/adaptivetinympc/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>

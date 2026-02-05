@@ -73,6 +73,13 @@
       <description>This paper introduces and formalizes the problem of Robust Task Networking Under Attrition (RTNUA), which extends connectivity maintenance in multi-robot systems to explicitly address proactive redundancy and attrition recovery. We introduce Physics-Informed Robust Employment of Multi-Agent Networks (ΦIREMAN), a topological algorithm leveraging physics-inspired potential fields to solve this problem. Through simulation across 25 problem configurations, ΦIREMAN consistently outperforms the DCCRS baseline, and on large-scale problems with up to 100 tasks and 500 drones, maintains &amp;gt;99.9% task uptime despite substantial attrition, demonstrating both effectiveness and scalability.</description>
     </item>
     <item>
+      <title>MPC Solver Hardware Generation Framework with Model-Specific Operation Fusion and Pruning</title>
+      <link>https://a2r-lab.github.io/publication/fpgatinympc/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/fpgatinympc/</guid>
+      <description>We developed a flexible MPC solver hardware generation framework which includes a parameterized and programmable vector architecture template that accommodates instruction-level and data-level parallelism in vector and matrix functional units, and a model-specific fused architecture. Implementation of the proposed processor on the Ultra96 platform achieves up to a 9.73x speedup compared to existing generic solutions on MCUs. Moreover, end-to-end performance tests reveal that this speedup reduces the overall control error by 25.96%.</description>
+    </item>
+    <item>
       <title>Solving Quadratic Programs with Slack Variables via ADMM without Increasing the Problem Size</title>
       <link>https://a2r-lab.github.io/publication/admmslack/</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>

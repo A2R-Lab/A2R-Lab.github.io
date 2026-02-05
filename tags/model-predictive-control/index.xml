@@ -24,6 +24,13 @@
       <description>We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to provide support for second-order cones, as well as &lt;code&gt;C++&lt;/code&gt; code generation from &lt;code&gt;Python&lt;/code&gt;, &lt;code&gt;MATLAB&lt;/code&gt;, and &lt;code&gt;Julia&lt;/code&gt; for easy deployment. Microcontroller benchmarks show that our solver provides up to a two-order-of-magnitude speedup, ranging from 10.6x to 142.7x, over state-of-the-art embedded solvers on QP and SOCP problems, and enables us to fit order-of-magnitude larger problems in memory. We validate our solver&amp;rsquo;s deployed performance through simulation and hardware experiments, including conically-constrained trajectory tracking on a 27g Crazyflie quadrotor. To get started with Conic-TinyMPC, visit our documentation, examples, and the open-source codebase at &lt;a href=&#34;https://tinympc.org/&#34;&gt;tinympc.org&lt;/a&gt;.</description>
     </item>
     <item>
+      <title>MPC Solver Hardware Generation Framework with Model-Specific Operation Fusion and Pruning</title>
+      <link>https://a2r-lab.github.io/publication/fpgatinympc/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/fpgatinympc/</guid>
+      <description>We developed a flexible MPC solver hardware generation framework which includes a parameterized and programmable vector architecture template that accommodates instruction-level and data-level parallelism in vector and matrix functional units, and a model-specific fused architecture. Implementation of the proposed processor on the Ultra96 platform achieves up to a 9.73x speedup compared to existing generic solutions on MCUs. Moreover, end-to-end performance tests reveal that this speedup reduces the overall control error by 25.96%.</description>
+    </item>
+    <item>
       <title>Robust and Efficient Embedded Convex Optimization through First-Order Adaptive Caching</title>
       <link>https://a2r-lab.github.io/publication/adaptivetinympc/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
