@@ -17,13 +17,6 @@
       <description>This paper introduces and formalizes the problem of Robust Task Networking Under Attrition (RTNUA), which extends connectivity maintenance in multi-robot systems to explicitly address proactive redundancy and attrition recovery. We introduce Physics-Informed Robust Employment of Multi-Agent Networks (ΦIREMAN), a topological algorithm leveraging physics-inspired potential fields to solve this problem. Through simulation across 25 problem configurations, ΦIREMAN consistently outperforms the DCCRS baseline, and on large-scale problems with up to 100 tasks and 500 drones, maintains &amp;gt;99.9% task uptime despite substantial attrition, demonstrating both effectiveness and scalability.</description>
     </item>
     <item>
-      <title>Solving Quadratic Programs with Slack Variables via ADMM without Increasing the Problem Size</title>
-      <link>https://a2r-lab.github.io/publication/admmslack/</link>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/publication/admmslack/</guid>
-      <description>We propose a simple ADMM scheme to tackle QPs with slack variables without increasing the size of the original problem. The only modification is a slightly different projection in the z-update, while the rest of the algorithm remains standard. We prove that the method is equivalent to applying ADMM to the QP with additional slack variables, even though slack variables are not added. Numerical experiments show speedups of the approach.</description>
-    </item>
-    <item>
       <title>HJCD-IK: GPU-Accelerated Inverse Kinematics through Batched Hybrid Jacobian Coordinate Descent</title>
       <link>https://a2r-lab.github.io/publication/hjcdik/</link>
       <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
