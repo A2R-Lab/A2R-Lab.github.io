@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A²R Lab</title>
-    <link>https://a2r-lab.github.io/authors/elianastefani/</link>
-    <description>Recent content on A²R Lab</description>
+    <title>Aerial Systems on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/aerial-systems/</link>
+    <description>Recent content in Aerial Systems on A²R Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
     <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a2r-lab.github.io/authors/elianastefani/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://a2r-lab.github.io/authors/elianastefani/</link>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/authors/elianastefani/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://a2r-lab.github.io/tags/aerial-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robust Geospatial Coordination of Multi-Agent Communications Networks Under Attrition</title>
       <link>https://a2r-lab.github.io/publication/phireman/</link>

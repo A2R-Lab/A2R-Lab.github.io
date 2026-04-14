@@ -45,6 +45,13 @@
       <description>We introduce TAG-K, a lightweight extension of the Kaczmarz method that combines greedy randomized row selection for rapid convergence with tail averaging for robustness under noise and inconsistency. This design enables fast, stable parameter adaptation while retaining the low per-iteration complexity inherent to the Kaczmarz framework. We evaluate TAG-K in synthetic benchmarks and quadrotor tracking tasks against RLS, KF, and other Kaczmarz variants. TAG-K achieves 1.5x-1.9x faster solve times on laptop-class CPUs and 4.8x-20.7x faster solve times on embedded microcontrollers. More importantly, these speedups are paired with improved resilience to measurement noise and a 25% reduction in estimation error, leading to nearly 2x better end-to-end tracking performance.</description>
     </item>
     <item>
+      <title>Robust Geospatial Coordination of Multi-Agent Communications Networks Under Attrition</title>
+      <link>https://a2r-lab.github.io/publication/phireman/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/phireman/</guid>
+      <description>This paper introduces and formalizes the problem of Robust Task Networking Under Attrition (RTNUA), which extends connectivity maintenance in multi-robot systems to explicitly address proactive redundancy and attrition recovery. We then introduce Physics-Informed Robust Employment of Multi-Agent Networks (ΦIREMAN), a topological algorithm leveraging physics-inspired potential fields to solve this problem. In our evaluations, ΦIREMAN consistently outperforms baselines, and is able to maintain greater than 99.9% task uptime despite substantial attrition in simulations with up to 100 tasks and 500 drones, demonstrating both effectiveness and scalability.</description>
+    </item>
+    <item>
       <title>Datasheets for Machine Learning Sensors</title>
       <link>https://a2r-lab.github.io/publication/mlsensorsdatasheet/</link>
       <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
@@ -64,13 +71,6 @@
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/publication/roboprec/</guid>
       <description>We introduce the RoboPrec framework, where we: (i) develop a transpiler that integrates code transformations and robot-specific code generation with traditional numerical stability analysis methods (which calculate error bounds), and adapts them to be practical for robotics software; and then leverage this to (ii) generate guaranteed-accuracy fixed-point code that is deployable to embedded computing platforms. We use rigid body dynamics, a fundamental robotics workload, as a motivating case study. We find that RoboPrec-generated 32-bit fixed-point code can be up to 8x faster than float and 122x faster than double on embedded processors while, critically, also providing guaranteed accuracy bounds with lower worst-case error than float.</description>
-    </item>
-    <item>
-      <title>Robust Geospatial Coordination of Multi-Agent Communications Networks Under Attrition</title>
-      <link>https://a2r-lab.github.io/publication/phireman/</link>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/publication/phireman/</guid>
-      <description>This paper introduces and formalizes the problem of Robust Task Networking Under Attrition (RTNUA), which extends connectivity maintenance in multi-robot systems to explicitly address proactive redundancy and attrition recovery. We introduce Physics-Informed Robust Employment of Multi-Agent Networks (ΦIREMAN), a topological algorithm leveraging physics-inspired potential fields to solve this problem. Through simulation across 25 problem configurations, ΦIREMAN consistently outperforms the DCCRS baseline, and on large-scale problems with up to 100 tasks and 500 drones, maintains &amp;gt;99.9% task uptime despite substantial attrition, demonstrating both effectiveness and scalability.</description>
     </item>
     <item>
       <title>MPC Solver Hardware Generation Framework with Model-Specific Operation Fusion and Pruning</title>
