@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semidefinite Programming on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/semidefinite-programming/</link>
+    <description>Recent content in Semidefinite Programming on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:05 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/tags/semidefinite-programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TinySDP: Real Time Semidefinite Optimization for Certifiable and Agile Edge Robotics</title>
+      <link>https://a2r-lab.github.io/publication/tinysdp/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:05 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/tinysdp/</guid>
+      <description>We introduce TinySDP, the first semidefinite programming solver designed for embedded systems, enabling real-time model-predictive control (MPC) on microcontrollers for problems with nonconvex obstacle constraints. Our approach integrates positive-semidefinite cone projections into a cached-Riccati-based ADMM solver, leveraging computational structure for embedded tractability. We pair this solver with an a posteriori rank-1 certificate that converts relaxed solutions into explicit geometric guarantees at each timestep. On challenging benchmarks, e.g., cul-de-sac and dynamic obstacle avoidance scenarios that induce failures in local methods, TinySDP achieves collision-free navigation with up to 73% shorter paths than state-of-the-art baselines. We validate our approach on a Crazyflie quadrotor, demonstrating that semidefinite constraints can be enforced at real-time rates for agile embedded robotics.</description>
+    </item>
+  </channel>
+</rss>

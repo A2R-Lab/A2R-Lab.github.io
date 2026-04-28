@@ -121,7 +121,7 @@
   <meta property="og:description" content="The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. We also want to improve the accessibility of STEM education. We therefore undertake research to understand and improve diversity, equity, inclusion, and belonging in STEM education globally and explore ways to design new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning."><meta property="og:image" content="https://a2r-lab.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2026-07-07T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2026-07-13T00:00:05&#43;00:00">
   
 
   
@@ -477,6 +477,15 @@
   
   
   <div>
+    <h2><a href="/publication/tinysdp/">TinySDP: Real Time Semidefinite Optimization for Certifiable and Agile Edge Robotics</a></h2>
+    <div class="article-style">
+      
+      We introduce TinySDP, the first semidefinite programming solver designed for embedded systems, enabling real-time model-predictive control (MPC) on microcontrollers for problems with nonconvex obstacle constraints. Our approach integrates positive-semidefinite cone projections into a cached-Riccati-based ADMM solver, leveraging computational structure for embedded tractability. We pair this solver with an a posteriori rank-1 certificate that converts relaxed solutions into explicit geometric guarantees at each timestep. On challenging benchmarks, e.g., cul-de-sac and dynamic obstacle avoidance scenarios that induce failures in local methods, TinySDP achieves collision-free navigation with up to 73% shorter paths than state-of-the-art baselines. We validate our approach on a Crazyflie quadrotor, demonstrating that semidefinite constraints can be enforced at real-time rates for agile embedded robotics.
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="/publication/admmslack/">Solving Quadratic Programs with Slack Variables via ADMM without Increasing the Problem Size</a></h2>
     <div class="article-style">
       
@@ -643,15 +652,6 @@
     <div class="article-style">
       
       Historically, computing instructors and researchers have developed a wide variety of tools to support teaching and educational research, including exam and code testing suites and data collection solutions. However, these tools often find limited adoption beyond their creators. As a result, it is common for many of the same functionalities to be re-implemented by different instructional groups within the Computing Education community. We hypothesise that this is due in part to discoverability, availability, and adaptability challenges. Further, instructors often face institutional barriers to deployment, which can include hesitance of institutions to rely on community developed solutions that often lack a centralised authority and may be community or individually maintained. To this end, our working group explored what solutions are currently available, what instructors needed, and the reasons behind the above-mentioned phenomenon. To do so, we reviewed existing literature and surveyed the community to identify the tools that have been developed by the community; the solutions that are currently available and in use by instructors; what features are needed moving forward for classroom and research use; what support for extensions is needed to support further Computing Education research; and what institutional challenges instructors and researchers are currently facing or have faced in using community software solutions. Finally, the working group identified factors that limited adoption of solutions. This work proposes ways to integrate and improve the availability, discoverability, and dissemination of existing community projects, as well as ways to manage and overcome institutional challenges.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/robotcore/">RobotCore: An Open Architecture for Hardware Acceleration in ROS 2</a></h2>
-    <div class="article-style">
-      
-      We introduce RobotCore, an architecture to integrate hardware acceleration in the widely-used ROS 2 robotics software framework. This architecture is target-agnostic (supports edge, workstation, data center, or cloud targets) and accelerator-agnostic (supports both FPGAs and GPUs). It builds on top of the common ROS 2 build system and tools and is easily portable across different research and commercial solutions through a new firmware layer. We also leverage the Linux Tracing Toolkit next generation (LTTng) for low-overhead real-time tracing and benchmarking. To demonstrate the acceleration enabled by this architecture, we design an intra-FPGA ROS 2 node communication queue to enable faster data flows, and use it in conjunction with FPGA-accelerated nodes to achieve a 24.42% speedup over a CPU.
       
     </div>
   </div>

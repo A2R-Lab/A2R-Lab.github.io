@@ -2,8 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://a2r-lab.github.io/authors/andreagrillo/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/authors/brianplancher/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/faustovega/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/ishaanmahajan/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/jamesanderson/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/jonarrizabalaga/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/zacharymanchester/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/1/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/edge-computing/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/embedded-systems/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/model-predictive-control/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/semidefinite-programming/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/tinysdp/</loc>
+    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/johnsubosits/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
@@ -14,31 +65,13 @@
     <loc>https://a2r-lab.github.io/authors/thomaslew/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/1/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/admm/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/optimal-control/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication/admmslack/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/alexdu/</loc>
@@ -62,9 +95,6 @@
     <loc>https://a2r-lab.github.io/tags/linear-systems/</loc>
     <lastmod>2026-06-01T10:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/tags/model-predictive-control/</loc>
-    <lastmod>2026-06-01T10:00:01+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/parallel-computing/</loc>
     <lastmod>2026-06-01T10:00:01+00:00</lastmod>
   </url><url>
@@ -75,9 +105,6 @@
     <lastmod>2026-06-01T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/elakhyanedumaran/</loc>
-    <lastmod>2026-06-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/ishaanmahajan/</loc>
     <lastmod>2026-06-01T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/khainguyen/</loc>
@@ -95,9 +122,6 @@
     <loc>https://a2r-lab.github.io/authors/zacharykingston/</loc>
     <lastmod>2026-06-01T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/zacharymanchester/</loc>
-    <lastmod>2026-06-01T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/code-generation/</loc>
     <lastmod>2026-06-01T10:00:00+00:00</lastmod>
   </url><url>
@@ -105,12 +129,6 @@
     <lastmod>2026-06-01T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/conic-constraints/</loc>
-    <lastmod>2026-06-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/edge-computing/</loc>
-    <lastmod>2026-06-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/embedded-systems/</loc>
     <lastmod>2026-06-01T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/motion-planning/</loc>
@@ -1023,8 +1041,6 @@
   </url><url>
     <loc>https://a2r-lab.github.io/authors/anagharam/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/andreagrillo/</loc>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/anjalismith/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/anniesong/</loc>
@@ -1109,6 +1125,8 @@
   </url><url>
     <loc>https://a2r-lab.github.io/authors/lucifeinberg/</loc>
   </url><url>
+    <loc>https://a2r-lab.github.io/authors/luyaozhang/</loc>
+  </url><url>
     <loc>https://a2r-lab.github.io/authors/malikendsley/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/merrickwolfley/</loc>
@@ -1138,6 +1156,8 @@
     <loc>https://a2r-lab.github.io/authors/seanmabli/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/seojinyoon/</loc>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/sergiogrammatico/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/seyoungree/</loc>
   </url><url>
