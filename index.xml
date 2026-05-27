@@ -81,6 +81,50 @@
     </item>
     
     <item>
+      <title>A²R Lab at ICRA 2026</title>
+      <link>https://a2r-lab.github.io/icra-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2r-lab.github.io/icra-26/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;A2R Lab @ ICRA-26&#34; src=&#34;https://a2r-lab.github.io/icra-26/cover.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;icra-and-ra-l-papers&#34;&gt;ICRA and RA-L Papers&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Tuesday 9:00am-10:30am&lt;/strong&gt; &amp;ndash; Poster Session&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2r-lab.org/publication/conictinympc/&#34;&gt;&lt;strong&gt;Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC&lt;/strong&gt;&lt;/a&gt; by Ishaan Mahajan, Khai Nguyen, Sam Schoedel, Elakhya Nedumaran, Moises Mata, Brian Plancher and Zachary Manchester (TuI1I.186)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2r-lab.org/publication/roboprec/&#34;&gt;&lt;strong&gt;RoboPrec: Enabling Reliable Embedded Computing for Robotics by Providing Accuracy Guarantees across Mixed-Precision Datatypes&lt;/strong&gt;&lt;/a&gt; by Alp Eren Yilmaz, Lillian Pentecost, Thomas Bourgeat, Brian Plancher and Sabrina M. Neuman (TuI1I.377)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tuesday 3:00pm-4:30pm&lt;/strong&gt; &amp;ndash; Poster Session&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://commalab.org/papers/pRRTC/&#34;&gt;&lt;strong&gt;pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning&lt;/strong&gt;&lt;/a&gt; by Chih Huang, Pranav Jadhav, Brian Plancher and Zachary Kingston (TuI2I.243)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday 9:00am-10:30am&lt;/strong&gt; &amp;ndash; Poster Session&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2r-lab.org/TAG-K/&#34;&gt;&lt;strong&gt;TAG-K: Tail-Averaged Greedy Kaczmarz for Computationally Efficient and Performant Online Inertial Parameter Estimation&lt;/strong&gt;&lt;/a&gt; by Shuo &amp;ldquo;Chris&amp;rdquo; Sha, Anupam Bhakta, Justin Jiang, Kevin Qiu, Ishaan Mahajan, Gabriel Bravo Palacios and Brian Plancher (WeI1I.307)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Thursday 3:00pm-4:30pm&lt;/strong&gt; &amp;ndash; Poster Session&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2r-lab.org/GATO/&#34;&gt;&lt;strong&gt;GATO: GPU-Accelerated and Batched Trajectory Optimization for Scalable Edge Model Predictive Control&lt;/strong&gt;&lt;/a&gt; by Alexander Du, Emre Adabag, Gabriel Bravo-Palacios and Brian Plancher (ThI2I.218)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;workshop-papers&#34;&gt;Workshop Papers&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Monday - &lt;a href=&#34;https://sites.google.com/robotics.utias.utoronto.ca/icra26-frontiers-optimization/home&#34;&gt;Frontiers of Optimization for Robotics&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Differentiable and Constrained Model Predictive Control on the GPU&lt;/strong&gt; by Gabriel Bravo-Palacios, Jianghan Zhang, Zachary Pestrikov, Brian Plancher, Thomas Lew &amp;ndash; &lt;em&gt;early results from our recently announced &lt;a href=&#34;https://home.dartmouth.edu/news/2026/05/brian-plancher-wins-toyota-research-institute-grant?utm_source=linkedin_link&amp;utm_medium=social&amp;utm_campaign=sciences&#34;&gt;TRI University 3.0 Project&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://commalab.org/papers/pRRTC/&#34;&gt;&lt;strong&gt;pAORRTC: GPU-Parallel Almost-Surely Asymptotically Optimal Planning&lt;/strong&gt;&lt;/a&gt; by Chih Huang, Zachary Kingston and Brian Plancher  &amp;ndash; &lt;em&gt;an extension to pRRTC&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;End-to-End Hardware-Algorithm Co-Design for High-Rate FPGA-Accelerated MPC on Tiny Drones&lt;/strong&gt; by Andrea Grillo and Brian Plancher&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Friday - &lt;a href=&#34;https://sites.google.com/view/roboarch-icra26&#34;&gt;RoboARCH: Robotics Acceleration with Computing Hardware and Systems&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Differentiable and Constrained Model Predictive Control on the GPU&lt;/strong&gt; by Gabriel Bravo-Palacios, Jianghan Zhang, Zachary Pestrikov, Brian Plancher, Thomas Lew &amp;ndash; &lt;em&gt;early results from our recently announced &lt;a href=&#34;https://home.dartmouth.edu/news/2026/05/brian-plancher-wins-toyota-research-institute-grant?utm_source=linkedin_link&amp;utm_medium=social&amp;utm_campaign=sciences&#34;&gt;TRI University 3.0 Project&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2r-lab.org/TinySDP/&#34;&gt;&lt;strong&gt;TinySDP: Real Time Semidefinite Optimization for Certifiable and Agile Edge Robotics&lt;/strong&gt;&lt;/a&gt; by Ishaan Mahajan, Jon Arrizabalaga, Andrea Grillo, Fausto Vega, James Anderson, Zachary Manchester and Brian Plancher &amp;ndash; &lt;em&gt;accepted to RSS 2026&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://commalab.org/papers/pRRTC/&#34;&gt;&lt;strong&gt;pAORRTC: GPU-Parallel Almost-Surely Asymptotically Optimal Planning&lt;/strong&gt;&lt;/a&gt; by Chih Huang, Zachary Kingston and Brian Plancher &amp;ndash; &lt;em&gt;an extension to pRRTC&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Provably Accurate Fixed-Point Arithmetic for Robotics Accelerators&lt;/strong&gt; by Alp Eren Yilmaz, Lillian Pentecost, Thomas Bourgeat, Brian Plancher and Sabrina M. Neuman &amp;ndash; &lt;em&gt;an extension to RoboPrec&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;End-to-End Hardware-Algorithm Co-Design for High-Rate FPGA-Accelerated MPC on Tiny Drones&lt;/strong&gt; by Andrea Grillo and Brian Plancher&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Redacted for Double-Blind Review&lt;/strong&gt; by Tanmay Desai, Ruth Iris Bahar and Brian Plancher&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Join Us</title>
       <link>https://a2r-lab.github.io/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
