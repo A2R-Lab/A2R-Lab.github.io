@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,10 +31,10 @@
   
     
   
-  <meta name="description" content="In this work, we introduce First-Order Adaptive Caching, which precomputes not only select matrix operations but also their sensitivities to hyperparameter variations, enabling online hyperparameter updates without full recomputation of the cache. We demonstrate the effectiveness of our approach on a number of dynamic quadrotor tasks, achieving up to a 63.4% reduction in ADMM iterations over the use of optimized fixed hyperparameters and approaching 70% of the performance of a full cache recomputation, while reducing the computational cost from O(n^3) to O(n^2) complexity. This performance enables us to perform figure-eight trajectories on a 27g tiny quadrotor under wind disturbances.">
+  <meta name="description" content="We propose pAORRTC, a GPU-based almost-surely asymptotically optimal (a.s.a.o) planner based on RRT-Connect and the AO-x meta-algorithm. We redesigned pAORRTC for GPUacceleration throughout, with SIMT-parallelism for running hundreds of planning iterations simultaneously along with parallel informed sampling, collision checking, and path simplification. We evaluate pAORRTC on the MotionBenchMaker dataset using the 8-DoF Fetch against state-of-the-art a.s.a.o planners. pAORRTC was able to find initial solutions in milliseconds for challenging manipulation tasks and optimize to low-cost paths faster.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://a2r-lab.github.io/publication/adaptivetinympc/">
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/paorrtc/">
 
   
 
@@ -92,8 +92,6 @@
   
 
   
-  
-  
 
   
 
@@ -101,7 +99,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://a2r-lab.github.io/publication/adaptivetinympc/">
+  <link rel="canonical" href="http://localhost:1313/publication/paorrtc/">
 
   
   
@@ -112,14 +110,14 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="A²R Lab">
-  <meta property="og:url" content="https://a2r-lab.github.io/publication/adaptivetinympc/">
-  <meta property="og:title" content="Robust and Efficient Embedded Convex Optimization through First-Order Adaptive Caching | A²R Lab">
-  <meta property="og:description" content="In this work, we introduce First-Order Adaptive Caching, which precomputes not only select matrix operations but also their sensitivities to hyperparameter variations, enabling online hyperparameter updates without full recomputation of the cache. We demonstrate the effectiveness of our approach on a number of dynamic quadrotor tasks, achieving up to a 63.4% reduction in ADMM iterations over the use of optimized fixed hyperparameters and approaching 70% of the performance of a full cache recomputation, while reducing the computational cost from O(n^3) to O(n^2) complexity. This performance enables us to perform figure-eight trajectories on a 27g tiny quadrotor under wind disturbances."><meta property="og:image" content="https://a2r-lab.github.io/publication/adaptivetinympc/featured.png">
+  <meta property="og:url" content="http://localhost:1313/publication/paorrtc/">
+  <meta property="og:title" content="pAORRTC: GPU-Parallel Almost-Surely Asymptotically Optimal Planning | A²R Lab">
+  <meta property="og:description" content="We propose pAORRTC, a GPU-based almost-surely asymptotically optimal (a.s.a.o) planner based on RRT-Connect and the AO-x meta-algorithm. We redesigned pAORRTC for GPUacceleration throughout, with SIMT-parallelism for running hundreds of planning iterations simultaneously along with parallel informed sampling, collision checking, and path simplification. We evaluate pAORRTC on the MotionBenchMaker dataset using the 8-DoF Fetch against state-of-the-art a.s.a.o planners. pAORRTC was able to find initial solutions in milliseconds for challenging manipulation tasks and optimize to low-cost paths faster."><meta property="og:image" content="http://localhost:1313/publication/paorrtc/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2025-06-20T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2026-05-31T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2025-06-20T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2026-05-31T00:00:00&#43;00:00">
   
 
   
@@ -134,7 +132,7 @@
   gtag('config', 'G-BWMRJXPX7Z');
 </script>
 
-  <title>Robust and Efficient Embedded Convex Optimization through First-Order Adaptive Caching | A²R Lab</title>
+  <title>pAORRTC: GPU-Parallel Almost-Surely Asymptotically Optimal Planning | A²R Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -450,7 +448,7 @@
 
 
 <div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/publication/adaptivetinympc/featured_hud4451fb97d4e0c104e3307852f327ac4_914773_800x0_resize_lanczos_3.png');"></div>
+  <div class="featured-image" style="background-image: url('/publication/paorrtc/featured_hu9cf7ba9d33acd49463cf39a79198de15_44224_800x0_resize_lanczos_3.png');"></div>
   
 </div>
 
@@ -459,7 +457,7 @@
   <div class="row">
     <div class="col-6">
       <div class="split-header-content">
-        <h1 itemprop="name">Robust and Efficient Embedded Convex Optimization through First-Order Adaptive Caching</h1>
+        <h1 itemprop="name">pAORRTC: GPU-Parallel Almost-Surely Asymptotically Optimal Planning</h1>
 
         
 
@@ -474,8 +472,8 @@
 
 
 
-<meta content="2025-06-20 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2025-06-20 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2026-05-31 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2026-05-31 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -489,9 +487,11 @@
 
 
   <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://scholar.google.com/citations?user=HMDSXuMAAAAJ" target="_blank">Ishaan Mahajan</a>
+          <a href="https://www.linkedin.com/in/chih-huang-630b07269" target="_blank">Chih Huang</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://zkingston.com/" target="_blank">Zachary Kingston</a>
         </span>
 
   </div>
@@ -504,7 +504,7 @@
     
       
     
-    <time>June 2025</time>
+    <time>May 2026</time>
   </span>
   
 
@@ -556,26 +556,18 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="http://arxiv.org/abs/2507.03231" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://openreview.net/pdf?id=CNzM4vPY0H" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/adaptivetinympc/cite.bib">
+        data-filename="/publication/paorrtc/cite.bib">
   Cite
 </button>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/tinympc" target="_blank" rel="noopener">
-  Code
-</a>
-
 
 
 
@@ -589,19 +581,7 @@
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/RUyk2p7OChg" target="_blank" rel="noopener">
-  Video
-</a>
 
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1109/IROS60139.2025.11246255" target="_blank" rel="noopener">
-  DOI
-</a>
 
 
   
@@ -615,9 +595,9 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://tinympc.org/" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://sites.google.com/robotics.utias.utoronto.ca/icra26-frontiers-optimization/home" target="_blank" rel="noopener">
     
-    Website
+    Workshop Website
   </a>
 
   
@@ -631,9 +611,9 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://aerial-robotics-workshop-icra.com/wp-content/uploads/2025/05/Poster9.pdf" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://commalab.org/papers/pRRTC/" target="_blank" rel="noopener">
     
-    ICRA-25 Workshop Abstract
+    Project Website
   </a>
 
 
@@ -647,7 +627,7 @@
     </div>
     <div class="col-6">
       <div class="split-header-image">
-        <img src="/publication/adaptivetinympc/featured_hud4451fb97d4e0c104e3307852f327ac4_914773_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
+        <img src="/publication/paorrtc/featured_hu9cf7ba9d33acd49463cf39a79198de15_44224_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
         
       </div>
     </div>
@@ -655,7 +635,7 @@
 </div>
 
 <div class="article-container d-xl-none">
-  <h1 itemprop="name">Robust and Efficient Embedded Convex Optimization through First-Order Adaptive Caching</h1>
+  <h1 itemprop="name">pAORRTC: GPU-Parallel Almost-Surely Asymptotically Optimal Planning</h1>
 
   
 
@@ -670,8 +650,8 @@
 
 
 
-<meta content="2025-06-20 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2025-06-20 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2026-05-31 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2026-05-31 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -685,9 +665,11 @@
 
 
   <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://scholar.google.com/citations?user=HMDSXuMAAAAJ" target="_blank">Ishaan Mahajan</a>
+          <a href="https://www.linkedin.com/in/chih-huang-630b07269" target="_blank">Chih Huang</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <a href="https://brianplancher.com" target="_blank">Brian Plancher</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://zkingston.com/" target="_blank">Zachary Kingston</a>
         </span>
 
   </div>
@@ -700,7 +682,7 @@
     
       
     
-    <time>June 2025</time>
+    <time>May 2026</time>
   </span>
   
 
@@ -754,26 +736,18 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="http://arxiv.org/abs/2507.03231" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://openreview.net/pdf?id=CNzM4vPY0H" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/adaptivetinympc/cite.bib">
+        data-filename="/publication/paorrtc/cite.bib">
   Cite
 </button>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/tinympc" target="_blank" rel="noopener">
-  Code
-</a>
-
 
 
 
@@ -787,19 +761,7 @@
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/RUyk2p7OChg" target="_blank" rel="noopener">
-  Video
-</a>
 
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1109/IROS60139.2025.11246255" target="_blank" rel="noopener">
-  DOI
-</a>
 
 
   
@@ -813,9 +775,9 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://tinympc.org/" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://sites.google.com/robotics.utias.utoronto.ca/icra26-frontiers-optimization/home" target="_blank" rel="noopener">
     
-    Website
+    Workshop Website
   </a>
 
   
@@ -829,9 +791,9 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://aerial-robotics-workshop-icra.com/wp-content/uploads/2025/05/Poster9.pdf" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://commalab.org/papers/pRRTC/" target="_blank" rel="noopener">
     
-    ICRA-25 Workshop Abstract
+    Project Website
   </a>
 
 
@@ -846,7 +808,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract" itemprop="text">Recent advances in Model Predictive Control (MPC) leveraging a combination of first-order methods, such as the Alternating Direction Method of Multipliers (ADMM), and offline precomputation and caching of select operations, have excitingly enabled real-time MPC on microcontrollers. Unfortunately, these approaches require the use of fixed hyperparameters, limiting their adaptability and overall performance. In this work, we introduce First-Order Adaptive Caching, which precomputes not only select matrix operations but also their sensitivities to hyperparameter variations, enabling online hyperparameter updates without full recomputation of the cache. We demonstrate the effectiveness of our approach on a number of dynamic quadrotor tasks, achieving up to a 63.4% reduction in ADMM iterations over the use of optimized fixed hyperparameters and approaching 70% of the performance of a full cache recomputation, while reducing the computational cost from O(n^3) to O(n^2) complexity. This performance enables us to perform figure-eight trajectories on a 27g tiny quadrotor under wind disturbances. We release our implementation open-source for the benefit of the wider robotics community.</p>
+      <p class="pub-abstract" itemprop="text">Finding globally optimal paths remains a fundamental challenge in motion planning. Almost-surely asymptotically optimal (a.s.a.o) planners provide probabilistic guarantees of convergence to globally optimal solutions, but their computational cost limits their real-time applicability. Recent efforts have explored CPU-based parallelism for the asymptotically optimal AO-x meta-algorithm to achieve both probabilistic convergence guarantees and strong computational performance. However, little has been done to utilize the massive parallelism available on modern GPUs. In this work, we propose pAORRTC, a GPU-based a.s.a.o planner based on RRT-Connect and the AO-x meta-algorithm. We redesigned pAORRTC for GPUacceleration throughout, with SIMT-parallelism for running hundreds of planning iterations simultaneously along with parallel informed sampling, collision checking, and path simplification. We evaluate pAORRTC on the MotionBenchMaker dataset using the 8-DoF Fetch against state-of-the-art a.s.a.o planners. pAORRTC was able to find initial solutions in milliseconds for challenging manipulation tasks and optimize to low-cost paths faster.</p>
     
 
     
@@ -858,8 +820,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
-              Refereed Conference Proceedings
+            <a href="/publication/#9">
+              Refereed Workshop Publications and Posters
             </a>
             
           </div>
@@ -876,7 +838,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In the <em><a href="https://www.iros25.org/">2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</a></em></div>
+          <div class="col-12 col-md-9">In <em><a href="https://sites.google.com/robotics.utias.utoronto.ca/icra26-frontiers-optimization/home">Frontiers of Optimization for Robotics</a></em> a Workshop at <a href="https://2026.ieee-icra.org/">2026 International Conference on Robotics and Automation (ICRA)</a></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -895,17 +857,11 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/model-predictive-control/">Model Predictive Control</a>
+  <a class="badge badge-light" href="/tags/motion-planning/">Motion Planning</a>
   
-  <a class="badge badge-light" href="/tags/embedded-systems/">Embedded Systems</a>
+  <a class="badge badge-light" href="/tags/parallel-computing/">Parallel Computing</a>
   
-  <a class="badge badge-light" href="/tags/edge-computing/">Edge Computing</a>
-  
-  <a class="badge badge-light" href="/tags/quadrotor/">Quadrotor</a>
-  
-  <a class="badge badge-light" href="/tags/adaptive-updates/">Adaptive Updates</a>
-  
-  <a class="badge badge-light" href="/tags/numerical-optimziation/">Numerical Optimziation</a>
+  <a class="badge badge-light" href="/tags/gpu/">GPU</a>
   
 </div>
 
@@ -933,7 +889,7 @@
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
       
-      <img class="portrait mr-3" src="/authors/ishaanmahajan/avatar_hu7c526fbbc39f92325da01c9adf49b6c4_7717_250x250_fill_q90_lanczos_center.jpeg" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/chihhuang/avatar_hu5fa7c35e6d9782bdb64e4b2c65ad302f_103152_250x250_fill_q90_lanczos_center.jpeg" itemprop="image" alt="Avatar">
     
 
     <div class="media-body">
@@ -941,8 +897,8 @@
       
         
       
-      <h5 class="card-title" itemprop="name"><a href="https://scholar.google.com/citations?user=HMDSXuMAAAAJ">Ishaan Mahajan</a></h5>
-      <h6 class="card-subtitle">Visiting Masters Thesis Researcher</h6>
+      <h5 class="card-title" itemprop="name"><a href="https://www.linkedin.com/in/chih-huang-630b07269">Chih Huang</a></h5>
+      <h6 class="card-subtitle">Incoming PhD Student</h6>
       
       <ul class="network-icon" aria-hidden="true">
         
@@ -956,7 +912,7 @@
           
           
           <li>
-            <a itemprop="sameAs" href="mailto:iam2141@columbia.edu" >
+            <a itemprop="sameAs" href="mailto:ch3719@columbia.edu" >
               <i class="fas fa-envelope"></i>
             </a>
           </li>
@@ -973,7 +929,7 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://github.com/ishaanamahajan" target="_blank" rel="noopener">
+            <a itemprop="sameAs" href="https://github.com/Squirtleee" target="_blank" rel="noopener">
               <i class="fab fa-github"></i>
             </a>
           </li>
@@ -981,21 +937,6 @@
           
           
           
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=HMDSXuMAAAAJ" target="_blank" rel="noopener">
-              <i class="ai ai-google-scholar"></i>
-            </a>
-          </li>
-        
-          
-          
-          
             
           
           
@@ -1005,7 +946,7 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://www.linkedin.com/in/ishaan-mahajan15" target="_blank" rel="noopener">
+            <a itemprop="sameAs" href="https://www.linkedin.com/in/chih-huang-630b07269" target="_blank" rel="noopener">
               <i class="fab fa-linkedin"></i>
             </a>
           </li>
