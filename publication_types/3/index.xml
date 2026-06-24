@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HJCD-IK: GPU-Accelerated Inverse Kinematics through Batched Hybrid Jacobian Coordinate Descent</title>
-      <link>https://a2r-lab.github.io/publication/hjcdik/</link>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/publication/hjcdik/</guid>
-      <description>We introduce HJCD-IK, a GPU-accelerated, sampling-based hybrid Inverse Kinematics (IK) solver that combines an orientation-aware greedy coordinate descent initialization scheme with a Jacobian-based polishing routine. This design enables our solver to improve both convergence speed and overall accuracy as compared to the state-of-the-art, consistently finding solutions along the accuracy-latency Pareto frontier and often achieving order-of-magnitude gains. In addition, our method produces a broad distribution of high-quality samples, yielding the lowest maximum mean discrepancy. We release our code open-source for the benefit of the community.</description>
+      <title>TurboMPC: Fast, Scalable, and Differentiable Model Predictive Control on the GPU</title>
+      <link>https://a2r-lab.github.io/publication/turbompc/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/turbompc/</guid>
+      <description>We present TurboMPC, a differentiable MPC solver that runs entirely on the GPU and supports state and control inequality constraints, implicit integrators, cross-time-coupled costs, and slack variables. TurboMPC combines sequential quadratic programming (SQP), an alternating direction method of multipliers (ADMM) inner solver, implicit differentiation, and a co-designed JAX-CUDA implementation for efficiency and ease of use. In simulation, we achieve up to 15x and 58x speedups over state-of-the-art CPU and GPU differentiable solvers, respectively. We deploy TurboMPC on a full-scale car for minimum-time racing and scale to planning horizons of over 8000 knot points while maintaining control of the vehicle. We open-source TurboMPC at &lt;a href=&#34;https://github.com/ToyotaResearchInstitute/turbompc&#34;&gt;https://github.com/ToyotaResearchInstitute/turbompc&lt;/a&gt;</description>
     </item>
     <item>
       <title>Polynomial and Parallelizable Preconditioning for Block Tridiagonal Positive Definite Matrices</title>

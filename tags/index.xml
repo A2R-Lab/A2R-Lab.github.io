@@ -7,8 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 00:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPU</title>
+      <link>https://a2r-lab.github.io/tags/gpu/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/gpu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inverse Kinematics</title>
+      <link>https://a2r-lab.github.io/tags/inverse-kinematics/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/inverse-kinematics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Motion Planning</title>
+      <link>https://a2r-lab.github.io/tags/motion-planning/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/motion-planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parallel Computing</title>
+      <link>https://a2r-lab.github.io/tags/parallel-computing/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Differential Dynamic Programming</title>
+      <link>https://a2r-lab.github.io/tags/differential-dynamic-programming/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/differential-dynamic-programming/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Edge Computing</title>
       <link>https://a2r-lab.github.io/tags/edge-computing/</link>
@@ -52,10 +87,24 @@
       <description></description>
     </item>
     <item>
-      <title>GPU</title>
-      <link>https://a2r-lab.github.io/tags/gpu/</link>
-      <pubDate>Mon, 01 Jun 2026 10:00:01 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/gpu/</guid>
+      <title>Differentiable</title>
+      <link>https://a2r-lab.github.io/tags/differentiable/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/differentiable/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware Acceleration</title>
+      <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MPC</title>
+      <link>https://a2r-lab.github.io/tags/mpc/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/mpc/</guid>
       <description></description>
     </item>
     <item>
@@ -70,13 +119,6 @@
       <link>https://a2r-lab.github.io/tags/linear-systems/</link>
       <pubDate>Mon, 01 Jun 2026 10:00:01 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/linear-systems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Parallel Computing</title>
-      <link>https://a2r-lab.github.io/tags/parallel-computing/</link>
-      <pubDate>Mon, 01 Jun 2026 10:00:01 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/parallel-computing/</guid>
       <description></description>
     </item>
     <item>
@@ -98,13 +140,6 @@
       <link>https://a2r-lab.github.io/tags/conic-constraints/</link>
       <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/conic-constraints/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Motion Planning</title>
-      <link>https://a2r-lab.github.io/tags/motion-planning/</link>
-      <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/motion-planning/</guid>
       <description></description>
     </item>
     <item>
@@ -238,13 +273,6 @@
       <link>https://a2r-lab.github.io/tags/fpga/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/fpga/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hardware Acceleration</title>
-      <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
       <description></description>
     </item>
     <item>
@@ -518,13 +546,6 @@
       <link>https://a2r-lab.github.io/tags/sim-to-real/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/sim-to-real/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Differential Dynamic Programming</title>
-      <link>https://a2r-lab.github.io/tags/differential-dynamic-programming/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/differential-dynamic-programming/</guid>
       <description></description>
     </item>
     <item>
