@@ -113,13 +113,31 @@
     <loc>https://a2r-lab.github.io/publication/admmslack/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://a2r-lab.github.io/authors/royxing/</loc>
+    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/seyoungree/</loc>
+    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/3/</loc>
+    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/mpcinjection/</loc>
+    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/replay-buffer/</loc>
+    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/trajectory-optimization/</loc>
+    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/authors/jianghanzhang/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/zacharypestrikov/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/3/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/differentiable/</loc>
@@ -147,9 +165,6 @@
     <lastmod>2026-06-01T10:00:01+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/linear-systems/</loc>
-    <lastmod>2026-06-01T10:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/trajectory-optimization/</loc>
     <lastmod>2026-06-01T10:00:01+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/chihhuang/</loc>
@@ -519,9 +534,6 @@
     <lastmod>2024-05-13T00:00:02+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/diffcompressdrl/</loc>
-    <lastmod>2024-05-13T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2024-05-13T00:00:02+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/robot-learning/</loc>
@@ -1177,15 +1189,11 @@
   </url><url>
     <loc>https://a2r-lab.github.io/authors/rolandschwan/</loc>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/royxing/</loc>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/samarthagrawal/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/seanmabli/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/seojinyoon/</loc>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/seyoungree/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/shobiniiyer/</loc>
   </url><url>

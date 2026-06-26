@@ -45,6 +45,13 @@
       <description>We propose a simple ADMM scheme to tackle QPs with slack variables without increasing the size of the original problem. The only modification is a slightly different projection in the z-update, while the rest of the algorithm remains standard. We prove that the method is equivalent to applying ADMM to the QP with additional slack variables, even though slack variables are not added. Numerical experiments show speedups of the approach.</description>
     </item>
     <item>
+      <title>MPC-Injection: Biasing Off-Policy Locomotion RL Toward Controller-Induced Behavior Basins</title>
+      <link>https://a2r-lab.github.io/publication/mpcinjection/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:03 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/mpcinjection/</guid>
+      <description>We present MPC-Injection, a low-overhead method that steers RL toward a designer-preferred gait by inserting transitions into the replay buffer from a model predictive controller solving the same Markov decision process. Unlike reward shaping, MPC-Injection does not require redesigning the task reward, and unlike adversarial imitation learning, it adds no discriminator, no kinematic retargeting, and no auxiliary objective. Instead, the controller&amp;rsquo;s preferred behavior is transferred to the policy purely through the replay state distribution.</description>
+    </item>
+    <item>
       <title>TurboMPC: Fast, Scalable, and Differentiable Model Predictive Control on the GPU</title>
       <link>https://a2r-lab.github.io/publication/turbompc/</link>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>

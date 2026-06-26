@@ -87,6 +87,27 @@
       <description></description>
     </item>
     <item>
+      <title>Reinforcement Learning</title>
+      <link>https://a2r-lab.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:03 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Replay Buffer</title>
+      <link>https://a2r-lab.github.io/tags/replay-buffer/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:03 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/replay-buffer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trajectory Optimization</title>
+      <link>https://a2r-lab.github.io/tags/trajectory-optimization/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:03 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/trajectory-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Differentiable</title>
       <link>https://a2r-lab.github.io/tags/differentiable/</link>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
@@ -119,13 +140,6 @@
       <link>https://a2r-lab.github.io/tags/linear-systems/</link>
       <pubDate>Mon, 01 Jun 2026 10:00:01 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/linear-systems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Trajectory Optimization</title>
-      <link>https://a2r-lab.github.io/tags/trajectory-optimization/</link>
-      <pubDate>Mon, 01 Jun 2026 10:00:01 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/trajectory-optimization/</guid>
       <description></description>
     </item>
     <item>
@@ -420,13 +434,6 @@
       <link>https://a2r-lab.github.io/tags/compressed-learning/</link>
       <pubDate>Mon, 13 May 2024 00:00:02 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/compressed-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reinforcement Learning</title>
-      <link>https://a2r-lab.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Mon, 13 May 2024 00:00:02 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     <item>
