@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:03 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASCII Art Turns LLMs into VLA Controllers</title>
+      <link>https://a2r-lab.github.io/publication/asciiart/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:03 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/asciiart/</guid>
+      <description>We demonstrate that a text-only large language model (LLM) can be adapted into a VLA-style controller when visual observations are rendered into a text input using an ASCII representation. This ASCII-as-vision interface enables existing training and deployment stacks for LLMs to efficiently condition on visual state, follow natural-language instructions, and produce constrained, executable actions.</description>
+    </item>
     <item>
       <title>Can Large Language Models Reduce the Barriers to Entry for High School Robotics?</title>
       <link>https://a2r-lab.github.io/publication/llmfrccodegen/</link>

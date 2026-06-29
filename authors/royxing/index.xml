@@ -23,5 +23,12 @@
       <guid>https://a2r-lab.github.io/publication/mpcinjection/</guid>
       <description>We present MPC-Injection, a low-overhead method that steers RL toward a designer-preferred gait by inserting transitions into the replay buffer from a model predictive controller solving the same Markov decision process. Unlike reward shaping, MPC-Injection does not require redesigning the task reward, and unlike adversarial imitation learning, it adds no discriminator, no kinematic retargeting, and no auxiliary objective. Instead, the controller&amp;rsquo;s preferred behavior is transferred to the policy purely through the replay state distribution.</description>
     </item>
+    <item>
+      <title>ASCII Art Turns LLMs into VLA Controllers</title>
+      <link>https://a2r-lab.github.io/publication/asciiart/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:03 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/asciiart/</guid>
+      <description>We demonstrate that a text-only large language model (LLM) can be adapted into a VLA-style controller when visual observations are rendered into a text input using an ASCII representation. This ASCII-as-vision interface enables existing training and deployment stacks for LLMs to efficiently condition on visual state, follow natural-language instructions, and produce constrained, executable actions.</description>
+    </item>
   </channel>
 </rss>
