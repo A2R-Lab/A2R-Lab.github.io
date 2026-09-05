@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:00:03 +0000</lastBuildDate>
     
 	    <atom:link href="https://a2r-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Publications</title>
       <link>https://a2r-lab.github.io/publication/</link>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 00:00:03 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/publication/</guid>
       <description>&lt;p&gt;This list includes publications from the PI&amp;rsquo;s time at the Harvard &lt;a href=&#34;https://agile.seas.harvard.edu/&#34;&gt;Agile Robotics&lt;/a&gt; and &lt;a href=&#34;https://edge.seas.harvard.edu/&#34;&gt;Edge Computing&lt;/a&gt; Labs, as well as when the A2R Lab was affiliated with the &lt;a href=&#34;https://cs.barnard.edu/&#34;&gt;Department of Computer Science at Barnard College, Columbia University&lt;/a&gt;.&lt;/p&gt;
@@ -130,10 +130,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://a2r-lab.github.io/join/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;We are recruiting for PhD researchers for Fall 2027 starts&lt;/strong&gt;. Please apply through the &lt;a href=&#34;https://graduate.dartmouth.edu/academics/programs/computer-science&#34;&gt;Dartmouth CS PhD program&lt;/a&gt; at the Guarini School of Graduate and Advanced Studies by &lt;strong&gt;December 15th&lt;/strong&gt;.
 &lt;ul&gt;
-&lt;li&gt;Dartmouth Undergraduates, Masters, and PhD Students interested in joining the lab, or collaborating with us, should consider taking &lt;strong&gt;&lt;a href=&#34;https://brianplancher.com/courses/169.23-f25&#34;&gt;Parallel Optimization for Robotics&lt;/a&gt;&lt;/strong&gt; which will next be taught in the Winter 2026 Term.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;All hiring will center on the lab&amp;rsquo;s core focus of algorithm-hardware-software co-design for robotics. We are particularly excited about expanding our work with emerging compute platforms (e.g., FPGAs, ASICs, neuromorphic, and analog computing), alongside our ongoing work on GPUs, embedded systems, numerical optimization, and robot learning.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;In your application, please select Robotics as an area of interest and list Brian Plancher as one of the faculty members you are particularly interested in working with.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dartmouth offers &lt;a href=&#34;https://graduate.dartmouth.edu/admissions/applying-dartmouth/fee-waiver-criteria&#34;&gt;application fee waivers&lt;/a&gt;&lt;/strong&gt; to applicants meeting a number of eligibility criteria.&lt;/li&gt;
+&lt;li&gt;Due to the volume of prospective-student inquiries, we are generally unable to meet individually with applicants or pre-review application materials before submission. We will carefully review applications during the admissions process and reach out directly to candidates whose interests and background appear to be a particularly strong match.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dartmouth Undergraduates and Master&amp;rsquo;s Student&lt;/strong&gt; research opportunities vary substantially by term, project needs, mentoring capacity, and available funding. The best way to prepare to work with the lab is generally to take &lt;strong&gt;&lt;a href=&#34;https://brianplancher.com/courses/169.23-f25&#34;&gt;Parallel Optimization for Robotics&lt;/a&gt;&lt;/strong&gt; which will next be taught in the Winter 2027 Term. See the information below for additional details.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;We do not currently have any open postdoctoral positions&lt;/strong&gt;. Any future funded postdoctoral openings will be posted on this page.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;We generally do not take on remote or external research assistants who have not previously worked with the lab in person.&lt;/strong&gt; Robotics research frequently requires time in the lab to deploy and evaluate systems on physical robots, and our experience has been that research collaborations are substantially more successful after first working together in person. In exceptional cases, we may consider remote work with someone who has previously worked with the lab in person, typically through a course or term-time independent study. If you are not currently at Dartmouth and have not previously worked with the lab, you should generally not expect us to be able to offer a research project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -147,32 +157,53 @@
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
-&lt;p&gt;We are always looking to grow our team and welcome students at all levels: undergraduates, master’s students, PhD candidates, and postdoctoral researchers!&lt;/p&gt;
-&lt;p&gt;Our research is highly interdisciplinary, spanning robotics, computer architecture, embedded systems, numerical optimization, and machine learning, with a unifying focus on developing &lt;strong&gt;edge computational systems through algorithm-hardware-software co-design&lt;/strong&gt;. Because of this breadth, it’s rare for incoming students to have experience across all of these areas, and as such, no prior background in robotics, parallel programming, or machine learning is required (though it’s a plus, especially as many projects involve deploying algorithms on edge robotic systems for real-world demonstrations). Instead, we look for strong foundations in &lt;strong&gt;applied mathematics, computer systems, and core software engineering skills&lt;/strong&gt; as these translate well across our projects and will set you up for success as you learn project-specific expertise.&lt;/p&gt;
-&lt;p&gt;Most importantly, we value &lt;strong&gt;intellectual curiosity&lt;/strong&gt;, &lt;strong&gt;commitment&lt;/strong&gt;, &lt;strong&gt;clear communication&lt;/strong&gt;, &lt;strong&gt;creativity&lt;/strong&gt;, and the &lt;strong&gt;courage to learn something new&lt;/strong&gt;. Students eager to bridge multiple technical domains and engage deeply in collaborative research will thrive here. We also care about &lt;strong&gt;real-world impact&lt;/strong&gt; and encourage contributions to &lt;strong&gt;outreach and education&lt;/strong&gt;. An interest in connecting research to broader applications and sharing knowledge with the community is a strong asset.&lt;/p&gt;
-&lt;p&gt;For Dartmouth undergraduates, master’s students, and PhD researchers, we strongly recommend you take  &lt;strong&gt;Parallel Optimization for Robotics&lt;/strong&gt;. It is excellent preparation for much of the lab’s research, and the course project is a great way to start exploring research.&lt;/p&gt;
-&lt;p&gt;For Undergraduate and Masters part-time researchers during the academic semester, in order to ensure that you can have a meaningful research experience as a member of the lab we expect you to:&lt;/p&gt;
+&lt;p&gt;We welcome students with a wide range of technical backgrounds who are interested in our research. Our work is highly interdisciplinary, spanning robotics, computer architecture, embedded systems, numerical optimization, and machine learning, with a unifying focus on developing &lt;strong&gt;edge computational systems through algorithm-hardware-software co-design&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Because of this breadth, we do not expect incoming researchers to already have experience in every area. Prior experience in robotics, parallel programming, or machine learning is helpful but not required. Instead, we particularly value strong foundations in &lt;strong&gt;applied mathematics, computer systems, and software engineering&lt;/strong&gt;, as these skills translate across many of our projects and provide a strong foundation for learning project-specific material.&lt;/p&gt;
+&lt;p&gt;Most importantly, we value &lt;strong&gt;intellectual curiosity&lt;/strong&gt;, &lt;strong&gt;commitment&lt;/strong&gt;, &lt;strong&gt;clear communication&lt;/strong&gt;, &lt;strong&gt;creativity&lt;/strong&gt;, and the &lt;strong&gt;courage to learn something new&lt;/strong&gt;. Students who enjoy bridging multiple technical domains and engaging deeply in collaborative research are likely to be a good fit. We also care about &lt;strong&gt;real-world impact&lt;/strong&gt; and encourage contributions to &lt;strong&gt;outreach and education&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;For Dartmouth undergraduates, master&amp;rsquo;s students, and PhD researchers interested in the lab, we strongly recommend taking &lt;strong&gt;&lt;a href=&#34;https://brianplancher.com/courses/169.23-f25&#34;&gt;Parallel Optimization for Robotics&lt;/a&gt;&lt;/strong&gt;. It provides preparation for much of our research, and its course project can be an excellent way to begin exploring related research directions.&lt;/p&gt;
+&lt;h3 id=&#34;expectations-for-part-time-undergraduate-and-masters-researchers&#34;&gt;Expectations for Part-Time Undergraduate and Master&amp;rsquo;s Researchers&lt;/h3&gt;
+&lt;p&gt;To make sure that term-time research can be a meaningful experience, we generally expect undergraduate and master&amp;rsquo;s researchers to:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Commit at least 10 hours per week to your research work (similar to a course &amp;ndash; note that independent study research credit may be possible)&lt;/li&gt;
-&lt;li&gt;Provide a (team) progress update every week either during lab meetings, at office hours, or through a scheduled meeting&lt;/li&gt;
+&lt;li&gt;Commit at least &lt;strong&gt;10 hours per week&lt;/strong&gt; to research, roughly comparable to the time commitment of a course. Independent-study research credit may be possible for Dartmouth students.&lt;/li&gt;
+&lt;li&gt;Provide a &lt;strong&gt;written progress update&lt;/strong&gt; each week and discuss it through a scheduled project meeting.&lt;/li&gt;
+&lt;li&gt;Participate &lt;strong&gt;in person&lt;/strong&gt; (where applicable) for project meetings, hardware deployments, etc.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;There are also additional opportunities for full-time summer research experiences.&lt;/p&gt;
-&lt;p&gt;Questions or interested in joining? Email us at: &lt;strong&gt;&lt;a href=&#34;mailto:plancher+A2R@dartmouth.edu&#34;&gt;plancher+A2R@dartmouth.edu&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Research capacity varies from term to term, and meeting these expectations does not by itself guarantee that we will have an appropriate project or available mentoring capacity.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;faqs&#34;&gt;FAQs:&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;What kinds of research is the lab doing right now? Do you have any resources for getting started?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;You can find descriptions of some of our current research directions on our &lt;a href=&#34;https://a2r-lab.github.io/projects/&#34;&gt;projects page&lt;/a&gt; as well as our recent publications on our &lt;a href=&#34;https://a2r-lab.github.io/publication/&#34;&gt;publications page&lt;/a&gt;. While most research projects will dive deep into specific areas of robotics and so there aren&amp;rsquo;t truly general resources that are applicale to all projects, as most (current) projects do explore hardware acceleration and optimal control to some degree, there are a few things you could do to prepare for research in the lab. First, as mentioned above, for Dartmouth students, considering taking Parallel Optimization for Robotics! Second, check out our PI&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=zd-qV3XLR_k&#34;&gt;Autonomy talk on 5/20/25&lt;/a&gt;, &lt;a href=&#34;https://youtu.be/tTy2Vhg2G-I&#34;&gt;PhD Dissertation Defense on 4/26/22&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=IFXlHAfr_v0&#34;&gt;talk at Barnard on 12/14/21&lt;/a&gt;, which provide nice overviews of some projects we have done in the past (note that the Barnard talk is aimed at a more introductory audience). If you want to go deeper into the algorithms and math, Russ Tedrake&amp;rsquo;s &lt;a href=&#34;https://courses.edx.org/courses/MITx/6.832x/3T2014/info&#34;&gt;Underactuated Robotics&lt;/a&gt; course on edX covers many of those topics. If you want to learn more about GPU programming, &lt;a href=&#34;https://enccs.github.io/gpu-programming/&#34;&gt;this online course&lt;/a&gt; provides a nice introduction. Finally, we also explore how to increase the accessibility of cutting-edge computer science and robotics topics globally. This is best exemplified by our work with &lt;a href=&#34;https://tinymledu.org/&#34;&gt;TinyMLedu&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Is the position paid?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;If you are doing research through a funded research program you will be funded and Dartmouth has many different programs that can provide funding for summer research &amp;ndash; for example, &lt;a href=&#34;https://graduate.dartmouth.edu/diversity/research-and-education/asure&#34;&gt;Dartmouth&amp;rsquo;s Academic Summer Undergraduate Research Experience (ASURE)&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;What kinds of research is the lab doing right now?&lt;/strong&gt;&lt;/em&gt;
+You can find descriptions of current research directions on our &lt;a href=&#34;https://a2r-lab.github.io/projects/&#34;&gt;projects page&lt;/a&gt; and our recent work on our &lt;a href=&#34;https://a2r-lab.github.io/publication/&#34;&gt;publications page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Broadly, our research focuses on &lt;strong&gt;performance engineering for computational robotics at the edge through algorithm-hardware-software co-design&lt;/strong&gt;. Current and future directions include accelerated numerical optimization and model predictive control on GPUs; efficient robotics algorithms for resource-constrained platforms such as microcontrollers; hybrid approaches combining learning, sampling, and optimization; and emerging robotics computing architectures including FPGAs, ASICs, and neuromorphic systems.&lt;/p&gt;
+&lt;p&gt;Because individual projects often require substantial depth in a particular technical area, there is no single set of prerequisites for every project.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Is research funded?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding for undergraduate and master&amp;rsquo;s research should not be assumed and is not guaranteed.&lt;/strong&gt; Available funding varies substantially by project, student eligibility, grant support, and time of year. Research may also be possible through an &lt;strong&gt;independent study for academic credit&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Dartmouth students are strongly encouraged to explore &lt;a href=&#34;https://students.dartmouth.edu/surfd/research/getting-started/dartmouth-research-funding&#34;&gt;established Dartmouth research programs and other College funding opportunities&lt;/a&gt;.
+From time to time, the lab may have grant-supported paid research positions, but availability is limited and varies from term to term. We cannot guarantee that joining the lab will lead to funding now or in the future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Admitted PhD students have 5 years of guaranteed funding through the Dartmouth Computer Science PhD program&lt;/strong&gt; rather than through the undergraduate/master&amp;rsquo;s research process described above.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Can I work with the lab remotely?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;As a general rule, &lt;strong&gt;we do not support purely remote research assistants&lt;/strong&gt;. Our research frequently involves physical robotic systems, and even projects that are primarily computational often eventually require in-lab deployment and evaluation. In addition, our experience has been that remote collaborations work much better after first establishing a successful in-person working relationship. We therefore typically require researchers to work with us in person first (e.g., through a course or term-time independent study) before we would consider a subsequent remote arrangement.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Should I email before applying to the PhD program? Can you review my application?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;You are welcome to indicate your interest in the A²R Lab in your application, and you should list Brian Plancher among the faculty you are particularly interested in working with.
+However, due to the volume of prospective-student inquiries, Brian is generally unable to schedule meetings with prospective applicants or provide application pre-reviews before the admissions deadline. You do not need to contact the lab in advance to receive full consideration. Applications will be reviewed carefully as part of the normal Dartmouth CS admissions process, and we will reach out directly to candidates whose interests appear to be a strong match.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Where can I learn more or prepare for research in the lab?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For Dartmouth students, &lt;strong&gt;&lt;a href=&#34;https://brianplancher.com/courses/169.23-f25&#34;&gt;Parallel Optimization for Robotics&lt;/a&gt;&lt;/strong&gt; is excellent preparation for many of our projects.&lt;/p&gt;
+&lt;p&gt;You can also check out Brian&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=zd-qV3XLR_k&#34;&gt;Autonomy talk on 5/20/25&lt;/a&gt;, &lt;a href=&#34;https://youtu.be/tTy2Vhg2G-I&#34;&gt;PhD Dissertation Defense on 4/26/22&lt;/a&gt;, and &lt;a href=&#34;https://www.youtube.com/watch?v=IFXlHAfr_v0&#34;&gt;talk at Barnard on 12/14/21&lt;/a&gt;, which provide overviews of several past research directions. For deeper background in robotics algorithms and mathematics, Russ Tedrake&amp;rsquo;s &lt;a href=&#34;https://courses.edx.org/courses/MITx/6.832x/3T2014/info&#34;&gt;Underactuated Robotics&lt;/a&gt; is an excellent resource. For GPU programming, &lt;a href=&#34;https://enccs.github.io/gpu-programming/&#34;&gt;this online course&lt;/a&gt; provides a useful introduction.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Questions not addressed above?&lt;/strong&gt;&lt;/em&gt;
+Email us at &lt;strong&gt;&lt;a href=&#34;mailto:plancher+A2R@dartmouth.edu&#34;&gt;plancher+A2R@dartmouth.edu&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;We will also be constantly applying for grants to support additional student researchers, however, depending on timing, we may only be able to offer research as an independent study for credit. &lt;em&gt;Note: We do not expect you to be funded to join the lab! We can work to help you get funded AFTER you join! Also if you reach out ahead of time we can work together to get you funded BEFORE you start doing research.&lt;/em&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Why should I consider doing research?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Research is a great way to learn more about a field of interest and develop both your technical and communication skills. Also, whether you are considering graduate school or industry positions, spending a few semesters doing research and publishing a peer-reviewed paper and/or presenting at regional and national conferences looks great on your resume!&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

@@ -2,25 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://a2r-lab.github.io/authors/andrewliu/</loc>
-    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/brianplancher/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/royxing/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/seyoungree/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/1/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/model-predictive-control/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/mpcinjection/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/replay-buffer/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/trajectory-optimization/</loc>
+    <lastmod>2026-11-09T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/andrewliu/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/caelyasutake/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/zacharykingston/</loc>
-    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/1/</loc>
-    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/</loc>
-    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/gpu/</loc>
@@ -36,15 +66,6 @@
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/parallel-computing/</loc>
-    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/</loc>
-    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication/</loc>
-    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/gabrielbravo/</loc>
@@ -107,40 +128,19 @@
     <loc>https://a2r-lab.github.io/tags/embedded-systems/</loc>
     <lastmod>2026-07-13T00:00:05+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/tags/model-predictive-control/</loc>
-    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/semidefinite-programming/</loc>
     <lastmod>2026-07-13T00:00:05+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/tinysdp/</loc>
     <lastmod>2026-07-13T00:00:05+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/royxing/</loc>
-    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/seyoungree/</loc>
-    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/3/</loc>
-    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication/mpcinjection/</loc>
-    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/replay-buffer/</loc>
-    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/trajectory-optimization/</loc>
-    <lastmod>2026-06-24T00:00:03+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/jianghanzhang/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/zacharypestrikov/</loc>
+    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/3/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/differentiable/</loc>
@@ -1112,6 +1112,8 @@
     <loc>https://a2r-lab.github.io/authors/anniesong/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/antonioaranda/</loc>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/arisandroutsopoulos/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/barathkumarjk/</loc>
   </url><url>
