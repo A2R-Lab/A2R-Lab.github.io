@@ -31,6 +31,13 @@
       <description>We introduce HJCD-IK, a GPU-accelerated, sampling-based hybrid solver. By pairing a novel orientation-aware greedy coordinate descent initialization with Jacobian-based polishing and a parallel collision filter, our method achieves up to order-of-magnitude gains in speed and accuracy over state-of-the-art solvers, consistently finding collision-free solutions on the accuracy-latency Pareto frontier, while producing a diverse distribution of high-quality samples. We validate our solver on a physical Franka manipulator and release our code open-source.</description>
     </item>
     <item>
+      <title>AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones</title>
+      <link>https://a2r-lab.github.io/publication/accelmpc/</link>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/accelmpc/</guid>
+      <description>AccelMPC pairs a co-designed FPGA-accelerated alternating direction method of multipliers (ADMM)-based MPC solver with a custom 6g PCB, providing high-bandwidth communication for deployment on a 35g Crazyflie. Hardware experiments demonstrate 1 kHz onboard constrained MPC with dynamic obstacles, up to 15.6x faster solve times and 195.4x improvement in energy-delay product over state-of-the-art embedded microcontroller-based solvers, all while scaling to optimization problems with over 20,000 optimization variables and a comparable number of constraints. We release our PCB design files, firmware, and FPGA solver code open source.</description>
+    </item>
+    <item>
       <title>Parallel Dynamic Programming for Conic Linear Quadratic Control</title>
       <link>https://a2r-lab.github.io/publication/paralleldynamicprogramming/</link>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>

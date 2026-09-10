@@ -66,6 +66,27 @@
       <description></description>
     </item>
     <item>
+      <title>FPGA</title>
+      <link>https://a2r-lab.github.io/tags/fpga/</link>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/fpga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware Acceleration</title>
+      <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MPC</title>
+      <link>https://a2r-lab.github.io/tags/mpc/</link>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/mpc/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Differential Dynamic Programming</title>
       <link>https://a2r-lab.github.io/tags/differential-dynamic-programming/</link>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
@@ -112,20 +133,6 @@
       <link>https://a2r-lab.github.io/tags/differentiable/</link>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/differentiable/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hardware Acceleration</title>
-      <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MPC</title>
-      <link>https://a2r-lab.github.io/tags/mpc/</link>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/mpc/</guid>
       <description></description>
     </item>
     <item>
@@ -308,13 +315,6 @@
       <link>https://a2r-lab.github.io/tags/transpiler/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/transpiler/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FPGA</title>
-      <link>https://a2r-lab.github.io/tags/fpga/</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/fpga/</guid>
       <description></description>
     </item>
     <item>
