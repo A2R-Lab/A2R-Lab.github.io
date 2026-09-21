@@ -24,6 +24,20 @@
       <description>We introduce HJCD-IK, a GPU-accelerated, sampling-based hybrid solver. By pairing a novel orientation-aware greedy coordinate descent initialization with Jacobian-based polishing and a parallel collision filter, our method achieves up to order-of-magnitude gains in speed and accuracy over state-of-the-art solvers, consistently finding collision-free solutions on the accuracy-latency Pareto frontier, while producing a diverse distribution of high-quality samples. We validate our solver on a physical Franka manipulator and release our code open-source.</description>
     </item>
     <item>
+      <title>RAYA: Learning Where and When to Intervene for Robot Recovery</title>
+      <link>https://a2r-lab.github.io/publication/raya/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/raya/</guid>
+      <description>We present RAYA, a hybrid learned-analytic framework that places a learned finite-horizon recoverability margin inside an optimal controller with hard constraints and pairs it with a bounded learned scheduler that shifts task weights to facilitate recovery. Across 7,200 simulation episodes per controller spanning quadrotor and autonomous-vehicle benchmarks, RAYA not only improves survival rates, but also transfers the learned components zero-shot to unseen trajectories, disturbances, plant shifts, and friction layouts. We developed an embedded realization of RAYA and deployed it on-board a 35g Crazyflie quadrotor. Across 40 combined hardware flights under wind with either aerodynamic mismatch or an unmodeled 40% motor-command loss, each of three baselines fails in all trials, while RAYA completes 10/10 six-cycle missions.</description>
+    </item>
+    <item>
+      <title>Solvers at the Edge: Embedded Optimization for Safe and Intelligent Robotics</title>
+      <link>https://a2r-lab.github.io/publication/mahajanthesis/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/mahajanthesis/</guid>
+      <description>This thesis studies structure-exploiting embedded optimization methods that extend cached Riccati-based MPC solvers for resource-constrained robotic systems. Building on first-order alternating direction method of multipliers (ADMM) solvers and offline caching, this thesis develops three complementary contributions. First, we develop conic extensions of embedded MPC solvers that support second-order cone constraints, allowing richer modeling of thrust, friction, and glideslope constraints while retaining real-time deployability on microcontrollers. Second, we present a semidefinite programming framework for embedded MPC that enables certifiable obstacle avoidance through lifted convex relaxations and an a posteriori rank-1 safety certificate. Third, we introduce First-Order Adaptive Caching, a sensitivity-based method for updating cached solver quantities online as the ADMM penalty parameter changes, improving convergence without sacrificing caching benefits. Together, these methods expand cached embedded MPC along three dimensions: expressiveness, safety, and robustness. Across simulation, microcontroller benchmarks, and Crazyflie hardware experiments, the resulting solvers demonstrate improvements in constraint handling, solve time, and safety-critical behavior under aggressive and dynamically changing conditions.</description>
+    </item>
+    <item>
       <title>AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones</title>
       <link>https://a2r-lab.github.io/publication/accelmpc/</link>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
@@ -99,6 +113,13 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/publication/phireman/</guid>
       <description>This paper introduces and formalizes the problem of Robust Task Networking Under Attrition (RTNUA), which extends connectivity maintenance in multi-robot systems to explicitly address proactive redundancy and attrition recovery. We then introduce Physics-Informed Robust Employment of Multi-Agent Networks (ΦIREMAN), a topological algorithm leveraging physics-inspired potential fields to solve this problem. In our evaluations, ΦIREMAN consistently outperforms baselines, and is able to maintain greater than 99.9% task uptime despite substantial attrition in simulations with up to 100 tasks and 500 drones, demonstrating both effectiveness and scalability.</description>
+    </item>
+    <item>
+      <title>Hardware-Algorithm Co-Design for Real-Time Linear Model Predictive Control: FPGA Implementation and Deployment on a Resource-Constrained Quadrotor</title>
+      <link>https://a2r-lab.github.io/publication/grillothesis/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/grillothesis/</guid>
+      <description>This thesis investigates how alternative computer architectures can extend the capability of optimizationbased control on constrained robots, with demonstrations on a nano-quadrotor running linear MPC. The primary contribution is a hardware-accelerated linear MPC solver based on a custom FPGA datapath implementation of the Alternating Direction Method of Multipliers (ADMM) algorithm, co-designed for reduced-precision arithmetic. We also develop a custom FPGA expansion board for the Crazyflie platform. Through these advances, we demonstrate fully onboard constrained MPC at high control frequencies, achieving approximately 15× lower solver latency and 200× improvement in energy–delay product relative to state-of-the-art baselines. This enables longer horizons, more solver iterations per control step, and more reliable constraint handling. In parallel, a preliminary feasibility analysis of mapping iterative optimization algorithms onto Intel’s Loihi 2 neuromorphic processor is explored as a promising direction toward ultra-low-power implementations in future work. Together, these contributions illustrate how algorithm-hardware co-design can significantly extend the practicality of optimization-based control on resource-constrained robotic platforms.</description>
     </item>
     <item>
       <title>Datasheets for Machine Learning Sensors</title>

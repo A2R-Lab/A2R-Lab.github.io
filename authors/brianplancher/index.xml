@@ -31,6 +31,13 @@
       <description>We introduce HJCD-IK, a GPU-accelerated, sampling-based hybrid solver. By pairing a novel orientation-aware greedy coordinate descent initialization with Jacobian-based polishing and a parallel collision filter, our method achieves up to order-of-magnitude gains in speed and accuracy over state-of-the-art solvers, consistently finding collision-free solutions on the accuracy-latency Pareto frontier, while producing a diverse distribution of high-quality samples. We validate our solver on a physical Franka manipulator and release our code open-source.</description>
     </item>
     <item>
+      <title>RAYA: Learning Where and When to Intervene for Robot Recovery</title>
+      <link>https://a2r-lab.github.io/publication/raya/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/raya/</guid>
+      <description>We present RAYA, a hybrid learned-analytic framework that places a learned finite-horizon recoverability margin inside an optimal controller with hard constraints and pairs it with a bounded learned scheduler that shifts task weights to facilitate recovery. Across 7,200 simulation episodes per controller spanning quadrotor and autonomous-vehicle benchmarks, RAYA not only improves survival rates, but also transfers the learned components zero-shot to unseen trajectories, disturbances, plant shifts, and friction layouts. We developed an embedded realization of RAYA and deployed it on-board a 35g Crazyflie quadrotor. Across 40 combined hardware flights under wind with either aerodynamic mismatch or an unmodeled 40% motor-command loss, each of three baselines fails in all trials, while RAYA completes 10/10 six-cycle missions.</description>
+    </item>
+    <item>
       <title>AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones</title>
       <link>https://a2r-lab.github.io/publication/accelmpc/</link>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>

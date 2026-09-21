@@ -66,6 +66,83 @@
       <description></description>
     </item>
     <item>
+      <title>Adaptive Updates</title>
+      <link>https://a2r-lab.github.io/tags/adaptive-updates/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/adaptive-updates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conic Constraints</title>
+      <link>https://a2r-lab.github.io/tags/conic-constraints/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/conic-constraints/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edge Computing</title>
+      <link>https://a2r-lab.github.io/tags/edge-computing/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/edge-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Embedded Systems</title>
+      <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MCU</title>
+      <link>https://a2r-lab.github.io/tags/mcu/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/mcu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MPC</title>
+      <link>https://a2r-lab.github.io/tags/mpc/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/mpc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Numerical Optimziation</title>
+      <link>https://a2r-lab.github.io/tags/numerical-optimziation/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/numerical-optimziation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quadrotor</title>
+      <link>https://a2r-lab.github.io/tags/quadrotor/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/quadrotor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recoverability</title>
+      <link>https://a2r-lab.github.io/tags/recoverability/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/recoverability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Safety</title>
+      <link>https://a2r-lab.github.io/tags/safety/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/safety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Semidefinite Programming</title>
+      <link>https://a2r-lab.github.io/tags/semidefinite-programming/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/semidefinite-programming/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>FPGA</title>
       <link>https://a2r-lab.github.io/tags/fpga/</link>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
@@ -77,13 +154,6 @@
       <link>https://a2r-lab.github.io/tags/hardware-acceleration/</link>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/hardware-acceleration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MPC</title>
-      <link>https://a2r-lab.github.io/tags/mpc/</link>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/mpc/</guid>
       <description></description>
     </item>
     <item>
@@ -105,27 +175,6 @@
       <link>https://a2r-lab.github.io/tags/optimal-control/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/optimal-control/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Edge Computing</title>
-      <link>https://a2r-lab.github.io/tags/edge-computing/</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:05 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/edge-computing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Embedded Systems</title>
-      <link>https://a2r-lab.github.io/tags/embedded-systems/</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:05 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/embedded-systems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Semidefinite Programming</title>
-      <link>https://a2r-lab.github.io/tags/semidefinite-programming/</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:05 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/semidefinite-programming/</guid>
       <description></description>
     </item>
     <item>
@@ -185,20 +234,6 @@
       <description></description>
     </item>
     <item>
-      <title>Conic Constraints</title>
-      <link>https://a2r-lab.github.io/tags/conic-constraints/</link>
-      <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/conic-constraints/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Quadrotor</title>
-      <link>https://a2r-lab.github.io/tags/quadrotor/</link>
-      <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/quadrotor/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Parameter Estimation</title>
       <link>https://a2r-lab.github.io/tags/parameter-estimation/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
@@ -231,6 +266,13 @@
       <link>https://a2r-lab.github.io/tags/multi-agent-systems/</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/multi-agent-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neuromorphic</title>
+      <link>https://a2r-lab.github.io/tags/neuromorphic/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/tags/neuromorphic/</guid>
       <description></description>
     </item>
     <item>
@@ -318,20 +360,6 @@
       <description></description>
     </item>
     <item>
-      <title>Adaptive Updates</title>
-      <link>https://a2r-lab.github.io/tags/adaptive-updates/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/adaptive-updates/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Numerical Optimziation</title>
-      <link>https://a2r-lab.github.io/tags/numerical-optimziation/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/numerical-optimziation/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Lasers</title>
       <link>https://a2r-lab.github.io/tags/lasers/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
@@ -413,13 +441,6 @@
       <link>https://a2r-lab.github.io/tags/women/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://a2r-lab.github.io/tags/women/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MCU</title>
-      <link>https://a2r-lab.github.io/tags/mcu/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://a2r-lab.github.io/tags/mcu/</guid>
       <description></description>
     </item>
     <item>

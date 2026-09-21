@@ -121,7 +121,7 @@
   <meta property="og:description" content="The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. We also want to improve the accessibility of STEM education. We therefore undertake research to understand and improve diversity, equity, inclusion, and belonging in STEM education globally and explore ways to design new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning."><meta property="og:image" content="https://a2r-lab.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2026-07-13T00:00:05&#43;00:00">
+  <meta property="og:updated_time" content="2026-09-21T00:00:00&#43;00:00">
   
 
   
@@ -449,6 +449,15 @@
   
   
   <div>
+    <h2><a href="/publication/mahajanthesis/">Solvers at the Edge: Embedded Optimization for Safe and Intelligent Robotics</a></h2>
+    <div class="article-style">
+      
+      This thesis studies structure-exploiting embedded optimization methods that extend cached Riccati-based MPC solvers for resource-constrained robotic systems. Building on first-order alternating direction method of multipliers (ADMM) solvers and offline caching, this thesis develops three complementary contributions. First, we develop conic extensions of embedded MPC solvers that support second-order cone constraints, allowing richer modeling of thrust, friction, and glideslope constraints while retaining real-time deployability on microcontrollers. Second, we present a semidefinite programming framework for embedded MPC that enables certifiable obstacle avoidance through lifted convex relaxations and an a posteriori rank-1 safety certificate. Third, we introduce First-Order Adaptive Caching, a sensitivity-based method for updating cached solver quantities online as the ADMM penalty parameter changes, improving convergence without sacrificing caching benefits. Together, these methods expand cached embedded MPC along three dimensions: expressiveness, safety, and robustness. Across simulation, microcontroller benchmarks, and Crazyflie hardware experiments, the resulting solvers demonstrate improvements in constraint handling, solve time, and safety-critical behavior under aggressive and dynamically changing conditions.
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="/publication/tinysdp/">TinySDP: Real Time Semidefinite Optimization for Certifiable and Agile Edge Robotics</a></h2>
     <div class="article-style">
       
@@ -471,6 +480,15 @@
     <div class="article-style">
       
       We introduce TAG-K, a lightweight extension of the Kaczmarz method that combines greedy randomized row selection for rapid convergence with tail averaging for robustness under noise and inconsistency. This design enables fast, stable parameter adaptation while retaining the low per-iteration complexity inherent to the Kaczmarz framework. We evaluate TAG-K in synthetic benchmarks and quadrotor tracking tasks against RLS, KF, and other Kaczmarz variants. TAG-K achieves 1.5x-1.9x faster solve times on laptop-class CPUs and 4.8x-20.7x faster solve times on embedded microcontrollers. More importantly, these speedups are paired with improved resilience to measurement noise and a 25% reduction in estimation error, leading to nearly 2x better end-to-end tracking performance.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/grillothesis/">Hardware-Algorithm Co-Design for Real-Time Linear Model Predictive Control: FPGA Implementation and Deployment on a Resource-Constrained Quadrotor</a></h2>
+    <div class="article-style">
+      
+      This thesis investigates how alternative computer architectures can extend the capability of optimizationbased control on constrained robots, with demonstrations on a nano-quadrotor running linear MPC. The primary contribution is a hardware-accelerated linear MPC solver based on a custom FPGA datapath implementation of the Alternating Direction Method of Multipliers (ADMM) algorithm, co-designed for reduced-precision arithmetic. We also develop a custom FPGA expansion board for the Crazyflie platform. Through these advances, we demonstrate fully onboard constrained MPC at high control frequencies, achieving approximately 15× lower solver latency and 200× improvement in energy–delay product relative to state-of-the-art baselines. This enables longer horizons, more solver iterations per control step, and more reliable constraint handling. In parallel, a preliminary feasibility analysis of mapping iterative optimization algorithms onto Intel’s Loihi 2 neuromorphic processor is explored as a promising direction toward ultra-low-power implementations in future work. Together, these contributions illustrate how algorithm-hardware co-design can significantly extend the practicality of optimization-based control on resource-constrained robotic platforms.
       
     </div>
   </div>

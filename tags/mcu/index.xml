@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/tags/mcu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RAYA: Learning Where and When to Intervene for Robot Recovery</title>
+      <link>https://a2r-lab.github.io/publication/raya/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/raya/</guid>
+      <description>We present RAYA, a hybrid learned-analytic framework that places a learned finite-horizon recoverability margin inside an optimal controller with hard constraints and pairs it with a bounded learned scheduler that shifts task weights to facilitate recovery. Across 7,200 simulation episodes per controller spanning quadrotor and autonomous-vehicle benchmarks, RAYA not only improves survival rates, but also transfers the learned components zero-shot to unseen trajectories, disturbances, plant shifts, and friction layouts. We developed an embedded realization of RAYA and deployed it on-board a 35g Crazyflie quadrotor. Across 40 combined hardware flights under wind with either aerodynamic mismatch or an unmodeled 40% motor-command loss, each of three baselines fails in all trials, while RAYA completes 10/10 six-cycle missions.</description>
+    </item>
     <item>
       <title>Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs</title>
       <link>https://a2r-lab.github.io/publication/optimizingatallscales/</link>

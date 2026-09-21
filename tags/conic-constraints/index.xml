@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/tags/conic-constraints/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solvers at the Edge: Embedded Optimization for Safe and Intelligent Robotics</title>
+      <link>https://a2r-lab.github.io/publication/mahajanthesis/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/mahajanthesis/</guid>
+      <description>This thesis studies structure-exploiting embedded optimization methods that extend cached Riccati-based MPC solvers for resource-constrained robotic systems. Building on first-order alternating direction method of multipliers (ADMM) solvers and offline caching, this thesis develops three complementary contributions. First, we develop conic extensions of embedded MPC solvers that support second-order cone constraints, allowing richer modeling of thrust, friction, and glideslope constraints while retaining real-time deployability on microcontrollers. Second, we present a semidefinite programming framework for embedded MPC that enables certifiable obstacle avoidance through lifted convex relaxations and an a posteriori rank-1 safety certificate. Third, we introduce First-Order Adaptive Caching, a sensitivity-based method for updating cached solver quantities online as the ADMM penalty parameter changes, improving convergence without sacrificing caching benefits. Together, these methods expand cached embedded MPC along three dimensions: expressiveness, safety, and robustness. Across simulation, microcontroller benchmarks, and Crazyflie hardware experiments, the resulting solvers demonstrate improvements in constraint handling, solve time, and safety-critical behavior under aggressive and dynamically changing conditions.</description>
+    </item>
     <item>
       <title>Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC</title>
       <link>https://a2r-lab.github.io/publication/conictinympc/</link>

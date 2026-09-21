@@ -17,6 +17,13 @@
       <description>AccelMPC pairs a co-designed FPGA-accelerated alternating direction method of multipliers (ADMM)-based MPC solver with a custom 6g PCB, providing high-bandwidth communication for deployment on a 35g Crazyflie. Hardware experiments demonstrate 1 kHz onboard constrained MPC with dynamic obstacles, up to 15.6x faster solve times and 195.4x improvement in energy-delay product over state-of-the-art embedded microcontroller-based solvers, all while scaling to optimization problems with over 20,000 optimization variables and a comparable number of constraints. We release our PCB design files, firmware, and FPGA solver code open source.</description>
     </item>
     <item>
+      <title>Hardware-Algorithm Co-Design for Real-Time Linear Model Predictive Control: FPGA Implementation and Deployment on a Resource-Constrained Quadrotor</title>
+      <link>https://a2r-lab.github.io/publication/grillothesis/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/grillothesis/</guid>
+      <description>This thesis investigates how alternative computer architectures can extend the capability of optimizationbased control on constrained robots, with demonstrations on a nano-quadrotor running linear MPC. The primary contribution is a hardware-accelerated linear MPC solver based on a custom FPGA datapath implementation of the Alternating Direction Method of Multipliers (ADMM) algorithm, co-designed for reduced-precision arithmetic. We also develop a custom FPGA expansion board for the Crazyflie platform. Through these advances, we demonstrate fully onboard constrained MPC at high control frequencies, achieving approximately 15× lower solver latency and 200× improvement in energy–delay product relative to state-of-the-art baselines. This enables longer horizons, more solver iterations per control step, and more reliable constraint handling. In parallel, a preliminary feasibility analysis of mapping iterative optimization algorithms onto Intel’s Loihi 2 neuromorphic processor is explored as a promising direction toward ultra-low-power implementations in future work. Together, these contributions illustrate how algorithm-hardware co-design can significantly extend the practicality of optimization-based control on resource-constrained robotic platforms.</description>
+    </item>
+    <item>
       <title>MPC Solver Hardware Generation Framework with Model-Specific Operation Fusion and Pruning</title>
       <link>https://a2r-lab.github.io/publication/fpgatinympc/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>

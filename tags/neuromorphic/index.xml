@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuromorphic on A²R Lab</title>
+    <link>https://a2r-lab.github.io/tags/neuromorphic/</link>
+    <description>Recent content in Neuromorphic on A²R Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://a2r-lab.github.io/tags/neuromorphic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hardware-Algorithm Co-Design for Real-Time Linear Model Predictive Control: FPGA Implementation and Deployment on a Resource-Constrained Quadrotor</title>
+      <link>https://a2r-lab.github.io/publication/grillothesis/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/grillothesis/</guid>
+      <description>This thesis investigates how alternative computer architectures can extend the capability of optimizationbased control on constrained robots, with demonstrations on a nano-quadrotor running linear MPC. The primary contribution is a hardware-accelerated linear MPC solver based on a custom FPGA datapath implementation of the Alternating Direction Method of Multipliers (ADMM) algorithm, co-designed for reduced-precision arithmetic. We also develop a custom FPGA expansion board for the Crazyflie platform. Through these advances, we demonstrate fully onboard constrained MPC at high control frequencies, achieving approximately 15× lower solver latency and 200× improvement in energy–delay product relative to state-of-the-art baselines. This enables longer horizons, more solver iterations per control step, and more reliable constraint handling. In parallel, a preliminary feasibility analysis of mapping iterative optimization algorithms onto Intel’s Loihi 2 neuromorphic processor is explored as a promising direction toward ultra-low-power implementations in future work. Together, these contributions illustrate how algorithm-hardware co-design can significantly extend the practicality of optimization-based control on resource-constrained robotic platforms.</description>
+    </item>
+  </channel>
+</rss>
