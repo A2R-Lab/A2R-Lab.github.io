@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a2r-lab.github.io/tags/admm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Efficient ADMM for Soft-Constrained Quadratic Programs via Generalized Slack Projections</title>
+      <link>https://a2r-lab.github.io/publication/osqpslack/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/osqpslack/</guid>
+      <description>we propose an Alternating Direction Method of Multipliers (ADMM) scheme for a broad class of convex slack penalty functions, including all ℓk-norms, without increasing the problem size. The only change to the ADMM scheme is a modified slack projection function, while the remaining algorithm stays the same. We demonstrate our approach on numerical examples, showing significant speedups, and show its flexibility on an energy optimization problem.</description>
+    </item>
     <item>
       <title>Solving Quadratic Programs with Slack Variables via ADMM without Increasing the Problem Size</title>
       <link>https://a2r-lab.github.io/publication/admmslack/</link>

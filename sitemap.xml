@@ -44,6 +44,24 @@
     <loc>https://a2r-lab.github.io/tags/trajectory-optimization/</loc>
     <lastmod>2026-11-09T00:00:03+00:00</lastmod>
   </url><url>
+    <loc>https://a2r-lab.github.io/authors/rolandschwan/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/thomaslew/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication_types/3/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/admm/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/osqpslack/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/optimal-control/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/authors/andrewliu/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -69,9 +87,6 @@
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/chihhuang/</loc>
-    <lastmod>2026-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/publication_types/3/</loc>
     <lastmod>2026-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/a.s.a.o./</loc>
@@ -188,16 +203,7 @@
     <loc>https://a2r-lab.github.io/authors/marcusgreiff/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/thomaslew/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication_types/2/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/admm/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/optimal-control/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/admmslack/</loc>
@@ -1264,8 +1270,6 @@
     <loc>https://a2r-lab.github.io/authors/nolantremmeling/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/pataradayontrarak/</loc>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/rolandschwan/</loc>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/samarthagrawal/</loc>
   </url><url>

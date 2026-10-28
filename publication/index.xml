@@ -17,6 +17,13 @@
       <description>We present MPC-Injection, a low-overhead method that steers RL toward a designer-preferred gait by inserting transitions into the replay buffer from a model predictive controller solving the same Markov decision process. Unlike reward shaping, MPC-Injection does not require redesigning the task reward, and unlike adversarial imitation learning, it adds no discriminator, no kinematic retargeting, and no auxiliary objective. Instead, the controller&amp;rsquo;s preferred behavior is transferred to the policy purely through the replay state distribution.</description>
     </item>
     <item>
+      <title>Efficient ADMM for Soft-Constrained Quadratic Programs via Generalized Slack Projections</title>
+      <link>https://a2r-lab.github.io/publication/osqpslack/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/osqpslack/</guid>
+      <description>we propose an Alternating Direction Method of Multipliers (ADMM) scheme for a broad class of convex slack penalty functions, including all ℓk-norms, without increasing the problem size. The only change to the ADMM scheme is a modified slack projection function, while the remaining algorithm stays the same. We demonstrate our approach on numerical examples, showing significant speedups, and show its flexibility on an energy optimization problem.</description>
+    </item>
+    <item>
       <title>HJCD-IK: GPU-Accelerated Inverse Kinematics through Batched Hybrid Jacobian Coordinate Descent</title>
       <link>https://a2r-lab.github.io/publication/hjcdik/</link>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
