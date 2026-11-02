@@ -6,7 +6,7 @@
   padding-bottom: 56.25%;
   overflow: hidden;
   border-radius: 8px;
-  background: #162431;
+  background: transparent;
 }
 .research-highlights-frame video,
 .research-highlights-frame img,
@@ -15,9 +15,12 @@
   inset: 0;
   width: 100%;
   height: 100%;
+  max-width: none;
+  max-height: none;
   object-fit: contain;
 }
 .research-highlights-placeholder {
+  background: #162431;
   display: flex;
   align-items: center;
   justify-content: center;
