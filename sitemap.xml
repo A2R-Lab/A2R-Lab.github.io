@@ -62,6 +62,36 @@
     <loc>https://a2r-lab.github.io/tags/optimal-control/</loc>
     <lastmod>2026-10-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://a2r-lab.github.io/authors/gabrielbravo/</loc>
+    <lastmod>2026-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/jianghanzhang/</loc>
+    <lastmod>2026-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/authors/johnzhang/</loc>
+    <lastmod>2026-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/differentiable/</loc>
+    <lastmod>2026-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/publication/smoothedturbompc/</loc>
+    <lastmod>2026-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/gpu/</loc>
+    <lastmod>2026-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/hardware-acceleration/</loc>
+    <lastmod>2026-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/mpc/</loc>
+    <lastmod>2026-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/parallel-computing/</loc>
+    <lastmod>2026-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2r-lab.github.io/tags/shac/</loc>
+    <lastmod>2026-10-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2r-lab.github.io/authors/andrewliu/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -71,9 +101,6 @@
     <loc>https://a2r-lab.github.io/authors/zacharykingston/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/tags/gpu/</loc>
-    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/publication/hjcdik/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -81,9 +108,6 @@
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/motion-planning/</loc>
-    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/parallel-computing/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/chihhuang/</loc>
@@ -102,9 +126,6 @@
     <lastmod>2026-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/tags/continuous-integration/</loc>
-    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/hardware-acceleration/</loc>
     <lastmod>2026-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/pytest-gpu-proof/</loc>
@@ -149,9 +170,6 @@
     <loc>https://a2r-lab.github.io/tags/mcu/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/tags/mpc/</loc>
-    <lastmod>2026-09-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/tags/numerical-optimziation/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -181,9 +199,6 @@
   </url><url>
     <loc>https://a2r-lab.github.io/tags/fpga/</loc>
     <lastmod>2026-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/authors/gabrielbravo/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/authors/luyaozhang/</loc>
     <lastmod>2026-08-23T00:00:00+00:00</lastmod>
@@ -224,13 +239,7 @@
     <loc>https://a2r-lab.github.io/publication/tinysdp/</loc>
     <lastmod>2026-07-13T00:00:05+00:00</lastmod>
   </url><url>
-    <loc>https://a2r-lab.github.io/authors/jianghanzhang/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a2r-lab.github.io/authors/zacharypestrikov/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2r-lab.github.io/tags/differentiable/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2r-lab.github.io/publication/turbompc/</loc>

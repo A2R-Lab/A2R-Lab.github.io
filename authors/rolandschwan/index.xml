@@ -23,5 +23,12 @@
       <guid>https://a2r-lab.github.io/publication/osqpslack/</guid>
       <description>we propose an Alternating Direction Method of Multipliers (ADMM) scheme for a broad class of convex slack penalty functions, including all ℓk-norms, without increasing the problem size. The only change to the ADMM scheme is a modified slack projection function, while the remaining algorithm stays the same. We demonstrate our approach on numerical examples, showing significant speedups, and show its flexibility on an energy optimization problem.</description>
     </item>
+    <item>
+      <title>Efficient Learning of Differentiable MPC Policies on the GPU via Smoothed ADMM and First-Order Reinforcement Learning</title>
+      <link>https://a2r-lab.github.io/publication/smoothedturbompc/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://a2r-lab.github.io/publication/smoothedturbompc/</guid>
+      <description>We first introduce SmoothedTurboMPC, a GPU-parallel differentiable MPC solver combining sequential quadratic programming (SQP) with a log-barrier-smoothed alternating direction method of multipliers (ADMM) inner solver. Its design enables smooth gradients, exact sensitivities at convergence, and efficient execution on GPUs. Second, to efficiently train MPC policies, we pair our solver with first-order reinforcement learning (FORL) using Short-Horizon Actor-Critic (SHAC), which reuses rollout MPC solutions instead of repeatedly re-evaluating them. Comparisons with state of the art solvers show that the approach achieves up to 4.4× higher end-to-end training throughput. On a vehicle racing task, our method achieves higher returns than MPC PPO with a 46× speedup, training on 3.3 million transitions in only 7 minutes. Finally, we use the framework to train a more reliable MPC racing policy via RL with domain randomization, and validate it on a full-scale race car. We integrate our advances into the open-source TurboMPC solver.</description>
+    </item>
   </channel>
 </rss>
